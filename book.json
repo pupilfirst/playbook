@@ -1,0 +1,9 @@
+{ 
+  "gitbook": ">=2.0.0",
+  "title": "The Startup Village Manual",
+  "description": "A guide to becoming a great entrepreneur & learning life lessons via building great companies and products.",
+  "language": "en",
+  "structure": {
+    "readme": "introduction.md"
+  }
+}
