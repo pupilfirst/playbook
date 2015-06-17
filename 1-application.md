@@ -2,7 +2,7 @@
 
 The Startup Village application is entirely online. You start by going to the [application page](http://sv.co/apply) and creating an SV.co ID. An SV.co ID is an account associated with your email address that is used for all things Startup Village.
 
-!TODO: Images of the SV ID Creation Process
+![Image of SV ID Creation Process](images/placeholder.jpg)
 
 All founders of a startup need to have separate SV IDs to apply. But when you submit your startup application, it's best if one founder starts and completes the application process.
 
@@ -10,7 +10,7 @@ All founders of a startup need to have separate SV IDs to apply. But when you su
 
 During the process, you submit your idea, add your team members, and submit your initial idea slides. Once your slides are evaluated and accepted, you are in!
 
-!TODO: Images of the application process
+![Images of the application process](images/placeholder.jpg)
 
 ## Application Evaluation
 When you apply, we evaluate you based on your idea and business model as you've demonstrated in your product slides. The [Idea Discovery stage](!TODO: link) has more resources on how to prepare great slides. 

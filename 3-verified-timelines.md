@@ -29,15 +29,15 @@ There are a few concepts you should understand:
 
 Here are few example of common timeline events:
 
-!TODO: Image of a few timeline events
+![Image of a few timeline events](images/placeholder.jpg)
 
 Here's how an iteration is represented, and where a pivot happens:
 
-!TODO: Image of iteration
+![Image of iteration](images/placeholder.jpg)
 
 Here's when a team moved back from a Customer Validation stage back to the Idea Discovery stage:
 
-!TODO: Image
+![Image of a pivot back to an earlier stage](images/placeholder.jpg)
 
 ## Keep your Timelines Updated
 
