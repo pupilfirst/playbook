@@ -18,13 +18,13 @@ Verified timelines are aimed at tackling one of the biggest problems a new entre
 
 This is what a typical timeline looks like:
 
-!TODO: Image of timeline from some good startup with multiple iterations.
+![Image of timeline from some good startup with multiple iterations.](images/placeholder.jpg)
 
 There are a few concepts you should understand:
 
 * **Timeline events** are notable milestones in your startup journey. These could be for example: a team member joining, a fundraising event, registering with MSME, or developing a new prototype. All timeline events are verified by Startup Village.
-* **Iterations** are different versions of your startup. You may perhaps start with one idea and decide there is no demand, and start a new iteration with another idea.
-* **Pivots** happen when you launch a new iteration. Pivots are common, and often a useful tool to focus your team on a different idea.
+* **Iterations** are different versions of your product. You may perhaps start with one idea and decide that a part of it is not working as intended, and then launch an improved version to test.
+* **Pivots** happen when you launch a new product because your old one wasn't achieving traction. Pivots are common, and often a useful tool to focus your team on a different idea.
 * **Stages** are stages of your startup journey. At SV.co [we support startups through five stages](!TODO: link to stages). Note that when you pivot and start a new iteration you might go back a stage. This is perfectly OK! As an example, a team can develop an idea until the Scaling stage and decide that while they have customer adoption, the product is too hard to scale. They can then go back to the drawing board, refine the idea based on their learnings & new skills and build a new product entirely. In fact, this is encouraged.
 
 Here are few example of common timeline events:
@@ -60,6 +60,37 @@ There are several reasons that entrepreneurs usually think up *not to* update th
    Also please note that we have six avenues to graduate. Please talk to your SV.co representative and figure out more options.
    
 In fact if there's one good reason to not update your timelines it's that there's something exciting happening to you that you'd like to update but it's something that we don't currently verify. Please talk to your SV.co representative and let's add that timeline event in.
+
+## Verified Timeline Events
+
+Here's an exhaustive list of timeline events we record and verify:
+
+| Event | Timeline Icon | Description | Additional Details Required for Verification |
+| ----- | ------------- | ----------- | -------------------------------------------- |
+| Founded | | This is to record when you founded your company | List cofounder details, and for bonus points, their resume |
+| A Key Team Member Joined | | This is to record when a key team member joins (perhaps a great sales person?) | List key team member details, and for bonus points, their resume |
+| Co-Founder Left | | This is to record when a cofounder leaves your startup. | List the cofounder that left |
+| Legally Incorporated | | This is when you legally incorporate, as an Private Limited or a Partnership | Copy of the Partnership Deed or Private Limited Registration Details |
+| Accelerator program | | This is when you are formally accepted at a recognized startup accelerator program. | Copy of the acceptance. |
+| Acquired by | | This is when you get acquired by another company. | Copy of the acquisition details including deal details. | 
+| Applied for patent | | This is when you apply for a patent. | Copy of the patent application details. |
+| Associated with SV | | This is when you successfully apply to Startup Village | This is an automatic event generated when you first join Startup Village | 
+| Attended Event |  | This is to record your team attending a notable event | Copy of invites or tickets | 
+| Collaboration | | This is when you collaborate with another startup or an academic institution | Copy & details of collaboration |
+| Developed the First Prototype | | This records your first prototype creation | A demonstration of your prototype. |
+| Investor Joined | | This is when an investor joins your team as an advisor or core member | Details of the Investor who joined, their LinkedIn or Angelist profile and for bonus points, their resume |
+| Mentor Joined | | This is when a mentor decides to advise your team | Details of the Mentor, their LinkedIn or Angelist profile and for bonus points, their resume | 
+| Monthly revenue crossed | | This is when you cross an internal revenue milestone | A copy of your invoice records or a self-signed or internally audited P&L statement |
+| Pivot | | When you change your product to a new one | A record of what went wrong with your previous try, and why you are pivoting to this new product |
+| Product Iteration | | When you refine or add new features to an existing product | A record of what was working & not with your previous iteration and what you think will work in this new version |
+| Raised Angel Funding | | When you raise funding from an angel investor | Details of the funding round and investor details |
+| Raised Series A Funding | | When you raise funding from a professional equity investor | Details of the funding round, including term sheets and pre & post-money valuations in addition to detailed investor details |
+| Received Seed Fund | | When you receive a seed fund for a particular purpose | Details of the seed fund received |
+| Received Soft Loan | | When you receive a lower-interest soft-loan | Details of the loan received and issuing entity |
+| Relocate to City | | When you decide to relocate your team | Details of your old and new offices and why you decided to relocate |
+| Sets Mission | | When you set a new mission for your team | Details of your old and new mission, and why the change |
+| Showcase | | When your product gets showcased at a notable media outlet | Link to the showcase and why it's notable |
+| Won Award | | When your product or your startups wins an award | Link to the award and why it's notable |
 
 ## Next Steps
 
