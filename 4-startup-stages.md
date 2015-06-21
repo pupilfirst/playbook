@@ -4,19 +4,19 @@ The basis of the SV.co platform for event verification is startup stages. We've 
 
 When you join Startup Village, your representative will classify you into one of these five stages:
 
-* Idea Discovery
+* **Idea Discovery**
 
   This is where the startup discovers a product idea that solves a clear user need.
-* Prototyping
+* **Prototyping**
 
   This is where the team develops a prototype that is a solution to the product idea.
-* Customer Validation
+* **Customer Validation**
 
   This is when customers either use or pay for the product.
-* Efficiency
+* **Efficiency**
 
   This is where customer acquisition is refined and a sound business model is discovered.
-* Scale
+* **Scale**
 
   This is when startups try to aggressively grow.
 
@@ -29,7 +29,7 @@ Some important points to note before we proceed:
 * Do keep in mind that as we've mentioned before, at Startup Village, there are [six ways to succeed](introduction.md).
 
 ## Next Steps
-Just like startup stages, another important concept to understand is that of [Startup Roles](5-startup-roles).
+Just like startup stages, another important concept to understand is that of [Startup Roles](5-startup-roles.md).
 
 
 [^1]: Startup Genome Report: [PDF Version](https://s3.amazonaws.com/startupcompass-public/StartupGenomeReport1_Why_Startups_Succeed_v2.pdf).
