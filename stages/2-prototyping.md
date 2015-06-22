@@ -1,6 +1,6 @@
 # Prototyping
 
-While you might create some artefacts during the Idea Discovery stage, it's at Prototyping that your team shows off the first version of your product. This is a crucial intermediary step where the Engineering role has prominence. Prototyping also helps you refine your initial idea, and to weed out parts that are not feasible to build with your current team.
+While you might create some artifacts during the Idea Discovery stage, it's at Prototyping that your team shows off the first version of your product. This is a crucial intermediary step where the Engineering role has prominence. Prototyping also helps you refine your initial idea, and to weed out parts that are not feasible to build with your current team.
 
 There are two different kinds of prototypes you can build:
 
@@ -49,11 +49,20 @@ The average duration of the Prototyping stage is 3-5 months.
 ## Common Failures
 
 * Startups fail at this stage when they are not able to build a high-fidelity prototype. This usually points to failures within their Engineering role, but at times issues are more systemic: perhaps the Idea they discovered could have been too ambitious.
-* Another common failure is to attempt to build too much. While protoypes much exhaustively test core features, ancialliary features should be left untested so that teams can build within the budget available.
+* Another common failure is to attempt to build too much. While prototypes much exhaustively test core features, ancillary features should be left untested so that teams can build within the budget available.
 
 ## Product Role
 
 ## Engineering Role
+
+The Engineering Role during Prototyping is all about building. The resources below all reflect that.
+
+Resources:
+
+* [Rubymonk)](https://rubymonk.com) is a great resource to learn Ruby (a great programming language for prototyping web apps) and more interestingly, TDD or Test-Driven Development, a method to build more maintainable software.
+* This [Udacity course on Android](https://www.udacity.com/course/ud853) gives you a great introduction to build Android apps.
+* This [iTunes U Stanford Course](https://itunes.apple.com/bj/course/developing-ios-8-apps-swift/id961180099) will teach you build great iOS applications in Swift.
+* If you are building a hardware prototype, these [series of video lectures](https://www.youtube.com/watch?t=10&v=U2fUvCFNyI0) will teach you to build one using Arduino. 
 
 ## Marketing & Sales Role
 
@@ -61,4 +70,7 @@ The average duration of the Prototyping stage is 3-5 months.
 
 ## Design Role
 
+* [What makes a Design Intuitive](https://startupclass.co/courses/how-to-start-a-startup/lectures/64065) is a great read from Startup Class. It's got pointers to think about when designing your prototype.
+
 ## Proceeding to Customer Validation
+
