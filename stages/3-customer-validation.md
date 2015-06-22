@@ -9,7 +9,9 @@ Customer Validation is an important milestone towards value creation because thi
 * Cohort Analysis is crucial to properly measuring Validation. Cohort analysis is where startups measure user behavior by segmenting them into groups, usually ordered by when they joined. This gives a clear picture of whether iterations of your product improve engagement.
 * Qualitative metrics can also be useful towards validation. Asking users questions after success and failure scenarios can collect quite a bit of data that might be useful to pivot your product. In addition, monitoring open forums where customer can give feedback (social media sites such as Twitter or Facebook, or specific user forums such as Uservoice) is also important.
 
-While these are the types of metrics that are important, only you can decide the targets for these metrics because they vary widely based on the type of startup and the industry you are in. To get help on setting targets, talk to mentors at SV.co.
+While these are the types of metrics that are important, only you can decide the targets for these metrics because they vary widely based on the type of startup and the industry you are in. To get help on setting targets, talk to mentors at SV.co. 
+
+For the Customer Validation stage, the Product, the Marketing & Sales and the Governance roles are equally important.
 
 ## Typical Activities
 These are the typical milestones in the Customer Validation stage:
@@ -58,6 +60,8 @@ Resources:
 ## Marketing & Sales Role
 
 * For App Marketers, it's useful to understand [ASO](https://en.wikipedia.org/wiki/App_store_optimization).
+* [UserVoice](https://www.uservoice.com) is great for setting up forums for your customers.
+* [Buffer](https://buffer.com) is great for scheduling posts and sharing on social media.
 
 ## Governance Role
 
