@@ -12,3 +12,5 @@
     * [Efficiency](stages/4-efficiency.md)
     * [Scale](stages/5-scale.md)
 * [Graduation](6-graduation.md)
+* [Contributing to this guide](CONTRIBUTING.md)
+* [Licensed as CC-BY](LICENSE.md)
