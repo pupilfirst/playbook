@@ -7,7 +7,7 @@ When you join Startup Village, your representative will classify you into one of
 * [**Idea Discovery**](stages/1-idea-discovery.md)
 
   This is where the startup discovers a product idea that solves a clear user need.
-* **Prototyping**
+* [**Prototyping**](stages/2-prototyping.md)
 
   This is where the team develops a prototype that is a solution to the product idea.
 * **Customer Validation**

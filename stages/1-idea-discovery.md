@@ -1,6 +1,6 @@
 # Idea Discovery
 
-The Idea Discovery stage is the first (& perhaps most least understood) stage in a startup. Entrepreneurs are always in a rush to build something so there's a huge tendency to skimp on this stage. Well, why shouldn't you? To understand this, let's examine two harsh realities in the life of any entrepreneur.
+The Idea Discovery stage is the first (& perhaps least understood) stage in a startup. Entrepreneurs are always in a rush to build something so there's a huge tendency to skimp on this stage. Well, why shouldn't you? To understand this, let's examine two harsh realities in the life of any entrepreneur.
 
 1. **To make a viable business, you have to build a product that your customers want.**
 
@@ -63,7 +63,7 @@ Resources:
 
 * [Are Your Lights On? - How to Figure Out What the Problem Really Is](http://www.amazon.in/Are-Your-Lights-Figure-Problem/dp/0932633161/ref=sr_1_1?ie=UTF8&qid=1429623285&sr=8-1&keywords=Are+Your+Lights+On%3F%3A+How+to+Figure+Out+What+the+Problem+Really+Is) is one of the best books about problem solving. Engineers spend most of their time solving problems in code. Identifying what the business problem really is, and finding the best and most maintainable way to solve it is crucial.
 * [Good Programming is like Good Writing](http://bigthink.com/videos/good-programming-is-like-good-writing) expounds on one of the best comparisons to programming possible: that of writing.
-* [SCRUM](https://en.wikipedia.org/wiki/Scrum_(software_development)), the Wikipedia page has a series of pointers on this Agile development method and why it's useful. Great SCRUM practices are a good way to drive constant iterative development.
+* [SCRUM](https://en.wikipedia.org/wiki/Scrum_%28software_development%29), the Wikipedia page has a series of pointers on this Agile development method and why it's useful. Great SCRUM practices are a good way to drive constant iterative development.
 * Version Control is one of the basic hygiene activities that Software Engineers must adopt. Even if you are working in the Hardware space, finding a way to version your assets is crucial. Here's [an interactive tutorial for Git](https://try.github.io), one very popular source control management tool.
 
 ## Marketing & Sales Role
@@ -83,3 +83,7 @@ Resources:
 * For visual and user-interface design, there's no better site to follow than [Behance](https://www.behance.net), especially the [Graphic Design](https://www.behance.net/search?field=44&content=projects&sort=appreciations&time=week) and [UI/UX sections](https://www.behance.net/search?field=132&content=projects&sort=appreciations&time=week).
 * The video [Principles of Good Design](https://www.youtube.com/watch?v=RWoprlPMBnA) brings together two of the most well-known designers in recent times: Dieter Rams & Jonathan Ive to describe what is considered the fundamental principles of great design.
 * And to top it off, here's the original quote by Steve Jobs: [Design is How it Works](https://www.youtube.com/watch?v=sPfJQmpg5zk)
+
+## Proceeding to Prototyping
+
+Once you've conceptualized an idea your team thinks is promising, it's time to proceed to [Prototyping](stages/2-prototyping.md).
