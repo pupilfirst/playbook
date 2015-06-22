@@ -53,7 +53,7 @@ The average duration of the Prototyping stage is 3-5 months.
 * Another common failure is to attempt to build too much. While prototypes much exhaustively test core features, ancillary features should be left untested so that teams can build within the budget available.
 
 ## Product Role
-Product folks are crucially involved during the protoyping stage building out the product. But this is also a good time to explore other solutions to your idea. A good understanding of a competitor landscape can be crucial at this stage.
+Product folks are crucially involved during the prototyping stage building out the product. But this is also a good time to explore other solutions to your idea. A good understanding of a competitor landscape can be crucial at this stage.
 
 Resources:
 

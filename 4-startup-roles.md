@@ -29,7 +29,7 @@ It's cohesive working of these five roles that builds a good startup team and su
 
 ## Can I Wear Multiple Hats?
 
-In a small startup team, it's the norm for a founder to wear multiple hats. As an example, perhaps the Product person also is the Engineer who bootstraps the product. Or one founder takes care of both the Marketing & Sales roles and Goveranance. While we think this practice is okay, we can't stress the importance of having these role distinctions learnt from day one. And as startups mature, towards the latter stages, most of these roles become full-time jobs.
+In a small startup team, it's the norm for a founder to wear multiple hats. As an example, perhaps the Product person also is the Engineer who bootstraps the product. Or one founder takes care of both the Marketing & Sales roles and Governance. While we think this practice is okay, we can't stress the importance of having these role distinctions learnt from day one. And as startups mature, towards the latter stages, most of these roles become full-time jobs.
 
 Role groupings that usually go together:
 
