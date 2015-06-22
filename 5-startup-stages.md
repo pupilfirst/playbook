@@ -20,7 +20,7 @@ When you join Startup Village, your representative will classify you into one of
 
   This is when startups try to aggressively grow.
 
-![Illustration of Stages](images/placeholder.jpg)
+![Illustration of Risk and Ambiguity across Stages](images/placeholder.jpg)
 
 Some important points to note before we proceed:
 

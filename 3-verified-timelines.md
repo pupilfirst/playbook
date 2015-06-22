@@ -69,7 +69,7 @@ Here's an exhaustive list of timeline events we record and verify:
 | ----- | ------------- | ----------- | -------------------------------------------- |
 | Founded | | This is to record when you founded your company | List cofounder details, and for bonus points, their resume |
 | A Key Team Member Joined | | This is to record when a key team member joins (perhaps a great sales person?) | List key team member details, and for bonus points, their resume |
-| Co-Founder Left | | This is to record when a cofounder leaves your startup. | List the cofounder that left |
+| Co-Founder Left | | This is to record when a cofounder leaves your startup. | List the cofounder who left |
 | Legally Incorporated | | This is when you legally incorporate, as an Private Limited or a Partnership | Copy of the Partnership Deed or Private Limited Registration Details |
 | Accelerator program | | This is when you are formally accepted at a recognized startup accelerator program. | Copy of the acceptance. |
 | Acquired by | | This is when you get acquired by another company. | Copy of the acquisition details including deal details. | 

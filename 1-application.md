@@ -1,5 +1,11 @@
 # The Startup Village Application
 
+## Eligibility
+
+Any founding team can apply to join Startup Village. We don't have specific criteria in terms of the business sectors we accept or the type of products (hardware or software) you build. But **we're structured to best help first time founders**. If you are the a founder right out of college, or you are thinking of starting up but don't know how to, you are welcome to join.[^1]
+
+## Applying
+
 The Startup Village application is entirely online. You start by going to the [application page](http://sv.co/apply) and creating an SV.co ID. An SV.co ID is an account associated with your email address that is used for all things Startup Village.
 
 ![Image of SV ID Creation Process](images/placeholder.jpg)
@@ -21,3 +27,6 @@ If your application is rejected, a Startup Village representative will contact y
 
 ## Acceptance
 If you are accepted, the next step is to sign a [formal legal agreement with Startup Village](2-legal-agreement.md). 
+
+---
+[^1]: This doesn't mean we discriminate against experienced founders. On the contrary, you'll probably get accepted faster and move through stages quicker. If you think we can add value, we'll be happy to help!
