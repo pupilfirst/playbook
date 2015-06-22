@@ -1,16 +1,22 @@
 # Customer Validation
-
+Moving from prototyping and feedback from a small set of customers to the "real world" where an increasing number of customers use and give feedback on your product is when startups hit the Customer Validation stage. The aim of this stage to hit the "product-market fit". Defined simply, Product-Market fit happens when the market (your customers) pay enough money or attention to your product to justify its creation. But, how much is good enough?
 
 ## Defining Validation
 
+Customer Validation is an important milestone towards value creation because this is where you define metrics for your product that serves as success indicators. For every startup, these metrics are different, but there are a few common groupings:
 
+* Monthly Active Users (or MAU) is a standard metric that is used to track customer attention. Typically, you will decide a threshold of MAUs to be reached for the product to move into the next stage, and also track the rate of change for this metric.
+* Cohort Analysis is crucial to properly measuring Validation. Cohort analysis is where startups measure user behavior by segmenting them into groups, usually ordered by when they joined. This gives a clear picture of whether iterations of your product improve engagement.
+* Qualitative metrics can also be useful towards validation. Asking users questions after success and failure scenarios can collect quite a bit of data that might be useful to pivot your product. In addition, monitoring open forums where customer can give feedback (social media sites such as Twitter or Facebook, or specific user forums such as Uservoice) is also important.
+
+While these are the types of metrics that are important, only you can decide the targets for these metrics because they vary widely based on the type of startup and the industry you are in. To get help on setting targets, talk to mentors at SV.co.
 
 ## Typical Activities
 These are the typical milestones in the Customer Validation stage:
 
-* Refinement of core features, 
+* Refinement of Features
 * User growth
-* Metrics and Analytics implementation, 
+* Metrics and Analytics implementation
 * Seed funding
 * Hiring Key Employees
 * Pivots (if necessary)
@@ -46,7 +52,7 @@ Resources:
 * Engineers must understand frameworks available for [A/B Testing](https://en.wikipedia.org/wiki/A/B_testing), a crucial tool available during this stage to design experiments.
 * A good familiarity with the [NIH Syndrome](https://en.wikipedia.org/wiki/Not_invented_here) is essential. Put simply, instead of reinventing the wheel, learn how other companies solve similar problems and adopt their tools and solutions.
 * Setting up [Continuous Integration](http://youandthegang.com/2015/continuous-integration-delivery-with-jenkins/) at this stage is nice!
-* [Librato](https://www.librato.com) is an easy turnkey solution to collect metrics. It's built on top of the opensource [Collectd](https://collectd.org) and [Graphite](http://graphite.wikidot.com). [Grafana](http://grafana.org) is an alternative to Librato that is free.
+* [Librato](https://www.librato.com) is an easy turnkey solution to collect metrics. It's built on top of the open-source [Collectd](https://collectd.org) and [Graphite](http://graphite.wikidot.com). [Grafana](http://grafana.org) is an alternative to Librato that is free.
 
 
 ## Marketing & Sales Role
@@ -65,3 +71,4 @@ Resources:
 
 ## Proceeding to Efficiency
 
+Once you've hit your target metrics and you have a viable business plan in mind, move on to [Efficiency](4-efficiency.md).
