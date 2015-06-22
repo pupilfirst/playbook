@@ -12,14 +12,14 @@ The Startup Village application is entirely online. You start by going to the [a
 
 All founders of a startup need to have separate SV IDs to apply. But when you submit your startup application, it's best if one founder starts and completes the application process.
 
-*Note*: if you don't have an idea or a team yet, you are in the Idea Discovery stage, and you can't apply to Startup Village yet. But don't fret: read our notes on the [Idea Discovery stage](!TODO: link) to proceed.
+*Note*: if you don't have an idea or a team yet, you are in the Idea Discovery stage, and you can't apply to Startup Village yet. But don't fret: read our notes on the [Idea Discovery stage](stages/1-idea-discovery.md) to proceed.
 
 During the process, you submit your idea, add your team members, and submit your initial idea slides. Once your slides are evaluated and accepted, you are in!
 
 ![Images of the application process](images/placeholder.jpg)
 
 ## Application Evaluation
-When you apply, we evaluate you based on your idea and business model as you've demonstrated in your product slides. The [Idea Discovery stage](!TODO: link) has more resources on how to prepare great slides. 
+When you apply, we evaluate you based on your idea and business model as you've demonstrated in your product slides. The [Idea Discovery stage](stages/1-idea-discovery.md) has more resources on how to prepare great slides. 
 
 If your application is rejected, a Startup Village representative will contact you with pointers, and ideas about how to re-apply. Unlike other startup accelerators or incubators, Startup Village does not have selection criteria based on the sector of your business or qualifications of your team. What we evaluate is the soundness of your proposal and how well you have thought out your product pitch.
 
