@@ -86,4 +86,4 @@ Resources:
 
 ## Proceeding to Prototyping
 
-Once you've conceptualized an idea your team thinks is promising, it's time to proceed to [Prototyping](stages/2-prototyping.md).
+Once you've conceptualized an idea your team thinks is promising, it's time to proceed to [Prototyping](2-prototyping.md).
