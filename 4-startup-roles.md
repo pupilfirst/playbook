@@ -45,6 +45,8 @@ How do you pick a role? We think it's best to follow your passion:
 * If you have training in finance or as a chartered accountant or a lawyer, you should pick the Governance role.
 * If you have a background in Design, it's obvious which role you should pick.
 
+Another important note: for us, designations don't matter, roles do. What does this mean? You might call yourself a CEO, but if you are not performing one of the five roles above, then you are not adding value to your company. Titles matter not at all except on your business card.
+
 ## Next Steps
 
 What's the most important role? It's surprising how often we hear this question from young entrepreneurs. The answer should be obvious: all of them are. But that's probably reads a non-answer to you. The reason for this is that the importance of roles waxes and wanes as we move between stages. In the Idea Discovery stage for example, the Product person has a very important role to play to flesh out the product and its iterations. Similarly, the Prototype stage cannot be completed without an effective Engineer. Does this mean that in these stages the other roles are sitting idle?

@@ -11,4 +11,4 @@
     * [Customer Validation](stages/3-customer-validation.md)
     * [Efficiency](stages/4-efficiency.md)
     * [Scale](stages/5-scale.md)
-
+* [Graduation](6-graduation.md)
