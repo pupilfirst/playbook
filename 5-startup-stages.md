@@ -29,7 +29,7 @@ Some important points to note before we proceed:
 * Do keep in mind that as we've mentioned before, at Startup Village, there are [six ways to succeed](introduction.md).
 
 ## Next Steps
-Just like startup stages, another important concept to understand is that of [Startup Roles](5-startup-roles.md).
+Let's move on to describing the first stage: [Idea Discovery](stages/1-idea-discovery.md).
 
 
 [^1]: Startup Genome Report: [PDF Version](https://s3.amazonaws.com/startupcompass-public/StartupGenomeReport1_Why_Startups_Succeed_v2.pdf).

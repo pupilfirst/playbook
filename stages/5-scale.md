@@ -1,13 +1,8 @@
-# Customer Validation
+# Scale
 
-
-## Defining Validation
-
-
+## Scaling Fast
 
 ## Typical Activities
-
-
 
 ## Average Duration
 
@@ -23,5 +18,5 @@
 
 ## Design Role
 
-## Proceeding to Efficiency
+## Graduation
 

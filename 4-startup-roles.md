@@ -1,6 +1,6 @@
 # Startup Roles
 
-Just like there are five stages, in a good startup, founders pay attention to five roles:
+In a good startup, founders pay attention to five roles:
 
 * Product
 
@@ -49,5 +49,5 @@ How do you pick a role? We think it's best to follow your passion:
 
 What's the most important role? It's surprising how often we hear this question from young entrepreneurs. The answer should be obvious: all of them are. But that's probably reads a non-answer to you. The reason for this is that the importance of roles waxes and wanes as we move between stages. In the Idea Discovery stage for example, the Product person has a very important role to play to flesh out the product and its iterations. Similarly, the Prototype stage cannot be completed without an effective Engineer. Does this mean that in these stages the other roles are sitting idle?
 
-As we'll see, every role plays a crucial part in every stage. Let's start with the [Idea Discovery stage](6-idea-discovery.md).
+As we'll see, every role plays a crucial part in every stage. Let's now talk about [Startup Stages](5-startup-stages.md).
 
