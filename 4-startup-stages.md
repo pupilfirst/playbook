@@ -4,7 +4,7 @@ The basis of the SV.co platform for event verification is startup stages. We've 
 
 When you join Startup Village, your representative will classify you into one of these five stages:
 
-* **Idea Discovery**
+* [**Idea Discovery**](stages/1-idea-discovery.md)
 
   This is where the startup discovers a product idea that solves a clear user need.
 * **Prototyping**

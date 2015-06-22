@@ -5,11 +5,11 @@ The Idea Discovery stage is the first (& perhaps most least understood) stage in
 1. **To make a viable business, you have to build a product that your customers want.**
 
    Please read that sentence again. The corollary is that **if you don't make a product that people want**, your business will fail right from day one. The intent of the Idea Discovery stage is to hit upon a product idea that people do want.
-   
+
 2. **On average, to make any business viable, an entrepreneur spends 4-8 years.**
 
    Let that sink in. Even if your product idea is great, it'll take you up to eight years to succeed. If you idea isn't however, you've lost a lot of time working on something people wouldn't want. If you are going to spend a significant chunk of your working life on a startup, why shouldn't you take some time and think about if you are working on the right idea?
-   
+
 ## The Right Idea
 
 Let's get this straight from day one: there's no formula or checklist for what makes an idea great. Nobody predicted the success of Twitter, and even fewer predicted the rise of casual games such as Angry Birds. Sure, after the fact there were signs pointing to such products being ripe, but it's hard to predict the future. However, all is not lost: there are three tests entrepreneurs use to figure out a "possibly good" idea.
@@ -17,15 +17,15 @@ Let's get this straight from day one: there's no formula or checklist for what m
 1. Will you (& your friends) use it?
 
    This is perhaps one of the most important tests. It's a reasonable indication of whether people would want it, but more importantly, it's a good test of whether you will be committed to the product for the duration it's required to make it successful.
-   
+
 2. Has it been done before? And why is mine better?
 
    Although often ridiculed as copycat products, people forget that Facebook wasn't the first social network. Neither was Google the first search engine. They just had quantifiably better products. Improving upon an inefficient or unusable existing product is a good way to begin. Or adapting it to a different reality: take the example of Flipkart, often called the Amazon of India but which innovated and brought Cash-On-Delivery to the eCommerce product ecosystem.
-   
+
 3. Am I solving a real genuine problem that people have?
 
-   This test is the best of the three. Talk to people (or better yet, develop a habit of observing them) to figure out genuine problems that people have. Come up with great products to solve those problems. 
-   
+   This test is the best of the three. Talk to people (or better yet, develop a habit of observing them) to figure out genuine problems that people have. Come up with great products to solve those problems.
+
 ## Typical Activities
 
 Here are the typical activities that are found in the Idea Discovery stage:
@@ -35,7 +35,7 @@ Here are the typical activities that are found in the Idea Discovery stage:
 * A Value proposition is found.
 * Team joins an accelerator or incubator (hint: SV.co)
 * Friends and Family funding rounds.
-* First mentors & advisors come on board.   
+* First mentors & advisors come on board.
 
 ## Average Duration
 
@@ -47,7 +47,7 @@ The average duration for an Idea Discovery stage is 3-5 months.
 * Teams also fail if they are over-staffed and can't manage financial resources properly. Successful startups have lean teams and focus on quick iterations.
 
 ## Product Role
-The Product role is the most important role at this stage. Generally, the person in the Product Role drives all discussions until the team agrees that a viable value proposition has been found. 
+The Product role is the most important role at this stage. Generally, the person in the Product Role drives all discussions until the team agrees that a viable value proposition has been found.
 
 Resources:
 
