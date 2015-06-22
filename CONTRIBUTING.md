@@ -19,5 +19,9 @@ Notes:
 * Formatting is done through Markdown.
 * The book is published through Gitbook.
 
+# What should I contribute?
+
+Anything that you think will be useful for our learning platform intended for first-time founders. Look at [TODO.md](TODO.md) for pointers.
+
 # Usage
 This entire content is available to use under a very permissive Creative Commons License (see [LICENSE.md](LICENSE.md)).
