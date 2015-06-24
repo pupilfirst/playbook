@@ -70,6 +70,7 @@ Resources:
 
 Resources:
 
+* [The Single Biggest Reason Why Startups Succeed and Fail](http://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed) is a great punchy video! Timing matters.
 * [Writing a Business Plan](https://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan) from Sequoia gives you the bare essentials of what a business plan has. At this stage you should have an idea about potential market size, a first marketing plan, and things you should do to scale up.
 
 ## Governance Role
