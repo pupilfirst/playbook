@@ -1,4 +1,30 @@
-## Graduation
+# Graduation
+
+Just as a recap, at Startup Village, we give you six ways to successfully graduate:
+
+1. **Get funded**
+  
+  Your startup gets funded through a venture capital firm or an angel investor.
+2. **Get into a Startup Accelerator**
+
+  Your team is selected into a recognized Startup Accelerator[^1].
+3. **Get Aqqui-Hired**
+
+  Your founding team is hired on by another company that values your skills.
+4. **Become Self Sustainable**
+
+  Your revenue and cashflows stabilize and then grow, allowing you to scale up.
+5. **Get a job**
+
+  You get hired at a great company because of the skills that you acquired while building your startup.
+6. **Go for Higher Education**
+
+  You decide to build upon the skills you acquired by getting a formal degree.
+
+At Startup Village, all of these are perfectly happy outcomes. We think the much hyped story of a founder striking it big from his garage is good press, but building a startup can be about much more than a good exit. If you are one of those few founders who make it big, great! But building a great startup can help you with all of these six different journeys.
+
+## Outro
+
 Building startups is a great way to pick up essential skills you'll need. Sometimes it results in unexpected success, but the journey always is rewarding.
 
 There's [a wonderful video by Steve Jobs](https://www.youtube.com/watch?v=w4xPv9x518Q) that you should watch. In it, he tells three stories. Perhaps the most poignant is the last one where he talks about death, but here's the first story (emphasis ours):
