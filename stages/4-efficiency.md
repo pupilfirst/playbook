@@ -2,7 +2,7 @@
 
 Efficiency happens when you can replicate your product-market fit across a much larger set of customers. Before you expand your startup after the Customer Validation stage, it's wise to think about whether your product idea can actually work at scale: this is what the Efficiency stage is about. A lot of ideas are easy to implement when the user base is low, but are much harder when the number of customers or the number of engagements go up. 
 
-As an example, if you have an education product that teaches folks how to program, it might be dependent on having good teachers. When you have a small number of students, your existing teacher set might suffice. But when you try to scale up, it might be difficult (or even impossible) to find qualified teachers for all your students. You might then decide to more efficiently run your classrooms by increasing the student to teacher ratio by using virtual classrooms or perhaps advocate self-learning altogether. These kinds of problems must be solved *before* you scale: if they aren't, then having a great marketing budget will only lead to more users unable to get a good experience with your product.
+As an example, if you have an education product that teaches folks how to program, it might be dependent on having good teachers. When you have a small number of students, your existing teacher set might suffice. But when you try to scale up, it might be difficult (or even impossible) to find qualified teachers for all your students. You might then decide to more efficiently run your classrooms by increasing the student to teacher ratio by using virtual classrooms or perhaps advocate self-learning altogether. These kinds of problems must be solved *before* you scale: if they aren't, then having a large marketing budget will only lead to more users unable to get a good experience with your product.
 
 ## Tests for Efficiency
 
@@ -22,18 +22,18 @@ When you want an efficient startup, you must have these in mind:
 * Repeatable sales process and/or scalable customer acquisition channels found.
 
 ## Average Duration
-
 The average duration for the Efficiency stage is 8-12 months.
 
-## Common Failures
+## Objective
+The Team Objective at this Stage is to figure out an efficient business model.
 
-* Raising too little money. You need money to drive experiments and user growth.
-* Raising too much money. This might seem like a contradiction, but too much money makes founders indisciplined. Remember: money is not the solution to your problems, it's just a means to arrive at it.
-* Having more than 1 level of hierarchy.
-* Overcompensating missing product/market fit with marketing and press. Marketing and Press does not equate to business success, when used effectively they are a tool to rope in customers.
+## Key Result
+The Key Result is having many customers using or buying your product leading to active growth.
+
+Let's talk a look now at individual roles and how that leads to the above Key Result:
 
 ## Product Role
-The Product role is responsible for ensuring that efficiency drives don't kill off the soul of the product. It's easy to be focused on improving metrics, but lose sight of larger goals.
+The Product role has the responsibility to identify features in the product that would scale to a large number of users.
 
 Resources:
 
@@ -66,5 +66,13 @@ Resources:
 * [How to Measure a User's Experience](http://www.slideshare.net/warwickkay/how-to-measure-a-users-experience) provides a quick overview of various methods to measure (and improve) UX.
 * [Lean UX](https://www.youtube.com/watch?v=5SNSA6pmzjM) is a great video about measuring UX in a lean environment.
 
+## Common Failures
+
+* Raising too little money. You need money to drive experiments and user growth.
+* Raising too much money. This might seem like a contradiction, but too much money makes founders indisciplined. Remember: money is not the solution to your problems, it's just a means to arrive at it.
+* Having more than 1 level of hierarchy.
+* Overcompensating missing product/market fit with marketing and press. Marketing and Press does not equate to business success, when used effectively they are a tool to rope in customers.
+
 ## Proceeding to Scale
 
+When you have identified and solved efficiency bottlenecks in your startup, you can proceed to [Scale](5-scale.md).

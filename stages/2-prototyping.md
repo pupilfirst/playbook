@@ -1,6 +1,6 @@
 # Prototyping
 
-While you might create some artifacts during the Idea Discovery stage, it's at Prototyping that your team shows off the first version of your product. This is a crucial intermediary step where the Engineering role has prominence. Prototyping also helps you refine your initial idea, and to weed out parts that are not feasible to build with your current team.
+While you might create something to show for the Idea Discovery stage, it's at Prototyping that your team builds the first version of your product. This is a crucial intermediary step where the Engineering role has prominence. Prototyping also helps you refine your initial idea, and to weed out parts that are not feasible to build with your current team.
 
 There are two different kinds of prototypes you can build:
 
@@ -44,13 +44,15 @@ Here are the typical activities you would have in the Prototyping Stage:
 * Hire Key Employees
 
 ## Average Duration
-
 The average duration of the Prototyping stage is 3-5 months.
 
-## Common Failures
+## Objective
+The Team Objective at this Stage is to build a working prototype.
 
-* Startups fail at this stage when they are not able to build a high-fidelity prototype. This usually points to failures within their Engineering role, but at times issues are more systemic: perhaps the Idea they discovered could have been too ambitious.
-* Another common failure is to attempt to build too much. While prototypes much exhaustively test core features, ancillary features should be left untested so that teams can build within the budget available.
+## Key Result
+The Key Result is a Product Deck that details your prototype and customer feedback. A working version of the prototype should be demonstrated to your SV.co representative.
+
+Let's talk a look now at individual roles and how that leads to the above Key Result:
 
 ## Product Role
 Product folks are crucially involved during the prototyping stage building out the product. But this is also a good time to explore other solutions to your idea. A good understanding of a competitor landscape can be crucial at this stage.
@@ -87,6 +89,10 @@ Resources:
 * [Material UI](http://material-ui.com/#/) is a great introduction to Google's Material Design Principles. Similarly, [Apple iOS HIG](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/) is a great intro to Apple's design language. Both are must reads for a any app designer.
 * [GoodUI.org](http://goodui.org) has simple tips for good UX.
 
+## Common Failures
+
+* Startups fail at this stage when they are not able to build a high-fidelity prototype. This usually points to failures within their Engineering role, but at times issues are more systemic: perhaps the Idea they discovered could have been too ambitious.
+* Another common failure is to attempt to build too much. While prototypes much exhaustively test core features, ancillary features should be left untested so that teams can build within the budget available.
 
 ## Proceeding to Customer Validation
 

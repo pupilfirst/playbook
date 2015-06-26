@@ -14,17 +14,17 @@ The Idea Discovery stage is the first (& perhaps least understood) stage in a st
 
 Let's get this straight from day one: there's no formula or checklist for what makes an idea great. Nobody predicted the success of Twitter, and even fewer predicted the rise of casual games such as Angry Birds. Sure, after the fact there were signs pointing to such products being ripe, but it's hard to predict the future. However, all is not lost: there are three tests entrepreneurs use to figure out a "possibly good" idea.
 
-1. Will you (& your friends) use it?
+1. Am I solving a real genuine problem that people have?
+
+   This test is the best of the three. Talk to people (or better yet, develop a habit of observing them) to figure out genuine problems that people have. Come up with great products to solve those problems.
+
+2. Will you (& your friends) use it?
 
    This is perhaps one of the most important tests. It's a reasonable indication of whether people would want it, but more importantly, it's a good test of whether you will be committed to the product for the duration it's required to make it successful.
 
-2. Has it been done before? And why is mine better?
+3. Has it been done before? And why is mine better?
 
    Although often ridiculed as copycat products, people forget that Facebook wasn't the first social network. Neither was Google the first search engine. They just had quantifiably better products. Improving upon an inefficient or unusable existing product is a good way to begin. Or adapting it to a different reality: take the example of Flipkart, often called the Amazon of India but which innovated and brought Cash-On-Delivery to the eCommerce product ecosystem.
-
-3. Am I solving a real genuine problem that people have?
-
-   This test is the best of the three. Talk to people (or better yet, develop a habit of observing them) to figure out genuine problems that people have. Come up with great products to solve those problems.
 
 ## Typical Activities
 
@@ -32,19 +32,24 @@ Here are the typical activities that are found in the Idea Discovery stage:
 
 * Founding team is formed.
 * Prospective customers are interviewed.
-* A Value proposition is found.
-* Team joins an accelerator or incubator (hint: SV.co)
-* Friends and Family funding rounds.
+* A Value Proposition is found.
+* Team joins an accelerator or incubator (hint: SV.CO)
+* Team raises small bit of funding from friends and family.
 * First mentors & advisors come on board.
 
 ## Average Duration
 
-The average duration for an Idea Discovery stage is 3-5 months.
+The average duration for an Idea Discovery stage is 3-5 months[^1].
 
-## Common Failures
+## Objective
 
-* Typically, startups fail at this stage because they fail to find a value proposition for the product. Or in more simple terms, they fail to identify a first customer.
-* Teams also fail if they are over-staffed and can't manage financial resources properly. Successful startups have lean teams and focus on quick iterations.
+The Objective for the team at this Stage is to select an idea that the team believes users will want.
+
+## Key Result
+
+The Key Result is a Product Deck that describes this idea.
+
+Let's talk a look now at individual roles and how that leads to the above Key Result:
 
 ## Product Role
 The Product role is the most important role at this stage. Generally, the person in the Product Role drives all discussions until the team agrees that a viable value proposition has been found.
@@ -85,6 +90,14 @@ Resources:
 * The video [Principles of Good Design](https://www.youtube.com/watch?v=RWoprlPMBnA) brings together two of the most well-known designers in recent times: Dieter Rams & Jonathan Ive to describe what is considered the fundamental principles of great design.
 * And to top it off, here's the original quote by Steve Jobs: [Design is How it Works](https://www.youtube.com/watch?v=sPfJQmpg5zk)
 
+## Common Failures
+
+* Typically, startups fail at this stage because they fail to find a value proposition for the product. Or in more simple terms, they fail to identify a first customer.
+* Teams also fail if they are over-staffed and can't manage financial resources properly. Successful startups have lean teams and focus on quick iterations.
+
 ## Proceeding to Prototyping
 
 Once you've conceptualized an idea your team thinks is promising, it's time to proceed to [Prototyping](2-prototyping.md).
+
+---
+[^1]: However, you can even complete this in a week if you believe that the best way to learn swimming is to jump right into the pool and splashing about. It works at times, but be ready to complete a lot more iterations.

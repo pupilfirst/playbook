@@ -4,7 +4,7 @@ Hello and thank you for considering contributing to this community maintained pl
 
 Follow these steps to contribute:
 
-* Fork this [repo](https://github.com/svlabs/learn.sv.co)
+* Fork this [repo](https://github.com/svlabs/learn.SV.CO)
 * Make your changes to any chapter.
 * Or add new chapters & make sure to add them in SUMMARY.md as well.
 * Submit a Pull Request on Github

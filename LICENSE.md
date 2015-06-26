@@ -4,4 +4,4 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 # Copyright
 
-Copyright Startup Village 2015.
+Copyright SV.CO 2015.

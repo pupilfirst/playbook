@@ -23,8 +23,10 @@ Just as a recap, at Startup Village, we give you six ways to successfully gradua
 
 At Startup Village, all of these are perfectly happy outcomes. We think the much hyped story of a founder striking it big from his garage is good press, but building a startup can be about much more than a good exit. If you are one of those few founders who make it big, great! But building a great startup can help you with all of these six different journeys.
 
-## Outro
+## Becoming an Alumni
+Once you graduate, we'll identify you as an Alumni. New founders who see your timeline and your journey might decide to follow your path. As an Alumni, it's expected that you'll help them out.
 
+## Outro
 Building startups is a great way to pick up essential skills you'll need. Sometimes it results in unexpected success, but the journey always is rewarding.
 
 There's [a wonderful video by Steve Jobs](https://www.youtube.com/watch?v=w4xPv9x518Q) that you should watch. In it, he tells three stories. Perhaps the most poignant is the last one where he talks about death, but here's the first story (emphasis ours):

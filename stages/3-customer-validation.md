@@ -1,5 +1,5 @@
 # Customer Validation
-Moving from prototyping and feedback from a small set of customers to the "real world" where an increasing number of customers use and give feedback on your product is when startups hit the Customer Validation stage. The aim of this stage to hit the "product-market fit". Defined simply, Product-Market fit happens when the market (your customers) pay enough money or attention to your product to justify its creation. But, how much is good enough?
+When increasing number of customers use and give feedback on your product, startups hit the Customer Validation stage. The aim of this stage to hit a *Product-Market fit*. Defined simply, Product-Market fit happens when the market (your customers) pay enough money or attention to your product to justify its creation. But, how much is good enough?
 
 ## Defining Validation
 
@@ -9,7 +9,7 @@ Customer Validation is an important milestone towards value creation because thi
 * Cohort Analysis is crucial to properly measuring Validation. Cohort analysis is where startups measure user behavior by segmenting them into groups, usually ordered by when they joined. This gives a clear picture of whether iterations of your product improve engagement.
 * Qualitative metrics can also be useful towards validation. Asking users questions after success and failure scenarios can collect quite a bit of data that might be useful to pivot your product. In addition, monitoring open forums where customer can give feedback (social media sites such as Twitter or Facebook, or specific user forums such as Uservoice) is also important.
 
-While these are the types of metrics that are important, only you can decide the targets for these metrics because they vary widely based on the type of startup and the industry you are in. To get help on setting targets, talk to mentors at SV.co. 
+While these are the types of metrics that are important, only you can decide the targets for these metrics because they vary widely based on the type of startup and the industry you are in. To get help on setting targets, talk to mentors at SV.CO. 
 
 For the Customer Validation stage, the Product, the Marketing & Sales and the Governance roles are equally important.
 
@@ -26,14 +26,15 @@ These are the typical milestones in the Customer Validation stage:
 * Product-market fit
 
 ## Average Duration
-
 The average duration for the Customer Validation stage is 6-12 months.
 
-## Common Failures
+## Objective
+The Team Objective at this Stage is to get early customer validation.
 
-* The biggest reason why startups fail at this stage is that they spend too much on customer acquisition before product-market fit. At this stage, you are still looking to find viable customers for your product.
-* Building a product without problem/solution fit.
-* Hiring too many people too early, or hiring "experts" before they become critical.
+## Key Result
+The Key Result is to have early customers using the product and giving feedback.
+
+Let's talk a look now at individual roles and how that leads to the above Key Result:
 
 ## Product Role
 
@@ -72,6 +73,12 @@ The person who handles Design can use this stage to try out different UX experim
 Resources:
 
 * Product Hunt has a collection of [tools for designers](http://www.producthunt.com/e/tools-for-designers) that could become super useful at this stage.
+
+## Common Failures
+
+* The biggest reason why startups fail at this stage is that they spend too much on customer acquisition before product-market fit. At this stage, you are still looking to find viable customers for your product.
+* Building a product without problem/solution fit.
+* Hiring too many people too early, or hiring "experts" before they become critical.
 
 ## Proceeding to Efficiency
 

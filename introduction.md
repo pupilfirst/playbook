@@ -12,12 +12,15 @@ Here's how Startup Village compares to a traditional school or college:
 |------|--------------------|-----------------|
 | Admission | Colleges admit an **individual** | Startup Village admits a **team** |
 | Learning | **Teachers** and guides lecture you about topics | Mentors help you out, but **self-learning** is emphasized | 
+| Duration | A **structured duration** of semesters or thesis evaluations | You **learn at your own pace** and you move ahead when you are ready |
 | Evaluation | Theory **exams**, with practical labs | **Practical results** that you produce with your knowhow |
 | Graduation | You score above the pass percentile and get a **job**, or you go for **higher education** | **Six ways** to graduate |
 
-Through the SV.co online platform, Startup Village will guide you through the startup journey. This entire book can be read in two weeks but to practice it and become an expert is a life long process. The more you practice, the more skilled you become. There is no need to memorise anything. There is no need to learn formulae by heart. Everything is available on the Internet and you can check any video or web link at any point of time.
+This Startup Playbook is curated information that will guide you through the startup journey. This entire book can be read in two weeks but to practice it and become an expert is a life long process. The more you practice, the more skilled you become. There is no need to memorise anything. There is no need to learn formulae by heart. Everything is available on the Internet and you can check any video or web link at any point of time.
  
 There is no need to be afraid as well because there is no final exam. Building a startup is a continuous creative process. You become better at this with the experience you get. Close to no one gets it right in the first try and thus you need to keep releasing the product and keep iterating it over. The best version of Android is always the next one: perfection is a work in progress.
+
+Building a Startup is a creative adventure and is the perfect mix of Science, Arts & Humanties. As you get exposed to these diverse fields, your options in life also increase with the new skills and experiences you gain while you build a startup.
 
 ## Six Ways to Graduate
 
@@ -42,7 +45,11 @@ At Startup Village, we give you six ways to successfully graduate:
 
   You decide to build upon the skills you acquired by getting a formal degree.
   
-At Startup Village, all of these are perfectly happy outcomes. We think the much hyped story of a founder striking it big from his garage is good press, but building a startup can be about much more than a good exit. If you are one of those few founders who make it big, great! But building a great startup can help you with all of these six different journeys.
+At Startup Village, all of these are perfectly happy outcomes. We think the much hyped story of a founder striking it big from his garage is good press, but building a startup can be about much more than a good exit. If you are one of those few founders who make it big, great! But we are happy with any and all of these outcomes.
+
+Building a great startup can help you with all of these six different journeys. The world we live in needs you to have enough money to live a decent life. Enough money is the amount you require to do the things you love throughout your life, without having to worry about how to pay your bills. To get money, you have to work.
+
+You can either work for someone or you can work for yourself. We believe that by doing a startup, you can do what you love and work for yourself.
 
 ## Next Steps
 
@@ -55,5 +62,5 @@ You needn't read this playbook cover to cover. Instead, focus on the areas that 
 Read on to join this amazing adventure. Your next step is to [apply](1-application.md).
 
 ---
-[^1]: Startup Accelerators are programmes that traditionally run 3 month programmes that help you move swiftly in your startup journey. The best time to get into an accelerator is when you already have a prototype or early customers as accelerators can help you increase the pace of getting customers through their network and connections. Accelerators also help you get noticed by early stage investors and give you a good platform to launch your product. The YCombinator Accelerator at Silicon Valley sets the Gold Standard. The way most accelerators work is that they give you a fixed amount of money, space and their resources in exchange for a fixed amount of equity. To get in touch with Accelerators in India, please your contact SV.co representative.
+[^1]: Startup Accelerators are programmes that traditionally run 3 month programmes that help you move swiftly in your startup journey. The best time to get into an accelerator is when you already have a prototype or early customers as accelerators can help you increase the pace of getting customers through their network and connections. Accelerators also help you get noticed by early stage investors and give you a good platform to launch your product. The YCombinator Accelerator at Silicon Valley sets the Gold Standard. The way most accelerators work is that they give you a fixed amount of money, space and their resources in exchange for a fixed amount of equity. To get in touch with Accelerators in India, please your contact SV.CO representative.
 

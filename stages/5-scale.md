@@ -12,7 +12,7 @@ While scaling, these are important considerations to keep in mind:
 ## Typical Activities
 These are the typical activities in the Scale stage:
 
-* Large A Round
+* Raising a Series A round of Investment
 * Massive customer acquisition
 * Back-end scalability improvements
 * First executive hires
@@ -20,15 +20,15 @@ These are the typical activities in the Scale stage:
 * Establishment of departments
 
 ## Average Duration
-
 The average duration of the Scale stage is 1-2 years.
 
-## Common Failures
+## Team Objective
+The Team Objective at this Stage is to raise Series A funding to scale up and hire resources.
 
-* Adding “nice to have” features
-* Hiring managers (VPs, product managers, etc.) instead of doers.
-* Not adapting business model to a changing market.
-* Failing to focus on the business model and finding out that you can’t get costs lower than revenue at scale.
+## Key Result
+The Key Result is money hitting the company’s bank account.
+
+Let's talk a look now at individual roles and how that leads to the above Key Result:
 
 ## Product Role
 At the Efficiency stage, you are on the verge of becoming a larger company. The primary person handling the Product Role at such a company would soon have to delegate his responsibility to subordinates. This requires clear articulation of what each product is, and relevant metrics for the startup as a whole, and for individual products in particular.
@@ -63,8 +63,14 @@ Resources:
 * [Design Thinking](https://hbr.org/2008/06/design-thinking) is about how to apply principles behind design to your whole company. Now that you have ample resources, why not take the time to infect your entire company with design thinking?
 * This is an example from the old Google, but [it's a cautionary tale of how too much testing can negatively influence design](http://stopdesign.com/archive/2009/03/20/goodbye-google.html).
 
+## Common Failures
+
+* Adding “nice to have” features
+* Hiring managers (VPs, product managers, etc.) instead of doers.
+* Not adapting business model to a changing market.
+* Failing to focus on the business model and finding out that you can’t get costs lower than revenue at scale.
 
 ## Next Steps
 Startup Village only supports you through the first five stages of your startup. Hope this has been a great journey. If you are the Scaling stage, congratulations! It's great that you've succeeded in creating viable products and a great startup. 
 
-Before we part, do read a short note on what it means to [Graduate](../6-graduation.md).
+Before we part, do read a short note on what it means to [Graduate](../6-graduation.md) and become an Alumni.
