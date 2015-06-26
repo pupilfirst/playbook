@@ -96,4 +96,4 @@ Here's an exhaustive list of timeline events we record and verify:
 
 That's the quick overview of our most important feature: Verified Timelines. Currently, you update your timelines by notifying your SV.co representative about major timeline events, but we have an exciting timeline editor in the works.
 
-This concludes Part 1 of our guide. Next, we talk about [Startup Roles](4-startup-roles.md).
+This concludes Part 1 of our playbook. Next, we talk about [Startup Roles](4-startup-roles.md).

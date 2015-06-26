@@ -46,11 +46,11 @@ At Startup Village, all of these are perfectly happy outcomes. We think the much
 
 ## Next Steps
 
-Hope that gives you a good soundbite. The rest of this guide is in two parts. The first: about how the Startup Village application process works, and how we guide and evaluate startups. You'll also learn about features like Startup Timelines that allow you to accurately record progress in your Startup journey. 
+Hope that gives you a good soundbite. The rest of this playbook is in two parts. The first: about how the Startup Village application process works, and how we guide and evaluate startups. You'll also learn about features like Startup Timelines that allow you to accurately record progress in your Startup journey. 
 
 The second & longer part is about stages in the life of a startup, typical activities you perform, and learning resources that are available to help you out. You'll gain an understanding of the five stages involved in any startup, and the five roles we think are crucial in any startup team.
 
-You needn't read this guide cover to cover. Instead, focus on the areas that seem interesting to you and read just that.
+You needn't read this playbook cover to cover. Instead, focus on the areas that seem interesting to you and read just that.
 
 Read on to join this amazing adventure. Your next step is to [apply](1-application.md).
 

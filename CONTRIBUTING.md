@@ -1,6 +1,6 @@
-# Contributing to this Guide
+# Contributing to this Playbook
 
-Hello and thank you for considering contributing to this community maintained guide. 
+Hello and thank you for considering contributing to this community maintained playbook. 
 
 Follow these steps to contribute:
 
