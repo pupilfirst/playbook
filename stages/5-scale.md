@@ -31,7 +31,7 @@ The Key Result is money hitting the company’s bank account.
 Let's talk a look now at individual roles and how that leads to the above Key Result:
 
 ## Product Role
-At the Efficiency stage, you are on the verge of becoming a larger company. The primary person handling the Product Role at such a company would soon have to delegate his responsibility to subordinates. This requires clear articulation of what each product is, and relevant metrics for the startup as a whole, and for individual products in particular.
+At the scaling stage, you are on the verge of becoming a larger company. The primary person handling the Product Role at such a company would soon have to delegate his responsibility to subordinates. This requires clear articulation of what each product is, and relevant metrics for the startup as a whole, and for individual products in particular.
 
 Resources:
 
