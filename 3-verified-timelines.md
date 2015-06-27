@@ -1,6 +1,6 @@
 # Verified Timelines
 
-Verified timelines are aimed at tackling one of the biggest problems a new entrepreneur faces: uncertainty (or "What do I do now?"). When used correctly, the Verified Timeline is like a compass pointing to true North for your journey and gives you answers these three questions:
+Verified timelines are aimed at tackling one of the biggest problems a new entrepreneur faces: uncertainty (or "What do I do now?"). When used correctly, the Verified Timeline is like a compass pointing to true North for your journey and gives you answers to these three questions:
 
 1. What should my team be focused on right now?
 
@@ -73,14 +73,13 @@ Here's an exhaustive list of timeline events we record and verify:
 | A Key Team Member Joined | | This is to record when a key team member joins (perhaps a great sales person?) | List key team member details, and for bonus points, their resume |
 | Co-Founder Left | | This is to record when a cofounder leaves your startup. | List the cofounder who left |
 | Legally Incorporated | | This is when you legally incorporate, as an Private Limited or a Partnership | Copy of the Partnership Deed or Private Limited Registration Details |
-| Accelerator program | | This is when you are formally accepted at a recognized startup accelerator program. | Copy of the acceptance. |
+| Accelerator program | | This is when you are formally accepted at a recognized startup accelerator program. | Copy of the acceptance email from accelerator. |
 | Acquired by | | This is when you get acquired by another company. | Copy of the acquisition details including deal details. | 
 | Applied for patent | | This is when you apply for a patent. | Copy of the patent application details. |
 | Associated with SV | | This is when you successfully apply to Startup Village | This is an automatic event generated when you first join Startup Village | 
 | Attended Event |  | This is to record your team attending a notable event | Copy of invites or tickets | 
-| Collaboration | | This is when you collaborate with another startup or an academic institution | Copy & details of collaboration |
+| Collaboration | | This is when you collaborate with another startup or a company | Copy & details of collaboration |
 | Developed the First Prototype | | This records your first prototype creation | A demonstration of your prototype. |
-| Investor Joined | | This is when an investor joins your team as an advisor or core member | Details of the Investor who joined, their LinkedIn or Angelist profile and for bonus points, their resume |
 | Mentor Joined | | This is when a mentor decides to advise your team | Details of the Mentor, their LinkedIn or Angelist profile and for bonus points, their resume | 
 | Monthly revenue crossed | | This is when you cross an internal revenue milestone | A copy of your invoice records or a self-signed or internally audited P&L statement |
 | Pivot | | When you change your product to a new one | A record of what went wrong with your previous try, and why you are pivoting to this new product |
