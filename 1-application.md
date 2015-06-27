@@ -2,7 +2,7 @@
 
 ## Eligibility
 
-Any founding team can apply to join Startup Village. We don't have specific criteria in terms of the business sectors we accept or the type of products (hardware or software) you build. But **we're structured to best help first time founders**. If you are a founder right out of college, or you are thinking of starting up but don't know how to, you are welcome to join.[^1]
+Any founding team can apply to join Startup Village. We don't have specific criteria in terms of the business sectors we accept or the type of products (hardware or software) you build. But **we're structured to best help first time founders**. If you are a founder in college or right out of college, or you are thinking of starting up but don't know how to, you are welcome to join.[^1]
 
 ## Applying
 
