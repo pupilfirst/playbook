@@ -18,7 +18,7 @@ Here's how Startup Village compares to a traditional school or college:
 
 This Startup Playbook is curated information that will guide you through the startup journey. This entire book can be read in two weeks but to practice it and become an expert is a life long process. The more you practice, the more skilled you become. There is no need to memorise anything. There is no need to learn formulae by heart. Everything is available on the Internet and you can check any video or web link at any point of time.
  
-There is no need to be afraid as well because there is no final exam. Building a startup is a continuous creative process. You become better at this with the experience you get. Close to no one gets it right in the first try and thus you need to keep releasing the product and keep iterating it over. The best version of Android is always the next one: perfection is a work in progress.
+There is no need to be apprehensive of a final exam. Building a startup is a continuous creative process. You become better at this with the more experienced you get. Close to no one gets it right in the first try and thus you need to keep releasing the product and keep iterating it over. The best version of Android is always the next one: perfection is a work in progress.
 
 Building a Startup is a creative adventure and is the perfect mix of Science, Arts & Humanties. As you get exposed to these diverse fields, your options in life also increase with the new skills and experiences you gain while you build a startup.
 
@@ -53,7 +53,7 @@ You can either work for someone or you can work for yourself. We believe that by
 
 ## Next Steps
 
-Hope that gives you a good soundbite. The rest of this playbook is in two parts. The first: about how the Startup Village application process works, and how we guide and evaluate startups. You'll also learn about features like Startup Timelines that allow you to accurately record progress in your Startup journey. 
+Hope that gives you a good soundbite. The rest of this playbook is in two parts. The first: about how the Startup Village application process works, and how we guide and evaluate startups. You'll also learn about features like *Startup Timelines* that allow you to accurately record progress in your Startup journey. 
 
 The second & longer part is about stages in the life of a startup, typical activities you perform, and learning resources that are available to help you out. You'll gain an understanding of the five stages involved in any startup, and the five roles we think are crucial in any startup team.
 
