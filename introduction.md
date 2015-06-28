@@ -31,7 +31,7 @@ At Startup Village, we give you six ways to successfully graduate:
   Your startup gets funded through a venture capital firm or an angel investor.
 2. **Get into a Startup Accelerator**
 
-  Your team is selected into a recognized Startup Accelerator[^1].
+  Your team is selected into a recognized Startup Accelerator.
 3. **Get Aqqui-Hired**
 
   Your founding team is hired on by another company that values your skills.
@@ -60,7 +60,3 @@ The second & longer part is about stages in the life of a startup, typical activ
 You needn't read this playbook cover to cover. Instead, focus on the areas that seem interesting to you and read just that.
 
 Read on to join this amazing adventure. Your next step is to [apply](1-application.md).
-
----
-[^1]: Startup Accelerators are 3 to 6 month programmes that help you move swiftly in your startup journey. The best time to get into an accelerator is when you already have a prototype or early customers as accelerators can help you increase the pace of getting customers through their network and connections. Accelerators also help you get noticed by early stage investors and give you a good platform to launch your product. The YCombinator Accelerator at Silicon Valley sets the Gold Standard. The way most accelerators work is that they give you a fixed amount of money, space and their resources in exchange for a fixed amount of equity. To get in touch with Accelerators in India, please your contact SV.CO representative.
-
