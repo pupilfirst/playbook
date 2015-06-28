@@ -10,13 +10,13 @@ When you join Startup Village, your representative will classify you into one of
 * [**Prototyping**](stages/2-prototyping.md)
 
   This is where the team develops an initial prototype of the product idea.
-* **Customer Validation**
+* [**Customer Validation**](stages/3-customer-validation.md)
 
   This is when early customers start using the product or even pay for it.
-* **Efficiency**
+* [**Efficiency**](stages/4-efficiency.md)
 
   This is where the prototype is refined to a better product and a business model is discovered to continously add more users profitably.
-* **Scale**
+* [**Scale**](stages/5-scale.md)
 
   This is when startups try to aggressively grow.
 
