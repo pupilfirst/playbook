@@ -26,6 +26,8 @@ At Startup Village, all of these are perfectly happy outcomes. We think the much
 ## Becoming an Alumni
 Once you graduate, we'll identify you as an Alumni. New founders who see your timeline and your journey might decide to follow your path. As an Alumni, it's expected that you'll help them out.
 
+And if it makes sense[^1], do continue to maintain your timeline.
+
 ## Outro
 Building startups is a great way to pick up essential skills you'll need. Sometimes it results in unexpected success, but the journey always is rewarding.
 
@@ -48,3 +50,6 @@ There's [a wonderful video by Steve Jobs](https://www.youtube.com/watch?v=w4xPv9
 This has been the experience of every startup founder we've interacted with as well. You can never tell which interactions and experiences will lead to your eventual success. The only way out is to trust that things will work out. 
 
 As Steve says so wonderfully, *Stay Hungry, Stay Foolish*. All the best!
+
+---
+[^1]: As an example, if you get acqui-hired.
