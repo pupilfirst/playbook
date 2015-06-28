@@ -5,5 +5,12 @@
   "language": "en",
   "structure": {
     "readme": "introduction.md"
+  },
+  "plugins": [ "addcssjs" ],
+  "pluginsConfig": { 
+    "addcssjs": { 
+      "js": ["js/sv.js"], 
+      "css": ["css/sv.css"] 
+    } 
   }
 }
