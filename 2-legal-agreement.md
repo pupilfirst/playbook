@@ -20,7 +20,7 @@ In return for these perks, this is what your team will offer Startup Village:
 * When you receive buiness leads to customers through our introductions, you agree to pay us 5% of the total revenue generated through that lead.
 * When you are hired through our platform where we offer job fairs & placements, you'll agree to pay us 10% of your annual salary.
 * When your team gets acqui-hired through our platform when we connect you to prospective companies, you'll agree to pay us 20% of your combined hiring bonus or annual salary (whichever is greater).
-* When your team receives funding, you'll agree that Startup Village can participate in up to 30% of that funding round at a 30% discount on your funding valuation.
+* [When your team receives funding](2a-funding.md), you'll agree that Startup Village can participate in up to 30% of that funding round at a 30% discount on your funding valuation.
 
 A note on the perks and rewards policy: we strongly believe that Startup Village will only succeed as an organization if our reward and fee-structure is **aligned with your success**. Case in point: our 30@30 scheme for funded startups does not ask for equity beforehand, only when you approach a funding round, and even then only after we put in money ourselves.
 

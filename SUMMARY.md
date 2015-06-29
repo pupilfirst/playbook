@@ -3,6 +3,7 @@
 * [Introduction](introduction.md)
 * [The Application](1-application.md)
 * [The Legal Agreement](2-legal-agreement.md)
+  * [Funding Event](2a-funding.md)
 * [Verified Timelines](3-verified-timelines.md)
 * [Startup Roles](4-startup-roles.md)
 * [Startup Stages](5-startup-stages.md)
