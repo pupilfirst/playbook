@@ -2,23 +2,23 @@
 
 Every successful startup grows through a series of stages. We have used this as the foundation of the SV.CO Platform. We've modeled this closely on Marmer Stages[^1] but added in a stage specifically for prototyping because we think it's a crucial intermediary step towards good product development.
 
-When you join Startup Village, your representative will classify you into one of these five stages:
+At Startup Village, we guide founders through a five-stage process in creating a great startup:
 
 * [**Idea Discovery**](stages/1-idea-discovery.md)
 
-  This is where the startup discovers a product idea that might have customers.
+  Idea Discovery is when the founders discover a product idea that solves a clear user need.
 * [**Prototyping**](stages/2-prototyping.md)
 
-  This is where the team develops an initial prototype of the product idea.
+  At the Prototype Stage, you develop a working prototype that is a solution to your product idea.
 * [**Customer Validation**](stages/3-customer-validation.md)
 
-  This is when early customers start using the product or even pay for it.
+  At the Customer Validation Stage, you find early customers who pay for your product through money or attention.
 * [**Efficiency**](stages/4-efficiency.md)
 
-  This is where the prototype is refined to a better product and a business model is discovered to continously add more users profitably.
+  In the Efficiency Stage, you are finding a way to efficiently get more customers for your product that can lead to a predictable business model.
 * [**Scale**](stages/5-scale.md)
 
-  This is when startups try to aggressively grow.
+  In the Scaling stage, you are trying to aggressively expand and grow your startup.
 
 ![Illustration of Risk and Ambiguity across Stages](images/placeholder.jpg)
 

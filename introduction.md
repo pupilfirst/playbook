@@ -1,10 +1,20 @@
-# Introduction
+# The Startup Village Playbook
+
+The term *playbook* originates from the game of football and describes a notebook that contains descriptions and diagrams of the common strategies frequently used by the team.
+
+We believe that creating a startup is like a team sport similar to football. The rules of football are simple to learn and the various roles of forward, mid-fielder, defender and goalkeeper are easy to understand. When the individuals in the team play together and scores more goals than the opposition, they win. However to become a successful football player with skills takes a lot of practice and cannot be learned using only theory.
+
+Creating a startup is just like assembling a professional football team. To build a championship team, you need great players at each role and the team needs to play together towards a goal or an aim. 
+
+This Startup Playbook has the basic rules of how to play the startup game and is a guide for you to continuously refer on your startup journey. Like as in any sport, the more you practice, the better you become at the game.
+
+## What We Believe
 
 At Startup Village, we think everyone can learn to become an entrepreneur. And we think the best time to pick up these skills and build great startups is when you are young, even while you are still in school or college. 
 
-We believe that the Internet is a significant game changer for humanity and we are seeing the early days of a massive global revolution. Because learning as we know it was institutionalized in the early 18th century, schools and colleges are organized just like factories with separate areas for different subjects and they teach topics in order, just like batch production at a factory.
+We believe that the Internet is a significant game changer for humanity and we are seeing the early days of a massive global revolution. Because learning as we know it was institutionalised in the early 18th century, schools and colleges are organised just like factories with separate areas for different subjects and they teach topics in order, just like batch production at a factory.
 
-Startup Village is just like your college or University but we have a new model of learning for the Internet-era generation. While your college might teach you Engineering, we teach you how to build a Startup.
+We believe that if Colleges and Universities were built in the Internet Era, Startup Village is how it would possibly look like. While your college might teach you Engineering, we teach you how to build a Startup.
 
 Here's how Startup Village compares to a traditional school or college:
 
