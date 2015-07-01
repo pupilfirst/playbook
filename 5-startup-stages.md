@@ -20,7 +20,9 @@ At Startup Village, we guide founders through a five-stage process in creating a
 
   In the Scaling stage, you are trying to aggressively expand and grow your startup.
 
-![Illustration of Risk and Ambiguity across Stages](images/placeholder.jpg)
+
+As you move across stages, ambiguity decreases, and risk increases:
+![Illustration of Risk and Ambiguity across Stages](images/stages1.png)
 
 Some important points to note before we proceed:
 

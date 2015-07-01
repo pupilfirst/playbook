@@ -23,7 +23,7 @@ In a good startup, founders pay attention to five roles:
   The Design role thinks deeply about user experience and visual design of the product.
   
   
-![TODO: illustration of the five roles](images/placeholder.jpg)
+![Illustration of the five roles](images/roles1.png)
 
 It's a cohesive working of these five roles that builds a good startup team and subsequently, a great product.
 
