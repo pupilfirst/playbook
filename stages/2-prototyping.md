@@ -79,7 +79,12 @@ Resources:
 
 ## Marketing & Sales Role
 
+TBD!
+
 ## Governance Role
+
+WIP.
+
 * [OKRs by Google](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) are a great way to motivate and guide your team to meet business goals.
 
 ## Design Role

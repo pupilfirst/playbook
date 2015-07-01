@@ -53,7 +53,11 @@ Resources:
 
 ## Marketing & Sales Role
 
+TBD!
+
 ## Governance Role
+
+TBD!
 
 ## Design Role
 

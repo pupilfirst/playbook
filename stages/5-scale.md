@@ -50,7 +50,11 @@ Resources:
 
 ## Marketing & Sales Role
 
+TBD!
+
 ## Governance Role
+
+WIP.
 
 Resources:
 * [The Eighteen Mistakes that kill startups](http://paulgraham.com/startupmistakes.html) is a great Paul Graham essay on startup failure, with a lot of them particularly relevant to the Scaling stage.

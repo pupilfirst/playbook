@@ -60,11 +60,15 @@ Resources:
 
 ## Marketing & Sales Role
 
+WIP.
+
 * For App Marketers, it's useful to understand [ASO](https://en.wikipedia.org/wiki/App_store_optimization).
 * [UserVoice](https://www.uservoice.com) is great for setting up forums for your customers.
 * [Buffer](https://buffer.com) is great for scheduling posts and sharing on social media.
 
 ## Governance Role
+
+TBD!
 
 ## Design Role
 
