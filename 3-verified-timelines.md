@@ -20,7 +20,7 @@ Verified timelines are aimed at tackling one of the biggest problems a new entre
 
 This is what a typical timeline looks like:
 
-![Image of timeline from some good startup with multiple iterations.](images/placeholder.jpg)
+![Image of timeline](images/timeline1.png)
 
 There are a few concepts you should understand:
 
@@ -31,15 +31,17 @@ There are a few concepts you should understand:
 
 Here are few example of common timeline events:
 
-![Image of a few timeline events](images/placeholder.jpg)
+![Image of a few timeline events](images/timeline2.png)
+![Image of a few timeline events](images/timeline3.png)
+![Image of a few timeline events](images/timeline4.png)
 
 Here's how an iteration is represented, and where a pivot happens:
 
-![Image of iteration](images/placeholder.jpg)
+![Image of iteration](images/timeline5.png)
 
 Here's when a team moved back from a Customer Validation stage back to the Idea Discovery stage:
 
-![Image of a pivot back to an earlier stage](images/placeholder.jpg)
+![Image of a pivot back to an earlier stage](images/timeline6.png)
 
 ## Keep your Timelines Updated
 

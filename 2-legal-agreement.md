@@ -27,4 +27,4 @@ A note on the perks and rewards policy: we strongly believe that Startup Village
 You can also [go here to read the entire legal agreement](!TODO: legal agreement link).
 
 ## Next Steps
-Once you sign the legal agreement, you are part of the SV.CO program. Congratulations! Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md).
+Once you sign the legal agreement, you are part of the SV.CO program. The next section [describes the funding scenario in more detail](2a-funding.md).

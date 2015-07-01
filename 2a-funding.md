@@ -53,3 +53,6 @@ Here are some other tips to help you along the way
 *Pro Tip:* Always issue new shares to investors and do not transfer existing shares.
  
 *Pro Tip:* The market value of your share is constant before and after investment. Your company valuation has increased however with new money coming in.
+
+## Next Steps
+Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md)
