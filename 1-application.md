@@ -6,17 +6,29 @@ Any founding team can apply to join Startup Village. We don't have specific crit
 
 ## Applying
 
-The Startup Village application is entirely online. You start by going to the [application page](http://SV.CO/apply) and creating an SV.CO ID. An SV.CO ID is an account associated with your email address that is used for all things Startup Village.
+The Startup Village application is entirely online. You start by going to the [application page](http://SV.CO/apply) and creating an SV.CO ID. 
 
-![Image of SV ID Creation Process](images/placeholder.jpg)
+---
+An SV.CO ID is an account associated with your email address that is used for all things Startup Village.
+![Image of SV ID Creation Process](images/apply0.png)
 
 All founders of a startup need to have separate SV IDs to apply. But when you submit your startup application, it's best if one founder starts and completes the application process.
 
 *Note*: if you don't have an idea or a team yet, you are in the Idea Discovery stage, and you can't apply to Startup Village yet. But don't fret: read our notes on the [Idea Discovery stage](stages/1-idea-discovery.md) to proceed.
 
+---
 During the process, you submit your idea, add your team members, and submit your initial idea slides[^2]. Once your slides are evaluated and accepted, you are in!
 
-![Images of the application process](images/placeholder.jpg)
+In the first section, you fill in your basic information. It's best to fill in as much of the optional fields as you can.
+![Images of the application process](images/apply1.png)
+
+---
+Next you create your basic Startup Profile. The most important item here is your deck. To get pointers on how to create a good deck, see the [Idea Discovery](stages/1-idea-discovery.md) page.
+![Images of the application process](images/apply2.png)
+
+---
+And that's it! You can then add in co-founders here. *Note:* Currently, it's compulsory for you to have at least one cofounder for a successful application.
+![Images of the application process](images/apply3.png)
 
 ## Application Evaluation
 When you apply, we evaluate you based on your idea and business model as you've demonstrated in your product slides. The [Idea Discovery stage](stages/1-idea-discovery.md) has more resources on how to prepare great slides. 
