@@ -69,31 +69,31 @@ In fact if there's one good reason to not update your timelines it's that there'
 
 Here's an exhaustive list of timeline events we record and verify:
 
-| Event | Timeline Icon | Description | Additional Details Required for Verification |
-| ----- | ------------- | ----------- | -------------------------------------------- |
-| Founded | | This is to record when you founded your company | List cofounder details, and for bonus points, their resume |
-| A Key Team Member Joined | | This is to record when a key team member joins (perhaps a great sales person?) | List key team member details, and for bonus points, their resume |
-| Co-Founder Left | | This is to record when a cofounder leaves your startup. | List the cofounder who left |
-| Legally Incorporated | | This is when you legally incorporate, as an Private Limited or a Partnership | Copy of the Partnership Deed or Private Limited Registration Details |
-| Accelerator program | | This is when you are formally accepted at a recognized startup accelerator program. | Copy of the acceptance email from accelerator. |
-| Acquired by | | This is when you get acquired by another company. | Copy of the acquisition details including deal details. | 
-| Applied for patent | | This is when you apply for a patent. | Copy of the patent application details. |
-| Associated with SV | | This is when you successfully apply to Startup Village | This is an automatic event generated when you first join Startup Village | 
-| Attended Event |  | This is to record your team attending a notable event | Copy of invites or tickets | 
-| Collaboration | | This is when you collaborate with another startup or a company | Copy & details of collaboration |
-| Developed the First Prototype | | This records your first prototype creation | A demonstration of your prototype. |
-| Mentor Joined | | This is when a mentor decides to advise your team | Details of the Mentor, their LinkedIn or Angelist profile and for bonus points, their resume | 
-| Monthly revenue crossed | | This is when you cross an internal revenue milestone | A copy of your invoice records or a self-signed or internally audited P&L statement |
-| Pivot | | When you change your product to a new one | A record of what went wrong with your previous try, and why you are pivoting to this new product |
-| Product Iteration | | When you refine or add new features to an existing product | A record of what was working & not with your previous iteration and what you think will work in this new version |
-| Raised Angel Funding | | When you raise funding from an angel investor | Details of the funding round and investor details |
-| Raised Series A Funding | | When you raise funding from a professional equity investor | Details of the funding round, including term sheets and pre & post-money valuations in addition to detailed investor details |
-| Received Seed Fund | | When you receive a seed fund for a particular purpose | Details of the seed fund received |
-| Received Soft Loan | | When you receive a low-interest loan | Details of the loan received and issuing entity |
-| Relocate to City | | When you decide to relocate your team | Details of your old and new offices and why you decided to relocate |
-| Sets Mission | | When you set a new mission for your team | Details of your old and new mission, and why the change |
-| Showcase | | When your product gets showcased at a notable media outlet | Link to the showcase and why it's notable |
-| Won Award | | When your product or your startup wins an award | Link to the award and why it's notable |
+| Event | Description | Additional Details Required for Verification |
+| ----- | ----------- | -------------------------------------------- |
+| Founded | This is to record when you founded your company | List cofounder details, and for bonus points, their resume |
+| A Key Team Member Joined | This is to record when a key team member joins (perhaps a great sales person?) | List key team member details, and for bonus points, their resume |
+| Co-Founder Left | This is to record when a cofounder leaves your startup. | List the cofounder who left |
+| Legally Incorporated | This is when you legally incorporate, as an Private Limited or a Partnership | Copy of the Partnership Deed or Private Limited Registration Details |
+| Accelerator program | This is when you are formally accepted at a recognized startup accelerator program. | Copy of the acceptance email from accelerator. |
+| Acquired by | This is when you get acquired by another company. | Copy of the acquisition details including deal details. | 
+| Applied for patent | This is when you apply for a patent. | Copy of the patent application details. |
+| Associated with SV | This is when you successfully apply to Startup Village | This is an automatic event generated when you first join Startup Village | 
+| Attended Event |  This is to record your team attending a notable event | Copy of invites or tickets | 
+| Collaboration | This is when you collaborate with another startup or a company | Copy & details of collaboration |
+| Developed the First Prototype | This records your first prototype creation | A demonstration of your prototype. |
+| Mentor Joined | This is when a mentor decides to advise your team | Details of the Mentor, their LinkedIn or Angelist profile and for bonus points, their resume | 
+| Monthly revenue crossed | This is when you cross an internal revenue milestone | A copy of your invoice records or a self-signed or internally audited P&L statement |
+| Pivot | When you change your product to a new one | A record of what went wrong with your previous try, and why you are pivoting to this new product |
+| Product Iteration | When you refine or add new features to an existing product | A record of what was working & not with your previous iteration and what you think will work in this new version |
+| Raised Angel Funding | When you raise funding from an angel investor | Details of the funding round and investor details |
+| Raised Series A Funding | When you raise funding from a professional equity investor | Details of the funding round, including term sheets and pre & post-money valuations in addition to detailed investor details |
+| Received Seed Fund | When you receive a seed fund for a particular purpose | Details of the seed fund received |
+| Received Soft Loan | When you receive a low-interest loan | Details of the loan received and issuing entity |
+| Relocate to City | When you decide to relocate your team | Details of your old and new offices and why you decided to relocate |
+| Sets Mission | When you set a new mission for your team | Details of your old and new mission, and why the change |
+| Showcase | When your product gets showcased at a notable media outlet | Link to the showcase and why it's notable |
+| Won Award | When your product or your startup wins an award | Link to the award and why it's notable |
 
 ## Next Steps
 
