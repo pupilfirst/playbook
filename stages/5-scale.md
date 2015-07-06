@@ -77,4 +77,4 @@ Resources:
 ## Next Steps
 Startup Village only supports you through the first five stages of your startup. Hope this has been a great journey. If you are the Scaling stage, congratulations! It's great that you've succeeded in creating viable products and a great startup. 
 
-Before we part, do read a short note on what it means to [Graduate](../6-graduation.md) and become an Alumni.
+The next section [describes the funding scenario in more detail](../6-raising-investment.md).

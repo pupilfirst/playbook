@@ -1,8 +1,18 @@
 # Raising Investment in your Startup
  
-As part of incorporating your startup, you have to determine and fix your authorized and paid up share capital.  Both these are covered in greater detail in relevant governance sections. However, as a recap, the authorized share capital is the maximum allowable share capital that the startup is allowed (authorized) to issue to its shareholders.
+Startups always need money for resources such as computers, internet, travel, mobile phones and server bills or paying salaries to employees. These resources when brought by the founders and or generated from operations and sales by the startup is known as "bootstrapping". Bootstrapping is a great way to build a startup in its early stages.
+
+Sometimes, the startup needs more resources than what the founders can bring. At this point, you need to raise investment from investors to pay for these resources and in exchange of the money they invest in our company, you will be issuing them shares in your startup.
+
+What follows is a basic understanding that all founding team members should have when you are raising investment. 
+
+*Pro Tip:* Investment need can arise at any stage of your startup life. At that point, you need to find someone who believes in your story and give you money in exchange for shares in your startup. Normally, if you are a first time founder, it's after you meet around 20 investors that one investor gives you cash in exchange for shares. 
+
+## Finance Lingo
+
+As part of incorporating your startup, you have to determine and fix your *authorized* and *paid up* share capital.  Both these are covered in greater detail in relevant Governance sections. However, as a recap, the *authorized share capital* is the maximum allowable share capital that the startup is allowed (authorized) to issue to its shareholders.
  
-The paid up capital the amount of capital that the startup actually issues and has received payment from the sale of its shares.  Paid up capital can be less than or equal to the authorized capital, but never more.
+The *paid up capital* the amount of capital that the startup actually issues and has received payment from the sale of its shares.  Paid up capital can be less than or equal to the authorized capital, but never more.
  
 A common example is when your paid up capital is INR 1Lakh (INR 100,000/-) the number of shares is 10,000 and each share thus has a face value of INR 10.
  
@@ -55,4 +65,4 @@ Here are some other tips to help you along the way
 *Pro Tip:* The market value of your share is constant before and after investment. Your company valuation has increased however with new money coming in.
 
 ## Next Steps
-Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md)
+Before we part, do read a short note on what it means to [Graduate](7-graduation.md) and become an Alumni.
