@@ -17,12 +17,47 @@ Startup Village offers you:
 
 In return for these perks, this is what your team will offer Startup Village:
 
-* When you receive buiness leads to customers through our introductions, you agree to pay us 5% of the total revenue generated through that lead.
+* When you receive business leads to customers through our introductions, you agree to pay us 5% of the total revenue generated through that lead.
 * When you are hired through our platform where we offer job fairs & placements, you'll agree to pay us 10% of your annual salary.
 * When your team gets acqui-hired through our platform when we connect you to prospective companies, you'll agree to pay us 20% of your combined hiring bonus or annual salary (whichever is greater).
 * [When your team receives funding](2a-funding.md), you'll agree that Startup Village can participate in up to 30% of that funding round at a 30% discount on your funding valuation.
 
 A note on the perks and rewards policy: we strongly believe that Startup Village will only succeed as an organization if our reward and fee-structure is **aligned with your success**. Case in point: our 30@30 scheme for funded startups does not ask for equity beforehand, only when you approach a funding round, and even then only after we put in money ourselves.
+
+## Legal Agreements
+
+There are three versions of the same legal agreement depending on three scenarios:
+
+1. Virtual Incubation
+   This is the most common scenario where SV.CO offers its platform and services to startups who might be physically present in any location in India. This agreement is directly with the founders.
+   
+2. Physical Incubation: For Registered Entities
+   This is when founders request physical space and access to on-the-ground resources at our incubator locations in Kochi, Kozhikode or Vishakapatanam. This version of the agreement is with founders who already have a registered entities.
+   
+3. Physical Incubation: For Founders
+   This is the same agreement as above but for founders who do not have a registered legal entity.
+   
+The agreements for physical incubation have added conditions regarding payment schedule for physical services.
+
+### Virtual Incubation: Service Agreement with Promoters
+
+If you are not looking for physical space, this is the agreement you should sign:
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/LbIal53MoA0g3O" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+### Physical Incubation: Legal Agreement for Registered Entities
+
+If you already have a registered legal entity (as a LLP or Private Ltd. for example), then this version of the agreement applies:
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/gyQYJn3Gd33Zb9" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+### Physical Incubation: Legal Agreement for Founders
+
+If you do not already have a registered legal entity, then there's a different version of the agreement:
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/kJt4PsLG26RROe" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
 
 You can also [go here to read the entire legal agreement](!TODO: legal agreement link).
 
