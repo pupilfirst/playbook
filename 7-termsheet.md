@@ -4,10 +4,9 @@ During the process of raising funds, if you get an investor (VC/Angel) intereste
 
 The entrpreneur wants the best terms possible for him, while the investor is on the other side of the table, looking for the best terms favorable to him. Look for those investors, who are being frank and direct, rather than those who propose convoluted terms in the term sheet, and might give you a preliminary impression that their offer is the best, but a deeper look might prove to be otherwise.
 
-Well, for any investment, the concerned parties have to agree on a **valuation** for the startup and decide on the **quantum of investment** (amount of money being invested by the investor). Let's assume you have agreed upon a valuation for the startup and a quantum of investment, based on the stage of the startup, relative metrics, financial needs etc. 
-The investor is going to focus on 2 things in any termsheet:
-* Economics
-* Control
+Well, for any investment, the concerned parties have to agree on a **valuation** for the startup and decide on the **quantum of investment** (amount of money being invested by the investor). How you arrive at these numbers, is a separate issue. Let's assume you have agreed upon these, based on the stage of the startup, how promising the potential is, relative metrics, financial needs, competitive landscape and other reasons. Now, comes the stage, when the investor will move on to finer details and present you with a termsheet. The investors is looking at maiximizing returns from his investment, while trying to minimizing risk from the investment. To accomplish this, the investor is going to focus on 2 things in any termsheet:
+* Economics (Valuation)
+* Control (Decision-making power)
 
-By, *Economics*, we mean the valuation 
+There will be several terms in the termsheet
 
