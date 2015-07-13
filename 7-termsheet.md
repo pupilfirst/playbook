@@ -17,4 +17,6 @@ There will be several terms in the termsheet. Here, we will focus on some of the
 * Drag-Along
 
 ## Pre-money/Post-money Valuation
-As discussed in [Raising Investment](6-raising-investment.md), pre-money valuation is the valuation of your startup, before you have taken any money from the investor. Let's say the pre-money valuation is INR 3 crores and the investor decides to invest INR 1crore. Then the post-money valuation is INR 4 crores. So, after the *dilution* (by taking in money from investor, your % of ownership in the startup will decrease or get diluted), your
+As discussed in [Raising Investment](6-raising-investment.md), pre-money valuation is the valuation of your startup, before you have taken any money from the investor. Let's say the pre-money valuation is INR 3 crores and you, the founding team, owns the entire company. Let's say, the investor decides to invest INR 1crore. Then the post-money valuation is INR 4 crores. So, after the *dilution* (by taking in money from investor, your % of ownership in the startup will decrease or get diluted), your stake gets reduced to 75% and investor gets a 25% stake.
+
+## Option Pool
