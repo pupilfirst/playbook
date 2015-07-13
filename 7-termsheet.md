@@ -8,11 +8,13 @@ Well, for any investment, the concerned parties have to agree on a **valuation**
 * Economics (Valuation)
 * Control (Decision-making power)
 
-Ther will be several terms in termsheet. Here, we will focus on some of the prominent ones. Below is a list of resources, which you can refer to, for details. Some of the terms in a termsheet:
+There will be several terms in the termsheet. Here, we will focus on some of the prominent ones. Below is a list of resources, which you can refer to, for details. Some of the terms in a termsheet:
 * Pre-money/Post-money Valuation
 * Option Pool
 * Liquidation Preference
 * Board Control
-* Right of First Refusal and Co-Sale
+* Right of First Refusal (ROFR) and Co-Sale
 * Drag-Along
 
+## Pre-money/Post-money Valuation
+As discussed in [Raising Investment](6-raising-investment.md), pre-money valuation is the valuation of your startup, before you have taken any money from the investor.
