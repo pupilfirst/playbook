@@ -9,7 +9,7 @@ Well, for any investment, the concerned parties have to agree on a **valuation**
 * Control (Decision-making power)
 
 Ther will be several terms in termsheet. Here, we will focus on some of the prominent ones. Below is a list of resources, which you can refer to, for details. Some of the terms in a termsheet:
-* Pre-money/Pos-money Valuation
+* Pre-money/Post-money Valuation
 * Option Pool
 * Liquidation Preference
 * Board Seat
