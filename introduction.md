@@ -20,6 +20,7 @@ Here's how Startup Village compares to a traditional school or college:
 
 | Area | Colleges & Schools | Startup Village |
 |------|--------------------|-----------------|
+| Focus | Your primary or **major** area of study | Your secondary or **minor** area of study |
 | Admission | Colleges admit an **individual** | Startup Village admits a **team** |
 | Learning | **Teachers** and guides lecture you about topics | Mentors help you out, but **self-learning** is emphasized | 
 | Duration | A **structured duration** of semesters or thesis evaluations | You **learn at your own pace** and you move ahead when you are ready |
