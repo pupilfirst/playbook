@@ -12,6 +12,7 @@
     * [Efficiency](stages/4-efficiency.md)
     * [Scale](stages/5-scale.md)
 * [Raising Investment](6-raising-investment.md)
-* [Graduation](7-graduation.md)
+* [Termsheet](7-termsheet.md)
+* [Graduation](8-graduation.md)
 * [Contributing to this Playbook](CONTRIBUTING.md)
 * [Licensed as CC-BY](LICENSE.md)
