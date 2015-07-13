@@ -12,7 +12,7 @@ Ther will be several terms in termsheet. Here, we will focus on some of the prom
 * Pre-money/Post-money Valuation
 * Option Pool
 * Liquidation Preference
-* Board Seat
+* Board Control
 * Right of First Refusal and Co-Sale
 * Drag-Along
 
