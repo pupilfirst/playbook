@@ -21,6 +21,6 @@ As discussed in [Raising Investment](6-raising-investment.md), pre-money valuati
 
 ## Option Pool
 Option Pool, is a reserve of stock, set aside for employees. It is a way of attracting talented employees to a startup and to keep them incentivised. (After a certain period, employees can exercise a stock option and convert it into common stock)
-Let us say, the investor insists on having an option pool of 15% on a *post-money* basis. Observe that, what this means is that, on a *pre-money* basis, option pool of 20% must be there (explained below). Assume that you, the founder had not kept aside any option pool, when you went to raise funds. Then, effectively, you will have to dilute your 100% stake in the company to 80% and set aside 20% for the option pool, even before you bring in any funds. Now, as seen above, by bring in investor money, the
+In the above example, we saw that post-money, your stake gets reduced to 75%. Let us say, the investor insists on having an option pool of 15% on a *post-money* basis. Observe that, what this means is that, on a *pre-money* basis, option pool of 20% must be there (As seen above, the investor, by brining in his money, is diluting the ). Assume that you, the founder had not kept aside any option pool, when you went to raise funds. Then, effectively, you will have to dilute your 100% stake in the company to 80% and set aside 20% for the option pool, even before you bring in any funds. Now, as seen above, by bring in investor money, the
 
 That is, even before the founders take in mo
