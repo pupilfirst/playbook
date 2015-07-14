@@ -68,18 +68,9 @@ WIP.
 
 ## Governance Role
 
- Refinement of Features
-* User growth
-* Metrics and Analytics implementation
-* Seed funding
-* Hiring Key Employees
-* Pivots (if necessary)
-* First paying customers
-* Product-market fit
-* 
-In this stage, you will have to think of *terms and conditions* and other legal aspects, once you want to start accepting payments from your customers. You have to be on the lookout for key employees and start preparing for seed fund raising activity. You have to prepare your pitch, prototype, verifiable customer traction related information etc.
+WIP.
 
-TBD!
+In this stage, you will have to think of *terms and conditions* and other legal aspects, once you want to start accepting payments from your customers. You have to be on the lookout for key employees and start preparing for seed fund raising activity. You have to prepare for your pitch, prototype, verifiable customer traction related information etc.
 
 ## Design Role
 
