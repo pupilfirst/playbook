@@ -12,6 +12,7 @@ There will be several terms in the termsheet. Here, we will focus on some of the
 * Pre-money/Post-money Valuation
 * Option Pool
 * Liquidation Preference
+* Founder Shares
 * Board Structure
 * Right of First Refusal (ROFR) and Co-Sale
 * Drag-Along
@@ -26,6 +27,10 @@ In the above example, we saw that post-money, your stake gets reduced to 75% and
 ### Liquidation Preference
 The founding team owns *common* stock, while the investors ask for *preferred* stock. Basically, the investor's preferred stock will have certain preferences/additional rights. For example, during a liquidation event(like sale of the startup), *liquidation preference* clause kicks in. This basically defines how the proceeds from a liquidation event are divided among the stake holders (common and preferred). Liquidation preferences come in two flavors, *participating* and *non-participating*. If the investor has a participating liquidation preference, he gets his money back first and then shares in any remaining proceeds according to his equity percentage. If he has a non-participating liquidation preference, then he has to choose between getting his money back or getting a proportion of proceeds equivalent to his equity percentage. Then there can be further variants to this, which you should go through carefully. Investors add such clauses for protection from downside. Clearly, a non-participating liquidation preference, is what the entrepreneur will like. But, in the real world, the investor will want to mitigate his investments risks using such clauses.
 
+### Founder Shares
+Even after our investment, you the founders will normally own the majority of the shares in the company. However, our nightmare scenario is that we invest and then the day after you skip off to Timbuktu and we're stuck as shareholders. It may sound far-fetched, but it happens. We are fundamentally investing in you and your co-founders for the long haul and we expect you to have the same view. Making your shares subject to reverse vesting protects us and your co-founders if one of you changes your mind. Your shares will be earned monthly over 3 years meaning, for example, that if you give up on the team after 12 months, the company has the right to buy back two-thirds of your shares from you.
+
+
 ### Board Structure
 A comapny's major decisions are made by the board, while the board itself is nominated by the shareholders of the company. The board can take drastic decisions, such as even firing the CEO.  A typical board has 3-7 directors split among, founders and company executives, investors (or their designees) and often independent members affiliated to neither the founders nor the investors. An investor might ask for a board seat or a board observer position( oberservers in theory don't speak in board meetings and are costless, to the ocmpany). An investor is part-owner of the company through stocks, but he exercises control over internal decision-making in the company through the board. It is prudent for the entreprenur to seek to have a small board, to avoid noise and be able to focus on his job.
 
@@ -33,6 +38,6 @@ A comapny's major decisions are made by the board, while the board itself is nom
 If any shareholder in the company wants to sell their shares to someone else, the investor has the option to buy those shares on the same terms (ROFR) or to sell his shares, again on the same terms (Co-Sale)
 
 ### Drag-Along
-If shareholders, owning more than 50% of the shares in the company want to sell their shares (typically to accept an acquisition offer) then, as long as the board and a majority of the investors approve it, all other shareholders must also sell their shares. This protects all shareholders from, say, one small, stubborn shareholder refusing to sell their shares in an acquisition offer and blocking a deal everyone else wants to see happen.
+If shareholders, owning more than 50% of the shares in the company want to sell their shares (typically to accept an acquisition offer) then, as long as the board and a majority of the investors approve it, all other shareholders must also sell their shares. This protects all shareholders from, say, one small, stubborn shareholder refusing to sell their shares in an acquisition offer and blocking a deal everyone else wants to see happen. 
 
 
