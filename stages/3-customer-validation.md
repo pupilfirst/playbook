@@ -70,7 +70,7 @@ WIP.
 
 WIP.
 
-In this stage, you will have to think of *terms and conditions* and other legal aspects, once you want to start accepting payments from your customers. You have to be on the lookout for key employees and start preparing for seed fund raising activity. You have to prepare for your pitch, prototype, verifiable customer traction related information etc.
+In this stage, you will have to think of *terms and conditions* and other legal aspects, once you want to start accepting payments from your customers. You have to be on the lookout for key employees. You can have an HR head, to handle the recruitment and on-boarding process of a new recruit into the startup, so that they are quickly familiarized with the cuture of the startup. Further, the HR head will be the contact person to resolve other people-related issues that employees might have. You have to start preparing for seed fund raising activity. You have to prepare for your pitch, prototype, verifiable customer traction related information, financial information etc.
 
 ## Design Role
 
