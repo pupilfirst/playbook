@@ -32,3 +32,6 @@ A comapny's major decisions are made by the board, while the board itself is nom
 ### Right of First Refusal (ROFR) and Co-Sale
 If any shareholder in the company wants to sell their shares to someone else, the investor has the option to buy those shares on the same terms (ROFR) or to sell his shares, again on the same terms (Co-Sale)
 
+### Drag-Along
+
+
