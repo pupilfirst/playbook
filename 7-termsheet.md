@@ -48,7 +48,7 @@ The term sheet is a starting point for a discussion (negotiation) with a prospec
 Resources:
 
 * [Termsheet explained](http://web.archive.org/web/20130303042811/http://www.foundersfund.com/uploads/term_sheet_explained.pdf) is a document explaining provisions of a termsheet in plain English.
-* [Quora listing](http://www.quora.com/What-are-examples-of-good-startup-term-sheets) on termsheet resources.
+* [Quora post](http://www.quora.com/What-are-examples-of-good-startup-term-sheets) on termsheet resources.
 * [Sample Termsheet](http://www.businessinsider.in/What-A-Straight-Forward-Non-Jargony-Term-Sheet-From-A-VC-Looks-Like/articleshow/21053721.cms) from Passion Capital
 * [Another Sample Termsheet](http://www.marsdd.com/mars-library/term-sheet-template-for-angel-or-venture-capital-investors/) 
 
