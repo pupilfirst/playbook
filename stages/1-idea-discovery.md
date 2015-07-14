@@ -81,8 +81,10 @@ Resources:
 * [Writing a Business Plan](https://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan) from Sequoia gives you the bare essentials of what a business plan has. At this stage you should have an idea about potential market size, a first marketing plan, and things you should do to scale up.
 
 ## Governance Role
+You will give a formal name to your company and get it registered with the Ministry of Corporate Affairs.
+You can incorporate it as a private limited company or a partnership. At this stage, you can get in touch with a Company Secretary and a Chartered Accountant. The Company Secretary will assist you with the incorporation of your company and Chartered Accountant will assist you with future tax filing for the company. It is good to build relations with these professionals at this stage.
 
-TBD!
+WIP.
 
 ## Design Role
 Design is not how it looks, it's how it works. A great startup team will have great design as one of its fundamental building blocks. What makes great design? Here's some material to help you out.
