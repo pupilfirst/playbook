@@ -52,6 +52,8 @@ Resources:
 * [Another Sample Termsheet](http://www.marsdd.com/mars-library/term-sheet-template-for-angel-or-venture-capital-investors/) 
 
 
+## Next Steps
 
+Before we part, do read a short note on what it means to Graduate and become an Alumni.
 
 
