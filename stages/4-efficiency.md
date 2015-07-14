@@ -57,6 +57,8 @@ TBD!
 
 ## Governance Role
 
+WIP.
+
 Here, you are looking for setting up various proecesses and structures in place. You need to have an HR team to handle HR needs. You need to have proper book keeping and other paperwork done, for systematic tax filing and other document filing through the Company Secretary. If you have already raised funds, you need to make crucial captial allocation decisions, keeping the long-term vision and short-term goals of the company in mind. You need to create a setup, with a team structure, so that you can efficiently scale up.
 
 ## Design Role
