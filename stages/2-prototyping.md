@@ -85,6 +85,8 @@ TBD!
 
 WIP.
 
+This stage will involve procurement of licenses or devices needed or prototyping. You will have to be actively on the look out for hiring key people. You will need to identify a good workplace and accordingly sign off on the lease/rental agreeement. Identify required infrastructure and put them in place.
+
 * [OKRs by Google](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) are a great way to motivate and guide your team to meet business goals.
 
 ## Design Role
