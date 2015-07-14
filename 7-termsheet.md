@@ -33,5 +33,6 @@ A comapny's major decisions are made by the board, while the board itself is nom
 If any shareholder in the company wants to sell their shares to someone else, the investor has the option to buy those shares on the same terms (ROFR) or to sell his shares, again on the same terms (Co-Sale)
 
 ### Drag-Along
+If shareholders, owning more than 50% of the shares in the company want to sell their shares (typically to accept an acquisition offer) then, as long as the board and a majority of the investors approve it, all other shareholders must also sell their shares. This protects all shareholders from, say, one small, stubborn shareholder refusing to sell their shares in an acquisition offer and blocking a deal everyone else wants to see happen.
 
 
