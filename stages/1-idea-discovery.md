@@ -84,7 +84,7 @@ Resources:
 WIP.
 
 You will give a formal name to your company and get it registered with the Ministry of Corporate Affairs.
-You can incorporate it as a private limited company or a partnership. At this stage, you can get in touch with a Company Secretary and a Chartered Accountant. The Company Secretary will assist you with the incorporation of your company and Chartered Accountant will assist you with future tax filing for the company. It is good to build relations with these professionals at this stage. You will want to raise small amount of funding from friends and family. Try to get your first mentors and advisors on board. Joing an accelerator or incubator if possible.
+You can incorporate it as a private limited company or a partnership. At this stage, you can get in touch with a Company Secretary and a Chartered Accountant. The Company Secretary will assist you with the incorporation of your company and Chartered Accountant will assist you with future tax filing for the company. It is good to build relations with these professionals at this stage. You will want to raise small amount of funding from friends and family. Try to get your first mentors and advisors on board. Join an accelerator or incubator if possible.
 
 ## Design Role
 Design is not how it looks, it's how it works. A great startup team will have great design as one of its fundamental building blocks. What makes great design? Here's some material to help you out.
