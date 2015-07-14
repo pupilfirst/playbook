@@ -30,5 +30,5 @@ The founding team owns *common* stock, while the investors ask for *preferred* s
 A comapny's major decisions are made by the board, while the board itself is nominated by the shareholders of the company. The board can take drastic decisions, such as even firing the CEO.  A typical board has 3-7 directors split among, founders and company executives, investors (or their designees) and often independent members affiliated to neither the founders nor the investors. An investor might ask for a board seat or a board observer position( oberservers in theory don't speak in board meetings and are costless, to the ocmpany). An investor is part-owner of the company through stocks, but he exercises control over internal decision-making in the company through the board. It is prudent for the entreprenur to seek to have a small board, to avoid noise and be able to focus on his job.
 
 ### Right of First Refusal (ROFR) and Co-Sale
-If any shareholder in the company wants to sell their shares to someone else, the investor has the option
+If any shareholder in the company wants to sell their shares to someone else, the investor has the option to buy those shares on the same terms (ROFR) or to sell his shares, again on the same terms (Co-Sale)
 
