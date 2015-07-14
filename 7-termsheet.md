@@ -51,9 +51,7 @@ Resources:
 * [Sample Termsheet](http://www.businessinsider.in/What-A-Straight-Forward-Non-Jargony-Term-Sheet-From-A-VC-Looks-Like/articleshow/21053721.cms) from Passion Capital
 * [Another Sample Termsheet](http://www.marsdd.com/mars-library/term-sheet-template-for-angel-or-venture-capital-investors/) 
 
-
 ## Next Steps
-
-Before we part, do read a short note on what it means to Graduate and become an Alumni.
+Before we part, do read a short note on what it means to [Graduate](8-graduation.md) and become an Alumni.
 
 
