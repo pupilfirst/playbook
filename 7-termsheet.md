@@ -12,7 +12,7 @@ There will be several terms in the termsheet. Here, we will focus on some of the
 * Pre-money/Post-money Valuation
 * Option Pool
 * Liquidation Preference
-* Founder Shares
+* Founder Vesting
 * Board Structure
 * Right of First Refusal (ROFR) and Co-Sale
 * Drag-Along
@@ -27,8 +27,8 @@ In the above example, we saw that post-money, your stake gets reduced to 75% and
 ### Liquidation Preference
 The founding team owns *common* stock, while the investors ask for *preferred* stock. Basically, the investor's preferred stock will have certain preferences/additional rights. For example, during a liquidation event(like sale of the startup), *liquidation preference* clause kicks in. This basically defines how the proceeds from a liquidation event are divided among the stake holders (common and preferred). Liquidation preferences come in two flavors, *participating* and *non-participating*. If the investor has a participating liquidation preference, he gets his money back first and then shares in any remaining proceeds according to his equity percentage. If he has a non-participating liquidation preference, then he has to choose between getting his money back or getting a proportion of proceeds equivalent to his equity percentage. Then there can be further variants to this, which you should go through carefully. Investors add such clauses for protection from downside. Clearly, a non-participating liquidation preference, is what the entrepreneur will like. But, in the real world, the investor will want to mitigate his investments risks using such clauses.
 
-### Founder Shares
-Even after our investment, you the founders will normally own the majority of the shares in the company. However, our nightmare scenario is that we invest and then the day after you skip off to Timbuktu and we're stuck as shareholders. It may sound far-fetched, but it happens. We are fundamentally investing in you and your co-founders for the long haul and we expect you to have the same view. Making your shares subject to reverse vesting protects us and your co-founders if one of you changes your mind. Your shares will be earned monthly over 3 years meaning, for example, that if you give up on the team after 12 months, the company has the right to buy back two-thirds of your shares from you.
+### Founder Vesting
+The earlier the stage of an investment, the more likely the founders will be considered “essential” to the success of a potential investment by investors. Accordingly, investors will often require that the founders re-vest (or re-earn) their equity over a period of time, as per a pre-decided vesting schedule. For the investor, this ensures the continued focus and commitment on the part of the founding team in which he is investing. 
 
 
 ### Board Structure
@@ -40,4 +40,6 @@ If any shareholder in the company wants to sell their shares to someone else, th
 ### Drag-Along
 If shareholders, owning more than 50% of the shares in the company want to sell their shares (typically to accept an acquisition offer) then, as long as the board and a majority of the investors approve it, all other shareholders must also sell their shares. This protects all shareholders from, say, one small, stubborn shareholder refusing to sell their shares in an acquisition offer and blocking a deal everyone else wants to see happen. 
 
+Apart from these terms/provisions, don’t ignore other provisions of the term sheet. It’s always important to have your own lawyer give it a thorough reading. While uncommon, provisions calling for *cumulative dividends* or *full ratchet anti-dilution* protection should set off alarms bells.
 
+The term sheet is a starting point for a discussion (negotiation) with a prospective investor. By definition, it will favor the investor and is based on experience gained through thousands of investments by the investor community. Make sure you come to the table equally prepared. Below, are some more resources, which will give you a more extensive understanding of the various terms.
