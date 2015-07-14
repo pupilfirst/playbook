@@ -56,6 +56,8 @@ TBD!
 
 WIP.
 
+You will prepare for a Series A round of Investment at thsi stage. You will hire you first-level executives and put them in charge of various departments that you have established over time. Focus will be on implementing a process and strucutre, which will scale up efficiently.
+
 Resources:
 * [The Eighteen Mistakes that kill startups](http://paulgraham.com/startupmistakes.html) is a great Paul Graham essay on startup failure, with a lot of them particularly relevant to the Scaling stage.
 
