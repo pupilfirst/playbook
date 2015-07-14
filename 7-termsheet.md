@@ -30,7 +30,6 @@ The founding team owns *common* stock, while the investors ask for *preferred* s
 ### Founder Vesting
 The earlier the stage of an investment, the more likely the founders will be considered “essential” to the success of a potential investment by investors. Accordingly, investors will often require that the founders re-vest (or re-earn) their equity over a period of time, as per a pre-decided vesting schedule. For the investor, this ensures the continued focus and commitment on the part of the founding team in which he is investing. 
 
-
 ### Board Structure
 A comapny's major decisions are made by the board, while the board itself is nominated by the shareholders of the company. The board can take drastic decisions, such as even firing the CEO.  A typical board has 3-7 directors split among, founders and company executives, investors (or their designees) and often independent members affiliated to neither the founders nor the investors. An investor might ask for a board seat or a board observer position( oberservers in theory don't speak in board meetings and are costless, to the ocmpany). An investor is part-owner of the company through stocks, but he exercises control over internal decision-making in the company through the board. It is prudent for the entreprenur to seek to have a small board, to avoid noise and be able to focus on his job.
 
@@ -40,6 +39,6 @@ If any shareholder in the company wants to sell their shares to someone else, th
 ### Drag-Along
 If shareholders, owning more than 50% of the shares in the company want to sell their shares (typically to accept an acquisition offer) then, as long as the board and a majority of the investors approve it, all other shareholders must also sell their shares. This protects all shareholders from, say, one small, stubborn shareholder refusing to sell their shares in an acquisition offer and blocking a deal everyone else wants to see happen. 
 
-Apart from these terms/provisions, don’t ignore other provisions of the term sheet. It’s always important to have your own lawyer give it a thorough reading. While uncommon, provisions calling for *cumulative dividends* or *full ratchet anti-dilution* protection should set off alarms bells.
+Apart from these terms/provisions, don’t ignore other provisions of the term sheet. Take legal opinion from a lawyer specializing in the space. Uncommon, provisions calling for *cumulative dividends* or *full ratchet anti-dilution* protection should set off alarms bells.
 
-The term sheet is a starting point for a discussion (negotiation) with a prospective investor. By definition, it will favor the investor and is based on experience gained through thousands of investments by the investor community. Make sure you come to the table equally prepared. Below, are some more resources, which will give you a more extensive understanding of the various terms.
+The term sheet is a starting point for a discussion (negotiation) with a prospective investor. Naturally, it will favor the investor and is based on experience gained through thousands of investments by the investor community. Make sure you come to the table equally prepared. Below, are some more resources, which will give you a more extensive understanding of the various terms.
