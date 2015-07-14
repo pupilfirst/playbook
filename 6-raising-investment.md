@@ -65,4 +65,4 @@ Here are some other tips to help you along the way
 *Pro Tip:* The market value of your share is constant before and after investment. Your company valuation has increased however with new money coming in.
 
 ## Next Steps
-Before we part, do read a short note on what it means to [Graduate](7-graduation.md) and become an Alumni.
+Let's now look into what a [Termheet](7-termsheet.md) is. As an entrepreneur, you will encounter this in your fund-raising activity.
