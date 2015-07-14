@@ -12,7 +12,7 @@ There will be several terms in the termsheet. Here, we will focus on some of the
 * Pre-money/Post-money Valuation
 * Option Pool
 * Liquidation Preference
-* Board Control
+* Board Structure
 * Right of First Refusal (ROFR) and Co-Sale
 * Drag-Along
 
@@ -26,7 +26,8 @@ In the above example, we saw that post-money, your stake gets reduced to 75% and
 ### Liquidation Preference
 The founding team owns *common* stock, while the investors ask for *preferred* stock. Basically, the investor's preferred stock will have certain preferences/additional rights. For example, during a liquidation event(like sale of the startup), *liquidation preference* clause kicks in. This basically defines how the proceeds from a liquidation event are divided among the stake holders (common and preferred). Liquidation preferences come in two flavors, *participating* and *non-participating*. If the investor has a participating liquidation preference, he gets his money back first and then shares in any remaining proceeds according to his equity percentage. If he has a non-participating liquidation preference, then he has to choose between getting his money back or getting a proportion of proceeds equivalent to his equity percentage. Then there can be further variants to this, which you should go through carefully. Investors add such clauses for protection from downside. Clearly, a non-participating liquidation preference, is what the entrepreneur will like. But, in the real world, the investor will want to mitigate his investments risks using such clauses.
 
-### 
+### Board Structure
+A comapny's major decisions are made by the board, while the board itself is nominated by the shareholders of the company. The board can take drastic decisions, such as even firing the CEO.  A typical board has 3-7 directors split among, founders and company executives, investors (or their designees) and often independent members affiliated to neither the founders nor the investors. An investor might ask for a board seat or a board observer position( oberservers in theory don't speak in board meetings and are costless, to the ocmpany). An investor is part-owner of the company through stocks, but he exercises control over internal decision-making in the company through the board. It is prudent for the entreprenur to seek to have a small board, to avoid noise and be able to focus on his job.
 
-###
+### 
 
