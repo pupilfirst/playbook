@@ -21,4 +21,4 @@ As discussed in [Raising Investment](6-raising-investment.md), pre-money valuati
 
 ## Option Pool
 Option Pool, is a reserve of stock, set aside for employees. It is a way of attracting talented employees to a startup and to keep them incentivised. (After a certain period, employees can exercise a stock option and convert it into common stock)
-Let us say, the investor adds another condition. Generally, 
+Let us say, the investor insists on having an option pool of 15% on a *post-money* basis. Observe that, what this means is that, on a *pre-money* basis, option pool of 20% must be there. Assuming That is, even before the founders take in mo
