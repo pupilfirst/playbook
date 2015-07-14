@@ -39,6 +39,7 @@ If any shareholder in the company wants to sell their shares to someone else, th
 ### Drag-Along
 If shareholders, owning more than 50% of the shares in the company want to sell their shares (typically to accept an acquisition offer) then, as long as the board and a majority of the investors approve it, all other shareholders must also sell their shares. This protects all shareholders from, say, one small, stubborn shareholder refusing to sell their shares in an acquisition offer and blocking a deal everyone else wants to see happen. 
 
+
 Apart from these terms/provisions, don’t ignore other provisions of the term sheet. Take legal opinion from a lawyer specializing in the space. Uncommon, provisions calling for *cumulative dividends* or *full ratchet anti-dilution* protection should set off alarms bells.
 
 The term sheet is a starting point for a discussion (negotiation) with a prospective investor. Naturally, it will favor the investor and is based on experience gained through thousands of investments by the investor community. Make sure you come to the table equally prepared. Below, are some more resources, which will give you a more extensive understanding of the various terms.
@@ -46,8 +47,11 @@ The term sheet is a starting point for a discussion (negotiation) with a prospec
 Resources:
 
 * [Termsheet explained](http://web.archive.org/web/20130303042811/http://www.foundersfund.com/uploads/term_sheet_explained.pdf) is a doccommunity where product folks can reach customers and get actionable feedback.
-* [Sample Termsheet from Passion Capital](http://www.businessinsider.in/What-A-Straight-Forward-Non-Jargony-Term-Sheet-From-A-VC-Looks-Like/articleshow/21053721.cms)
-* [Sample Termsheet](http://www.marsdd.com/mars-library/term-sheet-template-for-angel-or-venture-capital-investors/)
 * [Quora listing on Termsheet resources](http://www.quora.com/What-are-examples-of-good-startup-term-sheets)
+* [Sample Termsheet](http://www.businessinsider.in/What-A-Straight-Forward-Non-Jargony-Term-Sheet-From-A-VC-Looks-Like/articleshow/21053721.cms) from Passion Capital
+* [Another Sample Termsheet](http://www.marsdd.com/mars-library/term-sheet-template-for-angel-or-venture-capital-investors/) 
+
+
+
 
 
