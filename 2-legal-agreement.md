@@ -28,13 +28,16 @@ A note on the perks and rewards policy: we strongly believe that Startup Village
 
 There are three legal agreement depending on differing scenarios:
 
-1. Service Agreement with Promoters
+1. **Service Agreement with Promoters**
+
    This is an agreement signed with the Promoters of the startup that enforces the job referral and acqui-hire scenarios. This agreement is always signed with the startup founders.
    
-2. Incubation: For Registered Entities
+2. **Incubation: For Registered Entities**
+
    This additional agreement is with founders who already have a registered entities.
    
-3. Incubation: For Founders
+3. **Incubation: For Founders**
+
    This is the same agreement as above but for founders who do not have a registered legal entity.
    
 The agreements for incubation have added conditions regarding payment schedule for physical services, if for example, the startup chooses to use any of the physical space or resources available at our Kochi, Vizag or Kozhikode incubators. All agreements have a validity of 5 years.
