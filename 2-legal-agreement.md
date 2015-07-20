@@ -26,40 +26,36 @@ A note on the perks and rewards policy: we strongly believe that Startup Village
 
 ## Legal Agreements
 
-There are three versions of the same legal agreement depending on three scenarios:
+There are three legal agreement depending on differing scenarios:
 
-1. Virtual Incubation
-   This is the most common scenario where SV.CO offers its platform and services to startups who might be physically present in any location in India. This agreement is directly with the founders.
+1. Service Agreement with Promoters
+   This is an agreement signed with the Promoters of the startup that enforces the job referral and acqui-hire scenarios. This agreement is always signed with the startup founders.
    
-2. Physical Incubation: For Registered Entities
-   This is when founders request physical space and access to on-the-ground resources at our incubator locations in Kochi, Kozhikode or Vishakapatanam. This version of the agreement is with founders who already have a registered entities.
+2. Incubation: For Registered Entities
+   This additional agreement is with founders who already have a registered entities.
    
-3. Physical Incubation: For Founders
+3. Incubation: For Founders
    This is the same agreement as above but for founders who do not have a registered legal entity.
    
-The agreements for physical incubation have added conditions regarding payment schedule for physical services.
+The agreements for incubation have added conditions regarding payment schedule for physical services, if for example, the startup chooses to use any of the physical space or resources available at our Kochi, Vizag or Kozhikode incubators. All agreements have a validity of 5 years.
 
-### Virtual Incubation: Service Agreement with Promoters
+### Service Agreement with Promoters
 
-If you are not looking for physical space, this is the agreement you should sign:
+This is an agreement that is signed with the Promoters:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/LbIal53MoA0g3O" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-### Physical Incubation: Legal Agreement for Registered Entities
+### Legal Agreement for Registered Entities
 
 If you already have a registered legal entity (as a LLP or Private Ltd. for example), then this version of the agreement applies:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/gyQYJn3Gd33Zb9" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-### Physical Incubation: Legal Agreement for Founders
+### Legal Agreement for Founders
 
 If you do not already have a registered legal entity, then there's a different version of the agreement:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/kJt4PsLG26RROe" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-
-
-You can also [go here to read the entire legal agreement](!TODO: legal agreement link).
 
 ## Next Steps
 Once you sign the legal agreement, you are part of the SV.CO program. Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md)
