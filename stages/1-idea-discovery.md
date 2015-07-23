@@ -89,11 +89,17 @@ Resources:
 * [The Secret Structure of Great Stories](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) is one of the most scientific ways in which stories are structured
 * [Creating the Apple Brand Philosphy and Marketing Campaign](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) is an internal video from Apple when Steve Jobs discusses the Brand Philosophy of Apple
 * [Estimating Market Size - How each person has his own view - The Uber example](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/) is a great example that shows you how even experts find it hard to come to the right market size.
+* [How to build a billion dollar business](http://steveblank.com/2012/04/19/how-to-build-a-billion-dollar-startup/) is a great post by Professor Steve Blank and gives you billion dollar ideas.
 * [Writing a Business Plan](https://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan) from Sequoia gives you the bare essentials of what a business plan has. At this stage you should have an idea about potential market size, a first marketing plan, and things you should do to scale up.
 
 ## Governance Role
 
-TBD!
+Having a great person with people skills and knack for numbers would create the difference between a startup which created value and a startup which did not. Almost all startups have to create a business outcome and in the real world, this outcome is measured financially.
+
+There are two key tasks that are done in this role
+
+1. Handle all the Legal and Financial Matters of the startup
+2. Consciously Document and build the team's culture as a differentiation from other startups
 
 ## Design Role
 Design is not how it looks, it's how it works. A great startup team will have great design as one of its fundamental building blocks. What makes great design? Here's some material to help you out.
