@@ -12,7 +12,7 @@ In a good startup, founders pay attention to five roles:
 
 * Marketing & Sales
 
-  The Marketing and Sales role is where you figure out how to continously get your product to more customers and make revenues and profits.
+  The Marketing and Sales role is where you figure out how to continuously get your product to more customers and make revenues and profits.
 
 * Governance
 
