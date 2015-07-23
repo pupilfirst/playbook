@@ -73,11 +73,22 @@ Resources:
 
 ## Marketing & Sales Role
 
-WIP.
+Sales and Marketing is an exciting role that brings together creativity and analytical skills. There are two key tasks in this role.
+
+1. Creating a Brand Identity (Company Website, Company Logo, Brand Philosophy)
+
+
+Every great company has a great story to say. As your startup goes through each stage, the nature of the stories change. Initially you are telling the story to your co-founders as to why you have come together to start this company. Then you would say a story to your early adopters/early customers and finally you have to craft a story for your investors. Remember that your stories have to be authentic and real for otherwise, it would come crashing down at some point in the future.
+
+2. Estimating the Market size or total potential market your product.
+
+Estimating market size is a mix of actual numbers from market research reports and a guess estimate of how much share of the total market your company would get.
+
 
 Resources:
-
-* [The Single Biggest Reason Why Startups Succeed and Fail](http://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_startups_succeed) is a great punchy video! Timing matters.
+* [The Secret Structure of Great Stories](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) is one of the most scientific ways in which stories are structured
+* [Creating the Apple Brand Philosphy and Marketing Campaign](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) is an internal video from Apple when Steve Jobs discusses the Brand Philosophy of Apple
+* [Estimating Market Size - How each person has his own view - The Uber example](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/) is a great example that shows you how even experts find it hard to come to the right market size.
 * [Writing a Business Plan](https://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan) from Sequoia gives you the bare essentials of what a business plan has. At this stage you should have an idea about potential market size, a first marketing plan, and things you should do to scale up.
 
 ## Governance Role
