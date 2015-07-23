@@ -53,7 +53,21 @@ Resources:
 
 ## Marketing & Sales Role
 
-TBD!
+The essence of any sustainable company is that you have customers who are either paying directly or indirectly (eg:through advertising) for your product and the costs of acquiring these customers is lower than the cost of running the business.
+
+You have three key tasks at this stage
+
+1.Develop a sales and marketing strategy for customer acquisition. 
+
+2.Find the total life time value of customers and see if you have a repeatable sales cycle where total life time value is more than cost of customer acquisition.
+
+3.Ensure that you raise an invoice to your customer(s) and collect payments on time. Collection is a very important task as it directly increases the cash in your bank account which lets you pay your salaries and bills.
+
+Resources:
+
+* [How to create a marketing plan](https://www.youtube.com/watch?t=45&v=zlPCO6xrp1A) is a short two minute video to get your started.
+* [How to calcuate customer life-time value](https://blog.kissmetrics.com/how-to-calculate-lifetime-value/) is an Infographic that gives your the basic overview.
+
 
 ## Governance Role
 
