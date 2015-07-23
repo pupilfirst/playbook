@@ -75,14 +75,14 @@ Resources:
 
 Sales and Marketing is an exciting role that brings together creativity and analytical skills. There are two key tasks in this role.
 
-1. Creating a Brand Identity (Company Website, Company Logo, Brand Philosophy)
+A. Creating a Brand Identity (Company Website, Company Logo, Brand Philosophy)
 
 
 Every great company has a great story to say. As your startup goes through each stage, the nature of the stories change. Initially you are telling the story to your co-founders as to why you have come together to start this company. Then you would say a story to your early adopters/early customers and finally you have to craft a story for your investors. Remember that your stories have to be authentic and real for otherwise, it would come crashing down at some point in the future.
 
-2. Estimating the Market size or total potential market your product.
+B. Estimating the Market size or total potential market your product.
 
-Estimating market size is a mix of actual numbers from market research reports and a guess estimate of how much share of the total market your company would get.
+Estimating market size is a mix of actual numbers from market research reports and a guess estimate of how much share of the total market your company would get.This is a skill that you would learn through experience and multiple attempts.
 
 
 Resources:
