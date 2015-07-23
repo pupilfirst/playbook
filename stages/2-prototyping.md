@@ -79,7 +79,13 @@ Resources:
 
 ## Marketing & Sales Role
 
-TBD!
+Identifying early customers who would use your product and showing demo's to your customers is the key role for Sales and Marketing.Talking to customers is a great way of building a sales pipeline who would buy your product once its ready. The feedback from early customers would be important to get insights into the actual problems they have which will help the engineering and product teams better build the product.
+
+From a story perspective, its time to start thinking about WHY your company is different and why your product will make a change in lives of customers/users.
+
+Resources:
+* This TED Talk on [How Great Leaders Inspire Action](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) will help you understand how to communicate to customers/users about your product.
+
 
 ## Governance Role
 
