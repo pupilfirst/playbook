@@ -26,7 +26,7 @@ The average duration of the Scale stage is 1-2 years.
 The Team Objective at this Stage is to raise Series A funding to scale up and hire resources.
 
 ## Key Result
-The Key Result is money hitting the company’s bank account.
+The Key Result is to have the company generate enough cash for growth or raising investment with investors money in the company’s bank account.
 
 Let's talk a look now at individual roles and how that leads to the above Key Result:
 
@@ -50,7 +50,17 @@ Resources:
 
 ## Marketing & Sales Role
 
-TBD!
+A startup is all about growth. Once a startup is growing very fast, almost everything else falls in place.
+
+The key task at this stage would be
+
+1. Creating your complete Investor Pitch Deck to talk to potential investors by filling in all the data that you have gathered from the business
+2. Creating a powerful narrative by weaving together the story and your financial/sales numbers which would explain to investor how your company is growing super fast and will be highly profitable.
+
+Resources:
+
+* [Startup=Growth](http://www.paulgraham.com/growth.html) is one of the best essays on how growth defines a startup.
+* [Story Telling and Growth Numbers](http://aswathdamodaran.blogspot.in/2014/06/numbers-and-narrative-modeling-story.html) describes how to now link the story you have created with the actual numbers from your effiiency stage and project to the total market size.
 
 ## Governance Role
 
