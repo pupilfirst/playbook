@@ -26,7 +26,7 @@ Let's get this straight from day one: there's no formula or checklist for what m
 
    Although often ridiculed as copycat products, people forget that Facebook wasn't the first social network. Neither was Google the first search engine. They just had quantifiably better products. Improving upon an inefficient or unusable existing product is a good way to begin. Or adapting it to a different reality: take the example of Flipkart, often called the Amazon of India but which innovated and brought Cash-On-Delivery to the eCommerce product ecosystem.
    
-4. Why is today the right now to build this?
+4. Why is now the right time to build this?
 
    Many startups have failed because their ideas have been too forward-thinking. Maybe a new regulation has opened up opportunities right now. Or some new technology has brought about a change. You should be able to find a great answer to this question.
 
