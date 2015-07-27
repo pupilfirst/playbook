@@ -10,9 +10,9 @@ The Startup Village application is entirely online. You start by going to the [a
 
 ---
 An SV.CO ID is an account associated with your email address that is used for all things Startup Village.
-![Image of SV ID Creation Process](images/apply0.png)
+![Image of SV.CO ID Creation Process](images/apply0.png)
 
-All founders of a startup need to have separate SV IDs to apply. But when you submit your startup application, it's best if one founder starts and completes the application process.
+All founders of a startup need to have separate SV.CO IDs to apply. But when you submit your startup application, it's best if one founder starts and completes the application process.
 
 *Note*: if you don't have an idea or a team yet, you are in the Idea Discovery stage, and you can't apply to Startup Village yet. But don't fret: read our notes on the [Idea Discovery stage](stages/1-idea-discovery.md) to proceed.
 
@@ -27,7 +27,7 @@ Next you create your basic Startup Profile. The most important item here is your
 ![Images of the application process](images/apply2.png)
 
 ---
-And that's it! You can then add in co-founders here. *Note:* Currently, it's compulsory for you to have at least one cofounder for a successful application.
+And that's it! You can then add in co-founders here. *Note:* Currently, it's compulsory for you to have at least one cofounder for a successful application[^3].
 ![Images of the application process](images/apply3.png)
 
 ## Application Evaluation
@@ -43,3 +43,4 @@ If you are accepted, the next step is to sign a [formal legal agreement with Sta
 ---
 [^1]: This doesn't mean we discriminate against experienced founders. On the contrary, you'll probably get accepted faster and move through stages quicker. If you think we can add value, we'll be happy to help!
 [^2]: Use sites such as [SlideShare](http://www.slideshare.net), [SpeakerDeck](https://speakerdeck.com) or [Google Slides](http://www.google.com/slides/about/) to share your product deck.
+[^3]: This is because we believe a team of at least two, and preferably three founders work best. Read up on [roles](5-startup-roles.md) to learn more about what it takes to build a startup team.

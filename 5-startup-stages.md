@@ -9,16 +9,16 @@ At Startup Village, we guide founders through a five-stage process in creating a
   Idea Discovery is when the founders discover a product idea that solves a clear user need.
 * [**Prototyping**](stages/2-prototyping.md)
 
-  At the Prototype Stage, you develop a working prototype that is a solution to your product idea.
+  At the Prototyping Stage, founders develop a working prototype that is a solution to their product idea.
 * [**Customer Validation**](stages/3-customer-validation.md)
 
-  At the Customer Validation Stage, you find early customers who pay for your product through money or attention.
+  At the Customer Validation Stage, startups find early customers who pay for their product through money or attention.
 * [**Efficiency**](stages/4-efficiency.md)
 
-  In the Efficiency Stage, you are finding a way to efficiently get more customers for your product that can lead to a predictable business model.
+  In the Efficiency Stage, founders find a way to efficiently get more customers that can lead to a predictable business model.
 * [**Scale**](stages/5-scale.md)
 
-  In the Scaling stage, you are trying to aggressively expand and grow your startup.
+  In the Scaling stage, startups are trying to aggressively expand and grow.
 
 
 As you move across stages, ambiguity decreases, and risk increases:

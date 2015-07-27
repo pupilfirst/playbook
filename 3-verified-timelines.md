@@ -43,7 +43,7 @@ Here's when a team moved back from a Customer Validation stage back to the Idea 
 
 ![Image of a pivot back to an earlier stage](images/timeline6.png)
 
-## Keep your Timelines Updated
+## Tip 1: Keep your Timelines Updated
 
 This is the single most important piece of advice you'll receive as part of the SV.CO program: make sure your timeline data is in sync with your startup.
 
@@ -65,6 +65,18 @@ There are several reasons that entrepreneurs usually think up *not to* update th
    
 In fact if there's one good reason to not update your timelines it's that there's something exciting happening to you that you'd like to update but it's something that we don't currently verify. Startups continously do new things. There might be a new event in your journey that is important but we may not have that as an *event* in our database. Please talk to your SV.CO representative and let's add that timeline event in.
 
+# Tip 2: Make Quality Timelines
+
+Your timeline is like your startup resume. Just like you wouldn't put junk in your resume, your timelines should be pristine and beautiful too. This means uploading high-quality logos, making sure your founder profile pictures are perfect, and most importantly, that your timeline updates make sense!
+
+Here are some examples of **BAD** timeline updates:
+
+1. "Pivoted to new product": This is bad because it hardly has any information at all for an interested viewer. A better one would be "Our previous iteration didn't have customer uptake because of <X>. During interviews, we figured out that most customers wanted a different product that did <Y>. So we've pivoted."
+2. "I raised $$$! Yay!": Again be specific, but more importantly, be professional as well. Think of your SV.CO timeline just like you would your LinkedIn profile. This is not your Facebook Wall.
+3. "We is raising twelve thousand rupees as ANGEL Funding from our friendz": Please proofread and check for grammatical errors and typos.
+
+While your SV.CO representative will help you with building timelines, ultimately it's up to you to own your timeline and make it great. Remember: this is what potential investors, mentors and employees will see.
+
 ## Verified Timeline Events
 
 Here's an exhaustive list of timeline events we record and verify:
@@ -78,7 +90,7 @@ Here's an exhaustive list of timeline events we record and verify:
 | Accelerator program | This is when you are formally accepted at a recognized startup accelerator program. | Copy of the acceptance email from accelerator. |
 | Acquired by | This is when you get acquired by another company. | Copy of the acquisition details including deal details. | 
 | Applied for patent | This is when you apply for a patent. | Copy of the patent application details. |
-| Associated with SV | This is when you successfully apply to Startup Village | This is an automatic event generated when you first join Startup Village | 
+| Associated with SV.CO | This is when you successfully apply to Startup Village | This is an automatic event generated when you first join Startup Village | 
 | Attended Event |  This is to record your team attending a notable event | Copy of invites or tickets | 
 | Collaboration | This is when you collaborate with another startup or a company | Copy & details of collaboration |
 | Developed the First Prototype | This records your first prototype creation | A demonstration of your prototype. |
@@ -97,6 +109,6 @@ Here's an exhaustive list of timeline events we record and verify:
 
 ## Next Steps
 
-That's the quick overview of our most important feature: Verified Timelines. Currently, you update your timelines by notifying your SV.CO representative about major timeline events, but we have an exciting timeline editor in the works.
+That's the quick overview of our most important features: Verified Timelines. Currently, you update your timelines by notifying your SV.CO representative about major timeline events, but we have an exciting timeline editor in the works.
 
 This concludes Part 1 of our playbook. Next, we talk about [Startup Roles](4-startup-roles.md).

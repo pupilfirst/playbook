@@ -11,7 +11,7 @@ There are two different kinds of prototypes you can build:
   Low-fidelity prototypes are useful if you want to quickly clarify an idea and see it in action.
 * **High-fidelity prototypes** resemble your actual product very closely, mimicking design and often the exact placement of user-interface elements.
 
-  At the Prototyping stage, we recommend that you build high-fidelity prototypes. In fact, we recommend you build these prototypes as if they would eventually evolve to your actual application. This means the highest fidelity possible: actual programming, real work on design and UX, and good copywriting.
+  At the Prototyping stage, **we recommend that you build high-fidelity prototypes**. In fact, we recommend you build these prototypes as if they would eventually evolve to your actual application. This means the highest fidelity possible: actual programming, real work on design and UX, and good copywriting.
 
 ## A Good Prototype
 
@@ -79,7 +79,7 @@ Resources:
 
 ## Marketing & Sales Role
 
-Identifying early customers who would use your product and showing demo's to your customers is the key role for Sales and Marketing.Talking to customers is a great way of building a sales pipeline who would buy your product once its ready. The feedback from early customers would be important to get insights into the actual problems they have which will help the engineering and product teams better build the product.
+Identifying early customers who would use your product and showing demos to your customers is the key role for Sales and Marketing at this stage. Talking to customers is a great way of building a sales pipeline who would buy your product once its ready. The feedback from early customers would be important to get insights into the actual problems they have which will help the engineering and product teams better build the product.
 
 From a story perspective, its time to start thinking about WHY your company is different and why your product will make a change in lives of customers/users.
 

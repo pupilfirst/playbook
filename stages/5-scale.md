@@ -52,9 +52,9 @@ Resources:
 
 A startup is all about growth. Once a startup is growing very fast, almost everything else falls in place.
 
-The key task at this stage would be
+The key task at this stage would be:
 
-1. Creating your complete Investor Pitch Deck to talk to potential investors by filling in all the data that you have gathered from the business
+1. Creating your complete Investor Pitch Deck to talk to potential investors by filling in all the data that you have gathered from the business.
 2. Creating a powerful narrative by weaving together the story and your financial/sales numbers which would explain to investor how your company is growing super fast and will be highly profitable.
 
 Resources:

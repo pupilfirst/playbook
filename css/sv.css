@@ -1,0 +1,8 @@
+.book .book-body .page-wrapper .page-inner section.normal a.glossary-term {
+  color: green;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal img {
+  margin-top: 5px;
+  border: 1px solid #c0c0c0;
+}

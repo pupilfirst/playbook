@@ -55,13 +55,11 @@ Resources:
 
 The essence of any sustainable company is that you have customers who are either paying directly or indirectly (eg:through advertising) for your product and the costs of acquiring these customers is lower than the cost of running the business.
 
-You have three key tasks at this stage
+You have three key tasks at this stage:
 
-1.Develop a sales and marketing strategy for customer acquisition. 
-
-2.Find the total life time value of customers and see if you have a repeatable sales cycle where total life time value is more than cost of customer acquisition.
-
-3.Ensure that you raise an invoice to your customer(s) and collect payments on time. Collection is a very important task as it directly increases the cash in your bank account which lets you pay your salaries and bills.
+1. Develop a sales and marketing strategy for customer acquisition. 
+2. Find the total life time value of customers and see if you have a repeatable sales cycle where total life time value is more than cost of customer acquisition.
+3. Ensure that you raise an invoice to your customer(s) and collect payments on time. Collection is a very important task as it directly increases the cash in your bank account which lets you pay your salaries and bills.
 
 Resources:
 
@@ -89,7 +87,7 @@ Resources:
 * Raising too little money. You need money to drive experiments and user growth.
 * Raising too much money. This might seem like a contradiction, but too much money makes founders indisciplined. Remember: money is not the solution to your problems, it's just a means to arrive at it.
 * Having more than 1 level of hierarchy.
-* Overcompensating missing product/market fit with marketing and press. Marketing and Press does not equate to business success, when used effectively they are a tool to rope in customers.
+* Overcompensating for a missing product/market fit with marketing and press. Marketing and Press does not equate to business success, when used effectively they are just a tool to rope in customers.
 
 ## Proceeding to Scale
 

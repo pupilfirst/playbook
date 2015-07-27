@@ -12,7 +12,7 @@ The Idea Discovery stage is the first (& perhaps least understood) stage in a st
 
 ## The Right Idea
 
-Let's get this straight from day one: there's no formula or checklist for what makes an idea great. Nobody predicted the success of Twitter, and even fewer predicted the rise of casual games such as Angry Birds. Sure, after the fact there were signs pointing to such products being ripe, but it's hard to predict the future. However, all is not lost: there are three tests entrepreneurs use to figure out a "possibly good" idea.
+Let's get this straight from day one: there's no formula or checklist for what makes an idea great. Nobody predicted the success of Twitter, and even fewer predicted the rise of casual games such as Angry Birds. Sure, after the fact there were signs pointing to such products being ripe, but it's hard to predict the future. However, all is not lost: there are four tests entrepreneurs use to figure out a "possibly good" idea.
 
 1. Am I solving a real genuine problem that people have?
 
@@ -20,11 +20,15 @@ Let's get this straight from day one: there's no formula or checklist for what m
 
 2. Will you (& your friends) use it?
 
-   This is perhaps one of the most important tests. It's a reasonable indication of whether people would want it, but more importantly, it's a good test of whether you will be committed to the product for the duration it's required to make it successful.
+   This is another important test. It's a reasonable indication of whether people would want it, but more importantly, it's a good test of whether you will be committed to the product for the duration it's required to make it successful.
 
 3. Has it been done before? And why is mine better?
 
    Although often ridiculed as copycat products, people forget that Facebook wasn't the first social network. Neither was Google the first search engine. They just had quantifiably better products. Improving upon an inefficient or unusable existing product is a good way to begin. Or adapting it to a different reality: take the example of Flipkart, often called the Amazon of India but which innovated and brought Cash-On-Delivery to the eCommerce product ecosystem.
+   
+4. Why is today the right now to build this?
+
+   Many startups have failed because their ideas have been too forward-thinking. Maybe a new regulation has opened up opportunities right now. Or some new technology has brought about a change. You should be able to find a great answer to this question.
 
 ## Typical Activities
 
@@ -75,19 +79,18 @@ Resources:
 
 Sales and Marketing is an exciting role that brings together creativity and analytical skills. There are two key tasks in this role.
 
-A. Creating a Brand Identity (Company Website, Company Logo, Brand Philosophy)
+1. Creating a Brand Identity (Company Website, Company Logo, Brand Philosophy)
+   
+   Every great company has a great story to say. As your startup goes through each stage, the nature of the stories change. Initially you are telling the story to your co-founders as to why you have come together to start this company. Then you would say a story to your early adopters/early customers and finally you have to craft a story for your investors. Remember that your stories have to be authentic and real for otherwise, it would come crashing down at some point in the future.
 
+2. Estimating the Market size or total potential market your product.
 
-Every great company has a great story to say. As your startup goes through each stage, the nature of the stories change. Initially you are telling the story to your co-founders as to why you have come together to start this company. Then you would say a story to your early adopters/early customers and finally you have to craft a story for your investors. Remember that your stories have to be authentic and real for otherwise, it would come crashing down at some point in the future.
-
-B. Estimating the Market size or total potential market your product.
-
-Estimating market size is a mix of actual numbers from market research reports and a guess estimate of how much share of the total market your company would get.This is a skill that you would learn through experience and multiple attempts.
+   Estimating market size is a mix of actual numbers from market research reports and a guess estimate of how much share of the total market your company would get. This is a skill that you would learn through experience and multiple attempts.
 
 
 Resources:
 * [The Secret Structure of Great Stories](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) is one of the most scientific ways in which stories are structured
-* [Creating the Apple Brand Philosphy and Marketing Campaign](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) is an internal video from Apple when Steve Jobs discusses the Brand Philosophy of Apple
+* [Creating the Apple Brand Philosphy and Marketing Campaign](https://www.youtube.com/watch?v=keCwRdbwNQY) is an internal video from Apple when Steve Jobs discusses the Brand Philosophy of Apple
 * [Estimating Market Size - How each person has his own view - The Uber example](http://abovethecrowd.com/2014/07/11/how-to-miss-by-a-mile-an-alternative-look-at-ubers-potential-market-size/) is a great example that shows you how even experts find it hard to come to the right market size.
 * [How to build a billion dollar business](http://steveblank.com/2012/04/19/how-to-build-a-billion-dollar-startup/) is a great post by Professor Steve Blank and gives you billion dollar ideas.
 * [Writing a Business Plan](https://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan) from Sequoia gives you the bare essentials of what a business plan has. At this stage you should have an idea about potential market size, a first marketing plan, and things you should do to scale up.

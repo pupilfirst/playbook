@@ -60,14 +60,13 @@ Resources:
 
 ## Marketing & Sales Role
 
-The moment of truth whether customers would use your product is something that every startup has to face. This is the first step where you either clearly succeed or fall down. If you are a first time founder with little or zero industry experience, you will most probably fall down in this stage and that is perfectly normal and OK. 
+The moment of truth whether customers would use your product is something that every startup has to face. This is the first step where you either clearly succeed or fail. If you are a first time founder with little or zero industry experience, you can fail at this stage and that is perfectly normal and OK. 
 
-As leaders, you need to know how to handle falling down and also learn how to get up. Just like boxing matches, you dont actually fail if you fall down. You fail and get defeated only if you dont get up.
+As leaders, you need to know how to handle failing and also learn how to get up and start again. Just like boxing matches, you don't actually fail if you fall down. You fail and get defeated only if you don't get up.
 
 The key tasks at this stage is to get your prototype to as many early customers as possible and get feedback from them. The feedback from actual customers can teach you more at this stage than any online resource.
 
 Resources:
-
 
 * For App Marketers, it's useful to understand [ASO](https://en.wikipedia.org/wiki/App_store_optimization).
 * [UserVoice](https://www.uservoice.com) is great for setting up forums for your customers.

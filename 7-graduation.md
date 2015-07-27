@@ -21,10 +21,10 @@ Just as a recap, at Startup Village, we give you six ways to successfully gradua
 
   You decide to build upon the skills you acquired by getting a formal degree.
 
-At Startup Village, all of these are perfectly happy outcomes. We think the much hyped story of a founder striking it big from his garage is good press, but building a startup can be about much more than a good exit. If you are one of those few founders who make it big, great! But building a great startup can help you with all of these six different journeys.
+Again: as a reminder, all of these are perfectly happy outcomes. You do not have to get a great exit to be good at startups. Use the skills your learnt from building startups *to do what you love to do*.
 
-## Becoming an Alumni
-Once you graduate, we'll identify you as an Alumni. New founders who see your timeline and your journey might decide to follow your path. As an Alumni, it's expected that you'll help them out.
+## Becoming an SV.CO Graduate
+Once you graduate, we'll brand you as such separately. New founders who see your timeline and your journey might decide to follow your path. As a Graduate, it's expected that you'll help them out.
 
 And if it makes sense[^1], do continue to maintain your timeline.
 
@@ -52,4 +52,4 @@ This has been the experience of every startup founder we've interacted with as w
 As Steve says so wonderfully, *Stay Hungry, Stay Foolish*. All the best!
 
 ---
-[^1]: As an example, if you get acqui-hired.
+[^1]: As an example, if you get acqui-hired, or you raise funding.

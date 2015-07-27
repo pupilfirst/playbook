@@ -4,7 +4,7 @@
   "description": "How to become an entrepreneur & learn life lessons via building great companies and products.",
   "language": "en",
   "structure": {
-    "readme": "introduction.md"
+    "readme": "0-introduction.md"
   },
   "plugins": [ "addcssjs" ],
   "pluginsConfig": { 

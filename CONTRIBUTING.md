@@ -17,7 +17,7 @@ Follow these steps to contribute:
 Notes:
 
 * Formatting is done through Markdown.
-* The book is published through Gitbook.
+* The book is published through [Gitbook](https://www.gitbook.com).
 
 # What should I contribute?
 
