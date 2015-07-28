@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # Entrepreneur
 There are many definitions of an entrepreneur, but this quote describes what we like best: “The critical ingredient is getting off your butt and doing something. It’s as simple as that. A lot of people have ideas, but there are few who decide to do something about them now. Not tomorrow. Not next week. But today. The true entrepreneur is a doer, not a dreamer.” –Nolan Bushnell, entrepreneur.
 

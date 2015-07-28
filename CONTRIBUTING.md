@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # Contributing to this Playbook
 Hello and thank you for considering contributing to this community maintained playbook. 
 

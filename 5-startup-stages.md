@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # Startup Stages
 
 Every successful startup grows through a series of stages. We have used this as the foundation of the SV.CO Platform. We've modeled this closely on Marmer Stages[^1] but added in a stage specifically for prototyping because we think it's a crucial intermediary step towards good product development.

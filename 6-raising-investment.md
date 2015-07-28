@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # Raising Investment in your Startup
  
 Startups always need money for resources such as computers, Internet, travel, mobile phones and server bills or paying salaries to employees. These resources when brought in by the founders and or generated from operations and sales by the startup is known as *bootstrapping*. Bootstrapping is a great way to build a startup in its early stages.

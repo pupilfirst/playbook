@@ -1,3 +1,5 @@
+{% include "../_nav.md" %}
+
 # Customer Validation
 When increasing number of customers use and give feedback on your product, startups hit the Customer Validation stage. The aim of this stage to hit a *Product-Market fit*. Defined simply, Product-Market fit happens when the market (your customers) pay enough money or attention to your product to justify its creation. But, how much is good enough?
 

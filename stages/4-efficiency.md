@@ -1,3 +1,5 @@
+{% include "../_nav.md" %}
+
 # Efficiency
 
 Efficiency happens when you can replicate your product-market fit across a much larger set of customers. Before you expand your startup after the Customer Validation stage, it's wise to think about whether your product idea can actually work at scale: this is what the Efficiency stage is about. A lot of ideas are easy to implement when the user base is low, but are much harder when the number of customers or the number of engagements go up. 

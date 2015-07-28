@@ -1,3 +1,5 @@
+{% include "../_nav.md" %}
+
 # Idea Discovery
 
 The Idea Discovery stage is the first (& perhaps least understood) stage in a startup. Entrepreneurs are always in a rush to build something so there's a huge tendency to skimp on this stage. Well, why shouldn't you? To understand this, let's examine two harsh realities in the life of any entrepreneur.

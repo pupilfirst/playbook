@@ -1,3 +1,5 @@
+{% include "../_nav.md" %}
+
 # Scale
 Scaling up is when you have a well-oiled machine in your startup and you want to produce more and more of it. A repeatable business model is a necessity for the Scale stage, but it is not sufficient. Depending on the kind of startup you have, there are different ways to scale up, but they usually have a lot of things in common.
 

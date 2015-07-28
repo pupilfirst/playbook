@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # Graduation
 
 Just as a recap, at Startup Village, we give you six ways to successfully graduate:

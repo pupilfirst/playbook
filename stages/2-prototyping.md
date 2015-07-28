@@ -1,3 +1,5 @@
+{% include "../_nav.md" %}
+
 # Prototyping
 
 While you might create something to show for the Idea Discovery stage, it's at Prototyping that your team builds the first version of your product. This is a crucial intermediary step where the Engineering role has prominence. Prototyping also helps you refine your initial idea, and to weed out parts that are not feasible to build with your current team.

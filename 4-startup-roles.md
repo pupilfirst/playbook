@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # Startup Roles
 
 In a good startup, founders pay attention to five roles:

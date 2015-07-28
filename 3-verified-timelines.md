@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # Verified Timelines
 
 Verified timelines are aimed at tackling one of the biggest problems a new entrepreneur faces: uncertainty (or "What do I do now?"). When used correctly, the Verified Timeline is like your startup compass pointing to true North for your journey and gives you answers to these three questions:

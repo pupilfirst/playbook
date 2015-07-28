@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # The Startup Village Application
 
 ## Eligibility
@@ -25,6 +27,7 @@ In the first section, you fill in your basic information. It's best to fill in a
 ---
 Next you create your basic Startup Profile. The most important item here is your deck. To get pointers on how to create a good deck, see the [Idea Discovery](stages/1-idea-discovery.md) page.
 ![Images of the application process](images/apply2.png)
+
 
 ---
 And that's it! You can then add in co-founders here. *Note:* Currently, it's compulsory for you to have at least one cofounder for a successful application[^3].

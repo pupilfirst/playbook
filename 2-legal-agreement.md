@@ -1,3 +1,5 @@
+{% include "_nav.md" %}
+
 # The Legal Agreement
 
 Once your application is accepted, you sign a legal agreement between your founding team and Startup Village that lays out how the SV.CO platform will help you build great products, and what your team will offer SV.CO in return.
