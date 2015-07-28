@@ -6,11 +6,9 @@
   "structure": {
     "readme": "0-introduction.md"
   },
-  "plugins": [ "addcssjs" ],
-  "pluginsConfig": { 
-    "addcssjs": { 
-      "js": ["js/sv.js"], 
-      "css": ["css/sv.css"] 
-    } 
+  "plugins": [],
+  "pluginsConfig": {},
+  "styles": {
+    "website": "css/sv.css"
   }
 }
