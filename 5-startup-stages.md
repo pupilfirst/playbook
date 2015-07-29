@@ -6,19 +6,19 @@ Every successful startup grows through a series of stages. We have used this as 
 
 At Startup Village, we guide founders through a five-stage process in creating a great startup:
 
-* [**Idea Discovery**](stages/1-idea-discovery.md)
+* [**Idea Discovery**](stages/5.1-idea-discovery.md)
 
   Idea Discovery is when the founders discover a product idea that solves a clear user need.
-* [**Prototyping**](stages/2-prototyping.md)
+* [**Prototyping**](stages/5.2-prototyping.md)
 
   At the Prototyping Stage, founders develop a working prototype that is a solution to their product idea.
-* [**Customer Validation**](stages/3-customer-validation.md)
+* [**Customer Validation**](stages/5.3-customer-validation.md)
 
   At the Customer Validation Stage, startups find early customers who pay for their product through money or attention.
-* [**Efficiency**](stages/4-efficiency.md)
+* [**Efficiency**](stages/5.4-efficiency.md)
 
   In the Efficiency Stage, founders find a way to efficiently get more customers that can lead to a predictable business model.
-* [**Scale**](stages/5-scale.md)
+* [**Scale**](stages/5.5-scale.md)
 
   In the Scaling stage, startups are trying to aggressively expand and grow.
 
@@ -33,7 +33,7 @@ Some important points to note before we proceed:
 * Do keep in mind that as we've mentioned before, at Startup Village, there are [six ways to succeed](introduction.md).
 
 ## Next Steps
-Let's move on to describing the first stage: [Idea Discovery](stages/1-idea-discovery.md).
+Let's move on to describing the first stage: [Idea Discovery](stages/5.1-idea-discovery.md).
 
 
 [^1]: Startup Genome Report: [PDF Version](https://s3.amazonaws.com/startupcompass-public/StartupGenomeReport1_Why_Startups_Succeed_v2.pdf).

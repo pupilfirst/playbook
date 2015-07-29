@@ -62,4 +62,4 @@ Here are some other tips to help you along the way:
 * The market value of your share is constant before and after investment. Your company valuation has increased however with new money coming in.
 
 ## Next Steps
-Before we part, do read a short note on what it means to [Graduate](7-graduation.md).
+You can now read more in depth about [term sheets](6.1-termsheets.md). Or, proceed onto what it means to [Graduate](7-graduation.md).

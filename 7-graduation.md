@@ -53,5 +53,4 @@ This has been the experience of every startup founder we've interacted with as w
 
 As Steve says so wonderfully, *Stay Hungry, Stay Foolish*. All the best!
 
----
 [^1]: As an example, if you get acqui-hired, or you raise funding.
