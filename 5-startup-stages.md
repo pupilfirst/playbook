@@ -30,7 +30,7 @@ Some important points to note before we proceed:
 
 * One insight that we have had by observing many startups is that as they grow through the various stages, their priorities as a team has to change to what is needed most for success in that stage. A lot of startups fail because they have the wrong priorities for their stage.  What we've tried to do through the SV.CO platform is to help the startup identify what stage they are in, and then provide resources that are helpful to them at that particular stage.
 * Startups also rarely move unidirectionally: instead most move through multiple iterations and pivots before they achieve scale. We've noticed that most startups that succeed go through more than two pivots and persevere through multiple iterations before their product hits customer validation. It's probable that a first-time founder will spend two years just reworking his original idea.
-* Do keep in mind that as we've mentioned before, at Startup Village, there are [six ways to succeed](introduction.md).
+* Do keep in mind that as we've mentioned before, at Startup Village, there are [six ways to succeed](0-introduction.md).
 
 ## Next Steps
 Let's move on to describing the first stage: [Idea Discovery](stages/5.1-idea-discovery.md).
