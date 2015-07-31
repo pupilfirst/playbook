@@ -73,9 +73,9 @@ Your timeline is like your startup resume. Just like you wouldn't put junk in yo
 
 Here are some examples of **BAD** timeline updates:
 
-1. "Pivoted to new product": This is bad because it hardly has any information at all for an interested viewer. A better one would be "Our previous iteration didn't have customer uptake because of <X>. During interviews, we figured out that most customers wanted a different product that did <Y>. So we've pivoted."
-2. "I raised $$$! Yay!": Again be specific, but more importantly, be professional as well. Think of your SV.CO timeline just like you would your LinkedIn profile. This is not your Facebook Wall.
-3. "We is raising twelve thousand rupees as ANGEL Funding from our friendz": Please proofread and check for grammatical errors and typos.
+1. *"Pivoted to new product"*: This is bad because it hardly has any information at all for an interested viewer. A better one would be "Our previous iteration didn't have customer uptake because of XX. During interviews, we figured out that most customers wanted a different product that did YY. So we've pivoted."
+2. *"I raised $$$! Yay!"*: Again be specific, but more importantly, be professional as well. Think of your SV.CO timeline just like you would your LinkedIn profile. This is not your Facebook Wall.
+3. *"We is raising twelve thousand rupees as ANGEL Funding from our friendz"*: Please proofread and check for grammatical errors and typos.
 
 While your SV.CO representative will help you with building timelines, ultimately it's up to you to own your timeline and make it great. Remember: this is what potential investors, mentors and employees will see.
 
