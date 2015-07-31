@@ -60,7 +60,7 @@ At Startup Village, we give you six ways to successfully graduate:
   
 At Startup Village, all of these are perfectly happy outcomes. We think the much hyped story of a founder striking it big from his garage is good press, but building a startup can be about *much more* than a good exit. If you are one of those few founders who make it big, great! But we are happy with any and all of these outcomes.
 
-If you haven't watched our founder showcase yet, [take some time to do that now](https://www.youtube.com/playlist?list=PLrvZyo34miDKhO2JCA9sAzZ6kwjGzwBYv).
+If you haven't watched our founder showcase yet, [take some time to do that now](https://www.youtube.com/playlist?list=PLrvZyo34miDJw8cOzZzEbVStLYR-ym4m7).
 
 ## Next Steps
 
