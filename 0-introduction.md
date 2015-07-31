@@ -2,7 +2,7 @@
 
 # The Startup Village Playbook
 
-<img src="cover.jpg" alt="Book cover image" />
+<img src="cover_small.jpg" alt="Book cover image" />
 
 The term *Playbook* originates from the game of football and describes a notebook that contains descriptions and diagrams of the common strategies frequently used by teams. We believe that creating a startup is like a team sport similar to football. The rules of football are simple to learn and the various roles of *forward*, *mid-fielder*, *defender* and *goalkeeper* are easy to understand. When the individuals in the team play together and score more goals than the opposition, they win. However, to become a successful football player with world-class skills takes a lot of practice and cannot be learned by just reading about it.
 
