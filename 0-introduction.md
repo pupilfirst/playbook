@@ -68,4 +68,4 @@ The second & longer part is about stages in the life of a startup, typical activ
 
 You needn't read this playbook cover to cover. Instead, focus on the areas that seem interesting to you and read just that.
 
-Read on to join this amazing adventure. Your next step is to [apply](1-application.md).
+Read on to join this amazing adventure. Your next step is to read about our <a href="1-partnership.md">academic partnership with Universities</a>.
