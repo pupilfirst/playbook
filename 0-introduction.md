@@ -1,14 +1,14 @@
 {% include "_nav.md" %}
 
-# The Startup Village Playbook
+# The SV.CO Playbook
 
 <img src="cover_small.jpg" alt="Book cover image" />
 
-The term *Playbook* originates from the game of football and describes a notebook that contains descriptions and diagrams of the common strategies frequently used by teams. We believe that creating a startup is like a team sport similar to football. The rules of football are simple to learn and the various roles of *forward*, *mid-fielder*, *defender* and *goalkeeper* are easy to understand. When the individuals in the team play together and score more goals than the opposition, they win. However, to become a successful football player with world-class skills takes a lot of practice and cannot be learned by just reading about it.
+The term *Playbook* originates from the game of football and describes a notebook that contains descriptions and diagrams of the common strategies frequently used by teams. We believe that creating a startup is like a team sport similar to football. The rules of football are simple to learn and the various roles of *forward*, *mid-fielder*, *defender* and *goalkeeper* are easy to understand. When the individuals in the team play together and score more goals than the opposition, they win. However, to become a successful football player with world-class skills takes a lot of practice. You cannot become good at football just reading about it.
 
-Creating a startup is just like assembling a professional football team: you learn by doing. To build a championship team, you need great players at each role and the team needs to play together towards a goal or an aim.
+Creating a startup is just like assembling a great football team: you learn by doing. To build a championship team, you need great players at each role and the team needs to play together towards a single goal.
 
-This Startup Playbook has the basic rules of how to play the startup game and is a guide for you to continuously refer back to on your startup journey. Like in any sport, the more you practice, the better you become at the game.
+This Startup Playbook has the basic rules of how to play the startup game and is a guide for you to continuously refer back to on your startup journey. Like in any sport, the more you practice, the better you become at this.
 
 ## What We Believe
 
@@ -31,7 +31,7 @@ Here's how Startup Village compares to a traditional school or college:
 
 This Startup Playbook is curated information that will guide you through the startup journey. This entire book can be read in two weeks but to practice it and become an expert is a life long process. The more you practice, the more skilled you become. There is no need to memorise anything. There is no need to learn formulae by heart. Everything is available on the Internet and you can check any video or web link at any point of time.
  
-There is no need to be apprehensive of a final exam. Building a startup is a continuous creative process. You become better at this with the more experienced you get. Close to no one gets it right in the first try and thus you need to keep releasing the product and keep iterating it over. The best version of Android is always the next one: perfection is a work in progress.
+There is no need to be apprehensive of a final exam. Building a startup is a continuous creative process. You become better at this with the more experienced you get. Close to no one gets it right in the first try and thus you need to keep revising the product iterating it. The best version of Android is always the next one: perfection is a work in progress.
 
 Building a Startup is a creative adventure and is the perfect mix of Science, Arts & Humanties. As you get exposed to these diverse fields, your options in life also increase with the new skills and experiences you gain while you build a startup.
 
@@ -59,6 +59,8 @@ At Startup Village, we give you six ways to successfully graduate:
   You decide to build upon the skills you acquired by getting a formal degree.
   
 At Startup Village, all of these are perfectly happy outcomes. We think the much hyped story of a founder striking it big from his garage is good press, but building a startup can be about *much more* than a good exit. If you are one of those few founders who make it big, great! But we are happy with any and all of these outcomes.
+
+If you haven't watched our founder showcase yet, [take some time to do that now](https://www.youtube.com/playlist?list=PLrvZyo34miDKhO2JCA9sAzZ6kwjGzwBYv).
 
 ## Next Steps
 
