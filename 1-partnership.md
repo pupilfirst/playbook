@@ -33,7 +33,9 @@ Both programs have the same fee of ₹15,000 a semester. If you are an eligible 
 
 ## Scholarships
 
-We'll soon be announcing extensive scholarships for eligible founders. Please contact your SV.CO representative for further details.
+We'll soon be announcing extensive scholarships for eligible founders. We'll have three kinds of scholarships available: *Performing Scholarships*: for high-performance teams, *Women Leader Scholarships*: to encourage women to pursue leadership roles, and *Financial Scholarships*: to ensure that meritorious candidates who are from financially weaker families are not denied an opportunity to be part of this learning process.
+
+Please contact your SV.CO representative for further details.
 
 ## Next Steps
 
