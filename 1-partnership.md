@@ -28,8 +28,6 @@ If you don't meet the evaluation criteria, you will not be awarded the correspon
 ## Program Duration
 Unlike traditional models which have a fixed time duration, all resource materials, progress milestones and graduation methods are given upfront so that teams can move at their own pace depending on the number of hours they are putting in, quality of the team, the product and market opportunity and of course a bit of luck. We have noticed teams graduating in as short as 823 days to 1946 days.
 
-This is a first-of-its-kind partnership between Gujarat Technical University (GTU) and SV.CO to offer additional learning opportunities as part of B.Tech/BE programme or standalone from a real University to first-time founders.
-
 ## Program Fee
 Both programs have the same fee of ₹15,000 a semester. If you are an eligible founder, there are scholarships available.
 
