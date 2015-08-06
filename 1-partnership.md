@@ -18,8 +18,8 @@ SV.CO evaluates teams based on an evidence-based evaluation criteria. In other w
 
 Teams will have to complete *one of these milestones* for earning academic credentials:
  
-* *Revenue Realised*: The team should recognise a revenue of at least *₹250,000* either from a single product of cumulatively for its products
-* *Profits Generated*: The team should to be able to generate a profit of at least *₹100,000* either from a single product of cumulatively for its products
+* *Revenue Realised*: The team should recognise a revenue of at least *₹250,000* either from a single product or cumulatively for its products
+* *Profits Generated*: The team should to be able to generate a profit of at least *₹100,000* either from a single product or cumulatively for its products
 * *Angel/Venture Funding*: The team should be able to raise an angel or venture capital funding of at least *₹5,00,000* for its startup by way of dilution of equity shares.
 * *Patent Granted*: The team should be able to win a Patent Grant in India or anywhere in the world for its invention.
 
