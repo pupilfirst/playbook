@@ -1,7 +1,7 @@
 # Things to do
-* Clarify Investor Joined timeline event
 * Add real-world examples to success and failure scenarios for each stage.
-* Add glossary
+* Add in links to the SV.CO financial documents repository.
+* Add more to glossary
   * Market, Minimum Viable product, Patents, Investment, Seed funding, Capital, Venture Capitalists, Angel Investors, Mentoring
   * Incubator, Business Valuation, CEO, CFO, CMO, COO, CCO, Founder, IPOs, Term Sheets, Stocks, Information rights.Crowd funding
   * Startup, MVP, Term Sheet, Angel Investor, Cap Table

@@ -21,6 +21,10 @@ Hello and thank you for considering contributing to this community maintained pl
 * Formatting is done through Markdown.
 * The book is published through [Gitbook](https://www.gitbook.com).
 
+# Example Issues
+* A [simple typo correction](https://github.com/svlabs/playbook/pull/3) submitted by @alenthomas.
+* @avinashpatra [adding in a new chapter](https://github.com/svlabs/playbook/pull/2).
+
 # What should I contribute?
 Anything that you think will be useful for our learning platform intended for first-time founders. Look at TODO.md in the repo for pointers.
 
