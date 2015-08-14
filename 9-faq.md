@@ -66,7 +66,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 
 5. Since we are joining through the Fintech Box program, what all changes will be there in our startup life cycle stages?
 
-   No. You will go through the [stages as described in the Playbook](5-startup-stages.md).
+   You will go through the [stages as described in the Playbook](5-startup-stages.md).
 
 6. Are we now part of SV.CO? If yes, do you expect us to graduate within 6 months? Do we have to pay the semester fees mentioned?
 
@@ -108,7 +108,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
     
     The validity period is 5 years. See "Term and Termination" in [legal agreements](2-legal-agreement.md).
 
-16. What we were hired outside of SV?
+16. What we were hired outside of Startup Village?
 
     Then you don’t have to pay SV.CO anything. If we help you get a great job, you pay us. Our fee is success-based.
 
