@@ -108,7 +108,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
     
     The validity period is 5 years. See "Term and Termination" in [legal agreements](2-legal-agreement.md).
 
-16. What we were hired outside of Startup Village?
+16. What if we were hired outside of Startup Village?
 
     Then you don’t have to pay SV.CO anything. If we help you get a great job, you pay us. Our fee is success-based.
 
