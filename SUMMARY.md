@@ -17,5 +17,6 @@
   * [Termsheets](6.1-termsheets.md)
 * [Graduation](7-graduation.md)
 * [Code of Conduct](8-code-of-conduct.md)
+* [Frequently Asked Questions](9-faq.md)
 * [Contributing to this Playbook](CONTRIBUTING.md)
 * [Licensed as CC-BY](LICENSE.md)
