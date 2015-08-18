@@ -10,7 +10,7 @@ These are questions startups & founders[^1] ask us often about SV.CO. We decided
 
    The SV.CO programme is intended as a self-learning platform for first-time founders. The Playbook provides a structured approach to developing products and defines stages that startups have to advance through & roles that every startup should have. Bi-weekly office hours with the Startup Village faculty, beginning with Engineering, Product and Marketing & Sales sessions will be part of the programme.
 
-2. Can I use a slide hosting service like Prezi instead of SlideShare, Speakerdeck etc?
+2. Can I use a slide hosting service like Prezi instead of SlideShare, Speakerdeck et. al.?
 
    Of course. You can even specify a link to a PDF/PPT file you host somewhere. The idea is to have a permanent link, we're not particularly concerned about where you host it.
 
