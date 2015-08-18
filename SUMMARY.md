@@ -4,6 +4,7 @@
 * [University Partnership](1-partnership.md)
   * [The Application](1.1-application.md)
   * [Public Slack Channel](1.2-slack.md)
+  * [Kerala SEP](1.3-kerala-sep.md)
 * [The Legal Agreement](2-legal-agreement.md)
 * [Verified Timelines](3-verified-timelines.md)
 * [Startup Roles](4-startup-roles.md)

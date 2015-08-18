@@ -116,5 +116,31 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 
     The validity period of the [legal agreements](2-legal-agreement.md) that you sign is 5 years. You can exit after 6 months if you decide to shut down your venture. Or you can pivot to new ideas and continue being part of SV.CO after returning the boxes. All other benefits remain the same and we will keep supporting you.
 
+## Student Entrepreneurship Policy Questions
+
+1. I'm a student outside Kerala, can I avail these benefits?
+   
+   No. Only students in Kerala are currently eligible. We have a detailed guide to the [Kerala SEP program](1.3-kerala-sep.md).
+
+2. How long will I have to wait to receive the benefit?
+
+   It depends on your University. We've noticed that it takes a minimum of 2 months to complete the process.
+   
+3. How are the grace marks distributed?
+
+   This is up to the University, but we've noticed that they tend to distribute marks equally amongst the Theory component of your grade.
+   
+4. The internal component of my grade has marks reserved for attendance. Will the SEP grace marks apply to that?
+
+   See question 3. Usually, this is a no. SEP grace marks only apply to the Theory component.
+   
+5. If I have back-papers am I eligible for this benefit?
+
+   Yes. As long as you are a student of the University for that particular semester, you are eligible.
+   
+6. Will this benefit apply to supplementary or improvement papers?
+
+   Yes, once you receive this benefit, it will apply to any exams you might have in that particular semester, including improvements and supplementary exams. Obviously, this benefit wouldn't carry on to exams in other semesters. You need to apply individually to other semesters.
+
 ---
 [^1]: All questions are from the point of view of the founders.
