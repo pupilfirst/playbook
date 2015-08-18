@@ -122,7 +122,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
    
    No. Only students in Kerala are currently eligible. We have a detailed guide to the [Kerala SEP program](1.3-kerala-sep.md).
 
-2. How long will I have to wait to receive the benefit?
+2. How long will I have to wait to receive the benefits?
 
    It depends on your University. We've noticed that it takes a minimum of 2 months to complete the process.
    
@@ -130,9 +130,9 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 
    This is up to the University, but we've noticed that they tend to distribute marks equally amongst the Theory component of your grade.
    
-4. The internal component of my grade has marks reserved for attendance. Will the SEP grace marks apply to that?
+4. The Internal component of my grade has marks reserved for attendance. Will the SEP grace marks apply to that?
 
-   See question 3. Usually, this is a no. SEP grace marks only apply to the Theory component.
+   See question 3. Usually, the answer is a no. SEP grace marks only apply to the Theory component.
    
 5. If I have back-papers am I eligible for this benefit?
 
@@ -140,7 +140,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
    
 6. Will this benefit apply to supplementary or improvement papers?
 
-   Yes, once you receive this benefit, it will apply to any exams you might have in that particular semester, including improvements and supplementary exams. Obviously, this benefit wouldn't carry on to exams in other semesters. You need to apply individually to other semesters.
+   Yes, once you receive this benefit, it will apply to any exams you might have in that particular semester, including improvements and supplementary exams. Obviously, this benefit wouldn't carry on to exams in other semesters. You need to apply individually for other semesters.
 
 ---
 [^1]: All questions are from the point of view of the founders.
