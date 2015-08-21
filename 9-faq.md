@@ -6,37 +6,41 @@ These are questions startups & founders[^1] ask us often about SV.CO. We decided
 
 ## General SV.CO Questions
 
-1. How are we guided and mentored?
+1. What should I include in the Deck during application submission?
+
+   There is a great guide to what to include in [our Deck writeup](stages/5.1.1-deck.md).
+
+2. How are we guided and mentored?
 
    The SV.CO programme is intended as a self-learning platform for first-time founders. The Playbook provides a structured approach to developing products and defines stages that startups have to advance through & roles that every startup should have. Bi-weekly office hours with the Startup Village faculty, beginning with Engineering, Product and Marketing & Sales sessions will be part of the programme.
 
-2. Can I use a slide hosting service like Prezi instead of SlideShare, Speakerdeck et. al.?
+3. Can I use a slide hosting service like Prezi instead of SlideShare, Speakerdeck et. al.?
 
    Of course. You can even specify a link to a PDF/PPT file you host somewhere. The idea is to have a permanent link, we're not particularly concerned about where you host it.
 
-3. I'm having trouble adding co-founders. Can you help me?
+4. I'm having trouble adding co-founders. Can you help me?
 
    Yes of course. This is probably because both of you have similarly named startups in your name. We only allow founders to join one startup, and one of you will have to delete your duplicate startup. Write to help@sv.co and we'll help you out.
 
    Also: it would be great if you read the detailed [application section](1.1-application.md) in the Playbook thoroughly.
 
-4. We would like to know more about the Gujarat University Scholarship.
+5. We would like to know more about the Gujarat University Scholarship.
 
    There is now a new page in the Playbook that talks about the [GTU partnership](1-partnership.md).
 
-5. Are we required to stick to the existing idea that we chose initially or do we have the freedom to explore into new areas?
+6. Are we required to stick to the existing idea that we chose initially or do we have the freedom to explore into new areas?
 
    You can and probably will pivot. It’s up to you to make your startup a success. Don’t give up too soon though, and without great reasons. The [Idea Discovery section](stages/5.1-idea-discovery.md) has a lot more detail about questions such as these.
 
-6. How is our work to be tracked so as to ensure we are going at a proper pace?
+7. How is our work to be tracked so as to ensure we are going at a proper pace?
 
    Through the [Verified Timeline](3-verified-timelines.md), which will also form the basis of a Transcript from our [GTU partnership](1-partnership.md).
 
-7. The playbook has detailed timing for each stages of a startup. Should we also follow this timing exactly?
+8. The playbook has detailed timing for each stages of a startup. Should we also follow this timing exactly?
 
    Startups advance at their own pace. The timing mentioned in the Playbook is just indicative of the average times founders usually take. The programme is milestone based (i.e. have you achieved everything to move up a stage?) and not time-bound.
    
-8. How do I edit my timeline?
+9. How do I edit my timeline?
 
    Our timeline builder is still WIP. We'll have it ready soon!
 

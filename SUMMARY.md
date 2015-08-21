@@ -10,6 +10,7 @@
 * [Startup Roles](4-startup-roles.md)
 * [Startup Stages](5-startup-stages.md)
     * [Idea Discovery](stages/5.1-idea-discovery.md)
+      * [The Deck](stages/5.1.1-deck.md)
     * [Prototyping](stages/5.2-prototyping.md)
     * [Customer Validation](stages/5.3-customer-validation.md)
     * [Efficiency](stages/5.4-efficiency.md)
