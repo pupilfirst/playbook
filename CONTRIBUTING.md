@@ -3,6 +3,8 @@
 # Contributing to this Playbook
 Hello and thank you for considering contributing to this community maintained playbook.
 
+**Important Note**: By contributing to this Playbook, you agree to license your work with the same terms and conditions as described in [LICENSE](LICENSE.md).
+
 ## Fork and Make Changes
 * Fork this [repo](https://github.com/svlabs/playbook)
 * Make your changes to any chapter.
@@ -10,9 +12,7 @@ Hello and thank you for considering contributing to this community maintained pl
 * Install [Gitbook](https://www.gitbook.com) and use `gitbook serve` to test your changes locally.
 
 ## Submit a Pull Request
-* Submit a Pull Request on Github
-* In the Pull Request, clearly note that what you have submitted is original content or you have permission (under fair use or other usage) to use this content from a third-party source.
-* In the Pull Request, clearly note that you will license all content submitted under the same license as [LICENSE](LICENSE.md). If you submit multiple changes, you only need to do this once.
+* Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) on Github.
 
 ## Watch Pull Request to get Merged
 * Wait for comments and your content to get merged, thank you!
@@ -26,7 +26,7 @@ Hello and thank you for considering contributing to this community maintained pl
 * @avinashpatra [adding in a new chapter](https://github.com/svlabs/playbook/pull/2).
 
 # What should I contribute?
-Anything that you think will be useful for our learning platform intended for first-time founders. Look at TODO.md in the repo for pointers. If you're adding links to resources, please refrain from adding referral links or things like that.
+Anything that you think will be useful for our learning platform intended for first-time founders. Look at TODO.md in the repo for pointers. If you're adding links to resources, please refrain from adding referral links.
 
 # Usage
 This entire content is available to use under a very permissive Creative Commons License (see [LICENSE](LICENSE.md)).
