@@ -1,7 +1,7 @@
 {% include "_nav.md" %}
 
 # Contributing to this Playbook
-Hello and thank you for considering contributing to this community maintained playbook. 
+Hello and thank you for considering contributing to this community maintained playbook.
 
 ## Fork and Make Changes
 * Fork this [repo](https://github.com/svlabs/playbook)
@@ -26,7 +26,7 @@ Hello and thank you for considering contributing to this community maintained pl
 * @avinashpatra [adding in a new chapter](https://github.com/svlabs/playbook/pull/2).
 
 # What should I contribute?
-Anything that you think will be useful for our learning platform intended for first-time founders. Look at TODO.md in the repo for pointers.
+Anything that you think will be useful for our learning platform intended for first-time founders. Look at TODO.md in the repo for pointers. If you're adding links to resources, please refrain from adding referral links or things like that.
 
 # Usage
 This entire content is available to use under a very permissive Creative Commons License (see [LICENSE](LICENSE.md)).
