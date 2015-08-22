@@ -6,3 +6,4 @@
 * Jofin Joseph, http://profoundis.com/
 * Sathya Kalayanasundaram, http://mobme.in/
 * Avinash Patra, https://github.com/avinashpatra
+* Mohammed Irfan, https://github.com/Power-Inside
