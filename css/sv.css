@@ -14,3 +14,7 @@ iframe.slack {
   height: 400px;
   margin-left: -50px;
 }
+
+.book-header h1 a {
+  display: none; 
+}
