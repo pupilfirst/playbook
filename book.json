@@ -6,17 +6,13 @@
   "structure": {
     "readme": "0-introduction.md"
   },
-  "plugins": ["github", "sitemap", "anchors", "edit-link"],
+  "plugins": ["github", "sitemap", "anchors"],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/svlabs/playbook"
     },
     "sitemap": {
         "hostname": "http://playbook.sv.co/"
-    },
-    "edit-link": {
-        "base": "https://github.com/svlabs/playbook/edit/master",
-        "label": "Edit This Page"
     }
   },
   "styles": {
