@@ -8,7 +8,7 @@
 * [The Legal Agreement](2-legal-agreement.md)
 * [Verified Timelines](3-verified-timelines.md)
   * [Leaderboards](3.1-leaderboards.md)
-  * [Office Hours](3.2-office-hours.md)
+  * [Faculty Office Hours](3.2-office-hours.md)
 * [Startup Roles](4-startup-roles.md)
 * [Startup Stages](5-startup-stages.md)
     * [Idea Discovery](stages/5.1-idea-discovery.md)
