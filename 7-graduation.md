@@ -23,7 +23,7 @@ Just as a recap, at Startup Village, we give you six ways to successfully gradua
 
   You decide to build upon the skills you acquired by getting a formal degree.
   
-  The more further you are able to reach in the startup stages, the more choices you have for graduation. A startup which has reached the scaling stage has all many more options than a startup which never went past the prototyping stage. Your graduation outcome will correspond to efforts you have put in. 
+  The more further you are able to reach in the startup stages, the more choices you have for graduation. A startup which has reached the scaling stage has many more options than a startup which never went past the prototyping stage. This is becasue with each stage, you pick up more skills that are learned by doing the activities in that stage. Your graduation outcome will correspond to efforts you have put in. 
 
 Again: as a reminder, all of these are perfectly happy outcomes. You do not have to get a great exit to be good at startups. Use the skills your learnt from building startups *to do what you love to do*.
 
