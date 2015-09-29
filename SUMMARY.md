@@ -20,7 +20,6 @@
 * [Raising Investment](6-raising-investment.md)
    * [Termsheets](6.1-termsheets.md)
 * [Graduation](7-graduation.md)
-* [Perks](8-perks)
 * [Code of Conduct](9-code-of-conduct.md)
 * [Frequently Asked Questions](10-faq.md)
 * [Contributing to this Playbook](CONTRIBUTING.md)
