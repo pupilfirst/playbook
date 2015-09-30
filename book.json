@@ -5,13 +5,16 @@
   "structure": {
     "readme": "0-introduction.md"
   },
-  "plugins": ["github", "sitemap", "anchors"],
+  "plugins": ["github", "sitemap", "anchors", "addcssjs"],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/svlabs/playbook"
     },
     "sitemap": {
-        "hostname": "http://playbook.sv.co/"
+      "hostname": "http://playbook.sv.co/"
+    },
+    "addcssjs": {
+      "js": ["js/inspectlet.js"]
     }
   },
   "styles": {
