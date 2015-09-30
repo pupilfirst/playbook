@@ -19,9 +19,10 @@
 * [Raising Investment](6-raising-investment.md)
    * [Termsheets](6.1-termsheets.md)
 * [Graduation](7-graduation.md)
-* [Perks](8-perks.md) 
-  * [Federal Bank Savings Account](perks/8.1-federal-bank-savings-account.md)
-  * [Kerala SEP](perks/8.2-kerala-sep.md)
+* [Perks](8-perks.md)
+   * [Federal Bank Savings Account](perks/8.1-federal-bank-savings-account.md)
+   * [Kerala SEP](perks/8.2-kerala-sep.md)
+   * Federal Bank Zero Balance Current Account
 * [Code of Conduct](9-code-of-conduct.md)
 * [Frequently Asked Questions](10-faq.md)
 * [Contributing to this Playbook](CONTRIBUTING.md)
