@@ -63,3 +63,7 @@ Note: KYC documents could be one of the following - Passport/Aadhar Card/Driving
  
 •	Telephone / utility bill/license in the name of firm.  If any of the documents is in the name of the partners, address in the document should match with that of the firm.   
 
+## For Help
+
+Contact your SV.CO representative or write to help@sv.co
+
