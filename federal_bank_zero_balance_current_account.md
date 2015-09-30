@@ -19,13 +19,11 @@ By opening a separate current account in which business income and expenses are 
 .A current account in the name of the startup is an important factor in achieving professionalism while interacting with business acquaintances. A current account signifies the team’s seriousness in carrying out the business.
 
 **4. Ability to prove credit worthiness: **
-A current account with a reputed bank helps in easing processes like credit worthiness check by banks. 
+A current account with a reputed bank helps in easing processes like credit eligibility checks by banks. 
 
 **5. Overdraft facility: **
-Another important benefit of having a current account is that an organization can easily avail overdraft facilities when needed, meaning, the account holder can overdraw the balance in his account on a temporary basis, to plug the shortfall in funds. This is like a short-term borrowing, on which the bank may or may not levy interest.
+An organization with a current account can easily avail overdraft facilities when needed, meaning, the account holder can overdraw the balance in his account on a temporary basis, to plug the shortfall in funds. 
 
-**6. Ease in banking transactions: **
-A current account by its very nature offers added benefits like 24 hours phone banking, doorstep banking, Internet banking and mobile alert services which come inbuilt with the most account kits. Free inward remittances, deposits and withdrawals at any location, multi location transfer, periodical statements and personal relationship managers to cater to your requirements are other services offered. 
 
 
 ##Eligibility
@@ -41,12 +39,10 @@ Partnership Firms
 Private and Public Limited Companies
 
 
-
-The team may directly approach any nearby Federal Bank branch and request the opening of a current account. 
-
-***Important:*** The team should carry copies and originals of all the documents mentioned and also 3 passport size photographs each for every co founder.
-
 ## Documents Checklist
+
+***Important:*** The team should carry copies and originals of all the documents mentioned and also 3 passport size photographs each for every co founder.The team may directly approach any nearby Federal Bank branch and request the opening of a current account. 
+
 
 To open a Zero Balance Current Account with Federal Bank, the startup should ensure the following documents are in order:
 
