@@ -22,7 +22,7 @@
 * [Perks](8-perks.md)
    * [Federal Bank Savings Account](perks/8.1-federal-bank-savings-account.md)
    * [Kerala SEP](perks/8.2-kerala-sep.md)
-   * Federal Bank Zero Balance Current Account
+   * [Federal Bank Zero Balance Current Account](federal_bank_zero_balance_current_account.md)
 * [Code of Conduct](9-code-of-conduct.md)
 * [Frequently Asked Questions](10-faq.md)
 * [Contributing to this Playbook](CONTRIBUTING.md)
