@@ -2,12 +2,12 @@
 #Federal Bank Current Account
 
 
-##What is a current Account?
+##What is a Current Account?
 In banking terminology, the term Current Account refers to a type of deposit account made with a financial institution that permits the withdrawal of funds and allows checks to be written against the balance.
 
 In the retail market, a Current Account is a relatively safe investment when opened with an insured and regulated financial institution like a bank, building society, savings and loan corporation, or credit union. Most current accounts do not pay interest on the funds deposited in them since they can be withdrawn at any time without advance notice or penalty.
 
-##Why should your startup open a Current Account pronto?
+##Why Your Startup Should Have One?
 
 **1.	Merchant Account with a Payment Gateway**
 A current account is one of the most basic requirements for signing up for a merchant account with a payment gateway.
@@ -46,18 +46,23 @@ Private and Public Limited Companies
 
 To open a Zero Balance Current Account with Federal Bank, the startup should ensure the following documents are in order:
 
-•	Permanent Account Number (PAN) Card in the name of the startup. 
-(For details on how to apply a PAN card for the partnership firm you may check out - http://goo.gl/vUXLpx)
+* 
+Permanent Account Number (PAN) Card in the name of the startup. 
+(The detailed process is explained [here](http://goo.gl/vUXLpx))
  
-•	KYC (Know Your Customer) documents of all authorized partners and beneficial owner including individual PAN card. 
+* 
+KYC (Know Your Customer) documents of all authorized partners and beneficial owner including individual PAN card. 
 
 Note: KYC documents could be one of the following - Passport/Aadhar Card/Driving License/Voters Identity Card
  
-•	Copy of partnership deed signed by the co founders. 
+* 
+Copy of partnership deed signed by the co founders. 
  
-•	Partnership letter in the latest prescribed format - C231 (https://goo.gl/SMBi6i) signed by all the partners in their individual capacity. 
+* 
+Partnership letter in the latest  [prescribed format - C231](https://goo.gl/SMBi6i)signed by all the partners in their individual capacity. 
  
-•	Telephone / utility bill/license in the name of firm.  If any of the documents is in the name of the partners, address in the document should match with that of the firm.   
+* 
+Telephone / utility bill/license in the name of firm.  If any of the documents is in the name of the partners, address in the document should match with that of the firm.   
 
 ## For Help
 
