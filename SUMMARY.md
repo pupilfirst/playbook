@@ -20,7 +20,7 @@
    * [Termsheets](6.1-termsheets.md)
 * [Graduation](7-graduation.md)
 * [Perks](8-perks.md)
-   * [Federal Bank Zero Balance Current Account](federal_bank_zero_balance_current_account.md)
+   * [Federal Bank Current Account](federal-bank-current-account.md)
    * [Federal Bank Savings Account](perks/8.1-federal-bank-savings-account.md)
    * [Kerala SEP](perks/8.2-kerala-sep.md)
 * [Code of Conduct](9-code-of-conduct.md)
