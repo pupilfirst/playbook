@@ -1,5 +1,5 @@
 
-#Federal Bank Zero Balance Current Account
+#Federal Bank Current Account
 
 
 ##What is a current Account?
