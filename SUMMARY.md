@@ -20,7 +20,7 @@
    * [Termsheets](6.1-termsheets.md)
 * [Graduation](7-graduation.md)
 * [Perks](8-perks.md)
-   * [Federal Bank Current Account](federal-bank-current-account.md)
+   * [Federal Bank Current Account](perks/federal-bank-current-account.md)
    * [Federal Bank Savings Account](perks/8.1-federal-bank-savings-account.md)
    * [Kerala SEP](perks/8.2-kerala-sep.md)
    * [HDFC Current Account](perks/hdfc-current-account.md)
