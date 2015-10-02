@@ -56,7 +56,7 @@ This additional agreement is with *a legal partnership firm* that founders have 
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/kJt4PsLG26RROe" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-Note: we have a [version of the agreement for founders who choose to register other corporate legal entities](http://www.slideshare.net/svlabs/physical-incubation-services-agreement-corporate) (like a Pvt. Ltd or an LLP) that you can sign instead. But we **strongly recommend** you start with a partnership firm if you are a first-time founder[^1].
+Note: we have a [version of the agreement for founders who choose to register other corporate legal entities](http://www.slideshare.net/svlabs/physical-incubation-services-agreement-corporate) (like a Pvt. Ltd or an LLP) that you can sign instead. But we **strongly recommend** you start with a partnership firm if you are a first-time founder[^2].
 
 ## Signing the Agreement
 
@@ -64,9 +64,14 @@ Once you read and understand these agreements, write to help@sv.co or ping your 
 
 All founders have to be physically present to sign agreements.
 
+## Fee
+
+Fee = (Number of Founders * 100) + 100 + 5000[^3] 
+
 ## Next Steps
 Once you sign legal agreements, you are part of the SV.CO program. Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md).
 
 ---
 [^1]: Note, *Promoter* is just a legal term equivalent to Founder.
 [^2]: Why? Because Partnerships are far easier to wind down, and you don't have to tackle the complex topic of equity distribution (Who owns how much?) when you start.
+[^3]: All these are actual costs. One agreement with each founder, one agreement with the Partnership & the actual Partnership itself. Partnerships have to be signed on ₹5000 stamp-papers, others are signed on ₹100 ones.
