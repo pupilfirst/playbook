@@ -62,7 +62,7 @@ Note: we have a [version of the agreement for founders who choose to register ot
 
 Once you read and understand these agreements, write to help@sv.co or ping your SV.CO representative [on the Public Slack forum](1.2-slack.md) to arrange a date to visit Startup Village and sign these agreements.
 
-All founders have to be physically present to sign agreements.
+All founders have to be present at Startup Village premises to sign agreements & should carry a valid Photo ID Proof.
 
 ## Fee
 
