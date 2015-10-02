@@ -234,7 +234,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 <cite id="q4-5"></cite>
 5. If I get hired through SV.CO, for how long do I have to pay 10% of my annual salary?
 
-   This is described in Clause 2.1 of [Legal Agreement with Founders](http://www.slideshare.net/svlabs/service-agreement-with-promoters)
+   This is described in Clause 2.1 of [Legal Agreement with Founders](http://www.slideshare.net/svlabs/service-agreement-with-promoters).
    
    For the first year only. We realize this is ambiguous in the current agreement & we commit to revising this clause in a future version.
 
