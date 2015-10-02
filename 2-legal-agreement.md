@@ -65,7 +65,7 @@ Once you read and understand these agreements, write to help@sv.co or ping your 
 All founders have to be physically present to sign agreements.
 
 ## Next Steps
-Once you sign the legal agreement, you are part of the SV.CO program. Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md).
+Once you sign legal agreements, you are part of the SV.CO program. Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md).
 
 ---
 [^1]: Note, *Promoter* is just a legal term equivalent to Founder.
