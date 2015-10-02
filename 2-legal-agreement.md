@@ -28,23 +28,21 @@ A note on the perks and rewards policy: we strongly believe that Startup Village
 
 ## Legal Agreements
 
-There is one agreement that every founder has to sign:
+There are two agreements that every founder has to sign:
 
 * **Service Agreement with Founders**
 
    This is an agreement signed with the Founders of the startup that enforces the job referral and acqui-hire scenarios. This agreement is always signed with the startup founders.
- 
-Then, founders sign one of these two agreements depending on whether they have a registered legal entity or not: 
   
-* **Incubation: For Registered Entities**
+* **Legal Agreement with Partnership**
 
-   This additional agreement is with founders who already have registered entities (like a partnership or a private limited). We **strongly recommend** that you sign this agreement.
+   This additional agreement is with *a legal partnership firm* that founders have registered.
    
-* **Incubation: For Founders**
+   Note: this requires founders to register a partnership. [We have a template Partnership Deed](http://www.slideshare.net/svlabs/startup-partnership-deed) available. This is not a very complex process: your SV.CO representative can help you start a partnership.
+   
+The agreements have added conditions regarding payment schedule for physical services, if for example, the startup chooses to use any of the physical space or resources available at our Kochi, Vizag or Kozhikode physical locations. 
 
-   This is the same agreement as above but for founders who do not have a registered legal entity.
-   
-The agreements for incubation have added conditions regarding payment schedule for physical services, if for example, the startup chooses to use any of the physical space or resources available at our Kochi, Vizag or Kozhikode physical locations. All agreements have a validity of 5 years.
+**All agreements have a validity of 5 years.**
 
 ### Service Agreement with Founders
 
@@ -52,19 +50,13 @@ This is an agreement that is signed with each Founder[^1]:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/LbIal53MoA0g3O" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-### Legal Agreement for Registered Entities
+### Legal Agreement with Partnership
 
-If you already have a registered legal entity (as a Partnership or Private Ltd. for example), then this version of the agreement applies:
-
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/gyQYJn3Gd33Zb9" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-### Legal Agreement for Founders
-
-Note, we **strongly recommend** that you sign agreements as a Legal Entity. We recommend you start as a Partnership, and [we have a template Partnership Deed](http://www.slideshare.net/svlabs/startup-partnership-deed) available.
-
-If you do not already have a registered legal entity, then there's a different version of the agreement:
+This additional agreement is with *a legal partnership firm* that founders have registered:
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/kJt4PsLG26RROe" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+Note: we have a [version of the agreement for founders who choose to register other corporate legal entities](http://www.slideshare.net/svlabs/physical-incubation-services-agreement-corporate) (like a Pvt. Ltd or an LLP) that you can sign instead. But we **strongly recommend** you start with a partnership firm if you are a first-time founder[^1].
 
 ## Signing the Agreement
 
@@ -77,3 +69,4 @@ Once you sign the legal agreement, you are part of the SV.CO program. Read on to
 
 ---
 [^1]: Note, *Promoter* is just a legal term equivalent to Founder.
+[^2]: Why? Because Partnerships are far easier to wind down, and you don't have to tackle the complex topic of equity distribution (Who owns how much?) when you start.
