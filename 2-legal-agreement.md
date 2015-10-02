@@ -44,7 +44,7 @@ The agreements have added conditions regarding payment schedule for physical ser
 
 **All agreements have a validity of 5 years.**
 
-### Service Agreement with Founders
+### Legal Agreement with Founders
 
 This is an agreement that is signed with each Founder[^1]:
 

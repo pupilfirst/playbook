@@ -53,6 +53,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 2. [Why do I have to commit to Tag along, Drag along & Anti-Dilution rights in the Legal Agreement with Partnership?](#q4-2)
 3. [How do I notify you of any changes in my startup? Like I've pivoted, one of my co-founders have left, or I'm deciding to wind down my startup?](#q4-3)
 4. [Why do you have a term of 5 years for the legal agreement? Isn't that excessively long?](#q4-4)
+5. [If I get hired through SV.CO, for how long do I have to pay 10% of my annual salary?](#q4-5)
 
 ## General SV.CO Questions
 
@@ -230,6 +231,13 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
    From prior experience, it takes at least 5 years for a young founding team to achieve traction. We'd like to be invested in your success for the duration.
    
    Unlike other incubators or seed accelerators, we do not take equity up-front which results in a permanent commitment. Instead, we focus on adding value through a period of 5 years, & only accepting equity when you achieve a funding milestone.
+<cite id="q4-5"></cite>
+5. If I get hired through SV.CO, for how long do I have to pay 10% of my annual salary?
+
+   This is described in Clause 2.1 of [Legal Agreement with Founders](http://www.slideshare.net/svlabs/service-agreement-with-promoters)
+   
+   For the first year only. We realize this is ambiguous in the current agreement & we commit to revising this clause in a future version.
+
 
 ---
 [^1]: All questions are from the point of view of the founders.
