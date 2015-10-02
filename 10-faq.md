@@ -54,6 +54,7 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 3. [How do I notify you of any changes in my startup? Like I've pivoted, one of my co-founders have left, or I'm deciding to wind down my startup?](#q4-3)
 4. [Why do you have a term of 5 years for the legal agreement? Isn't that excessively long?](#q4-4)
 5. [If I get hired through SV.CO, for how long do I have to pay 10% of my annual salary?](#q4-5)
+6. [Do all founders have to sign agreements?](#q4-6)
 
 ## General SV.CO Questions
 
@@ -237,7 +238,10 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
    This is described in Clause 2.1 of [Legal Agreement with Founders](http://www.slideshare.net/svlabs/service-agreement-with-promoters).
    
    For the first year only. We realize this is ambiguous in the current agreement & we commit to revising this clause in a future version.
+<cite id="q4-6"></cite>
+6. Do all founders have to sign agreements?
 
+   Yes, all founders have to sign. And be present together at a Startup Village incubator location.
 
 ---
 [^1]: All questions are from the point of view of the founders.
