@@ -48,6 +48,12 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 5. [If I have back-papers am I eligible for this benefit?](#q3-5)
 6. [Will this benefit apply to supplementary or improvement papers?](#q3-6)
 
+### Legal Agreement Questions
+1. [If I sign the agreements & then quit the startup afterwards for some reason, will I have any liability?](#q4-1)
+2. [Why do I have to commit to Tag along, Drag along & Anti-Dilution rights in the Legal Agreement with Partnership?](#q4-2)
+3. [How do I notify you of any changes in my startup? Like I've pivoted, one of my co-founders have left, or I'm deciding to wind down my startup?](#q4-3)
+4. [Why do you have a term of 5 years for the legal agreement? Isn't that excessively long?](#q4-4)
+
 ## General SV.CO Questions
 
 <cite id="q1-1"><cite>
@@ -197,6 +203,33 @@ These questions are more relevant to the [Fintech Box](http://startupstudio.co.i
 6. Will this benefit apply to supplementary or improvement papers?
 
    Yes, once you receive this benefit, it will apply to any exams you might have in that particular semester, including improvements and supplementary exams. Obviously, this benefit wouldn't carry on to exams in other semesters. You need to apply individually for other semesters. [↵](#q-top)
+
+## Legal Agreement Questions
+
+<cite id="q4-1"></cite>   
+1. If I sign the agreements & then quit the startup afterwards for some reason, will I have any liability?
+
+   When you quit the startup, ask the remaining founders to [reconstitute the partnership](http://www.ncert.nic.in/ncerts/l/leac104.pdf) (PDF). After that, you will have no liability.
+<cite id="q4-2"></cite>
+2. Why do I have to commit to Tag along, Drag along & Anti-Dilution rights in the Legal Agreement with Partnership?
+
+   Described in Section 4.1 of the [Legal Agreement with Partnership](http://www.slideshare.net/svlabs/physical-incubation-services-agreement-noncorporate), these clauses are intended to protect SV.CO's investment in your startup in the event that we choose to exercise our right to co-invest in your startup funding round.
+   
+   If we choose not to participate in the funding round, these clauses will not have any effect.
+   
+   It is our understanding that these clauses are a standard part of any shareholder's agreement your company will have with potential investors. We expect that you will sign similar agreements with all of your investors. See [this article](http://siliconhillslawyer.com/2014/07/01/startup-accelerators-legal-terms/) for an explanation of what these terms mean.
+<cite id="q4-3"></cite>
+3. How do I notify you of any changes in my startup? Like I've pivoted, one of my co-founders have left, or I'm deciding to wind down my startup?
+ 
+   These responsibilities are described in clauses 4.11 through 4.15 of the [Legal Agreement with Partnership](http://www.slideshare.net/svlabs/physical-incubation-services-agreement-noncorporate). 
+   
+   Ideally, you will notify us through your [Verified Timeline](3-verified-timelines.md), which is intended for this purpose. If that is not possible for some reason, write to help@sv.co.
+<cite id="q4-4"></cite>
+4. Why do you have a term of 5 years for the legal agreement? Isn't that excessively long?
+
+   From prior experience, it takes at least 5 years for a young founding team to achieve traction. We'd like to be invested in your success for the duration.
+   
+   Unlike other incubators or seed accelerators, we do not take equity up-front which results in a permanent commitment. Instead, we focus on adding value through a period of 5 years, & only accepting equity when you achieve a funding milestone.
 
 ---
 [^1]: All questions are from the point of view of the founders.
