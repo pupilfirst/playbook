@@ -23,7 +23,7 @@
    * [Federal Bank Current Account](perks/8.1-federal-bank-current-accountmd.md)
    * [Federal Bank Savings Account](perks/8.2-federal-bank-savings-account.md)
    * [Kerala SEP](perks/8.3-kerala-sep.md)
-   * [HDFC Current Account](perks/8.4-hdfc-current-account.md)
+   * [HDFC Current Account](perks/8.4-hdfc-current-accountmd.md)
 * [Code of Conduct](9-code-of-conduct.md)
 * [Frequently Asked Questions](10-faq.md)
 * [Contributing to this Playbook](CONTRIBUTING.md)
