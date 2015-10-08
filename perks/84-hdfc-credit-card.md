@@ -33,4 +33,6 @@ The current account offered by HDFC is not Zero Balance. An amount of INR 10,000
 
 Startups may vary the amount of the Fixed Deposit depending upon the limit of the Credit Card they require.
 
+## For Help
 
+Contact your SV.CO representative or write to help@sv.co
