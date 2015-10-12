@@ -2,7 +2,13 @@
 
 # Perks
 
-WIP!
+Perks are general benefits that all founders receive when they sign up for SV.CO. The list below is non-exhaustive & WIP. We're slowly working to add more information.
+
+Some general notes about Perks:
+
+* Most Perks are offered by our Partners, and not directly by SV.CO. We aim to be a learning platform, and to do that well, we focus on our core expertise. Startups however require more help, access to tools, and other facilities. To help our startups, we have tied up with Partners who offer these (at times exclusive) benefits. However, we cannot also guarantee a level of service. Partners reserve the right to reject their services to any startup for any reason. While we'll help when possible, **none of these Perks are guaranteed**.
+* A corollary is that **all of these Perks are optional**. You don't have to avail any of these benefits if you think a better fit is another service provider. In fact, when possible, we ourselves will partner with as many service providers as possible.
+* Each Perk has a "For Help" section that has details on who to contact in case you run into trouble.
 
 * [Federal Bank Current Account](perks/8.1-federal-bank-current-account)
 * [Federal Bank Savings Account](perks/8.2-federal-bank-savings-account.md)
