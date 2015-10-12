@@ -5,7 +5,7 @@
   "structure": {
     "readme": "0-introduction.md"
   },
-  "plugins": ["github", "sitemap", "addcssjs"],
+  "plugins": ["github", "addcssjs"],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/svlabs/playbook"
