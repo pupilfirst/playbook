@@ -7,7 +7,7 @@ These are questions startups & founders[^1] ask us often about SV.CO. We decided
 * [General SV.CO Questions](faq/10.1-general.md)
 * [Fintech Batch Questions](faq/10.2-fintech-batch.md)
 * [Student Entrepreneurship Policy Questions](faq/10.3-sep.md)
-* [Legal Agreement Questions](faq/10.4-legal-agreement.md)
+* [Legal Agreement Questions](faq/10.4-legal.md)
 
 
 ---
