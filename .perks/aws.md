@@ -15,7 +15,7 @@ Free access to web-based and **instructor-led training** (normally ~$600/course)
 * 
 A new **Startup Forum** for knowledge sharing among startups
 * 
-Special offers from other companies that help startups - initial partners include Opscode, AlertLogic and SOASTA with more coming soon.
+Special offers from other companies that help startups; initial partners include Opscode, AlertLogic and SOASTA with more coming soon.
 
 ##Application Process
 
