@@ -35,7 +35,9 @@ Once you have completed the application process mail to help@sv.co with a screen
 
 * Each sv.co startup is entitled to only 1 AWS Credit package during their lifetime in the incubator. This is to ensure that more startups are able to avail these offers during their initial years. Mature startups can afford to pay for these services.  
 
+## For Help
 
+Contact your SV.CO representative or write to help@sv.co
 
 
 
