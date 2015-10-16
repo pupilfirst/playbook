@@ -25,12 +25,13 @@
    * [Federal Bank Savings Account](perks/8.2-federal-bank-savings-account.md)
    * [Kerala SEP](perks/8.3-kerala-sep.md)
    * [HDFC Credit Card](perks/8.4-hdfc-credit-card.md)
+   * aws
 * [Code of Conduct](9-code-of-conduct.md)
 * [Frequently Asked Questions](10-faq.md)
-  * [General SV.CO Questions](faq/10.1-general.md)
-  * [Fintech Batch Questions](faq/10.2-fintech-batch.md)
-  * [SEP Questions](faq/10.3-sep.md)
-  * [Legal Agreement Questions](faq/10.4-legal.md)
+   * [General SV.CO Questions](faq/10.1-general.md)
+   * [Fintech Batch Questions](faq/10.2-fintech-batch.md)
+   * [SEP Questions](faq/10.3-sep.md)
+   * [Legal Agreement Questions](faq/10.4-legal.md)
 * [Contributing to this Playbook](CONTRIBUTING.md)
 * [Licensed as CC-BY](LICENSE.md)
 
