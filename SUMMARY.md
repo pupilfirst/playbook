@@ -27,7 +27,7 @@
    * [HDFC Credit Card](perks/8.4-hdfc-credit-card.md)
    * [Amazon Web Services Credits](perks/8.5-aws.md)
    * [Virtual Office](perks/8.6-virtual-office.md)
-   * 8.7-fast-alerts
+   * [Fast Alerts – Bulk SMS Service](perks/8.7-fast-alerts)
 * [Code of Conduct](9-code-of-conduct.md)
 * [Frequently Asked Questions](10-faq.md)
    * [General SV.CO Questions](faq/10.1-general.md)
