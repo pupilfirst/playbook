@@ -13,7 +13,7 @@ This chapter aims to assist you in making an informed decision on whether SV.CO 
  Sorry, our program is designed to cater to first time founders and a majority of our intake is from students who are still enrolled in college.
  
  
- **Q2.** **Have I completed reading the [Playbook](http://playbook.sv.co/)?**
+ **Q2.** **Have you completed reading the [Playbook](http://playbook.sv.co/)?**
  
  *If you answered "Yes"*
  
