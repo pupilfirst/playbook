@@ -1,6 +1,6 @@
 # Decision Tree
 
-This chapter aims to assist you in making an informed decision on whether SV.CO is a right fit for you and your team.This exercise would be fruitful only if you answer each of the following questions honestly.
+This chapter aims to assist you in making an informed decision on whether SV.CO is a right fit for you and your team.This exercise would be fruitful only if you answer each of the following questions with utmost honesty.
 
 **Q1.** **Are you a first time founder?**
 
