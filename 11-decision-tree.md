@@ -2,7 +2,7 @@
 
 This chapter aims to assist you in making an informed decision on whether SV.CO is a right fit for you and your team.This exercise would be fruitful only if you answer each of the following questions honestly.
 
-**Q1.** Are you a first time founder?
+**Q1.** **Are you a first time founder?**
 
  *If you answered "Yes"*
  
@@ -13,7 +13,7 @@ This chapter aims to assist you in making an informed decision on whether SV.CO 
  Sorry, our program is designed to cater to first time founders and a majority of our intake is from students who are still enrolled in college.
  
  
- **Q2.** Have I completed reading the [Playbook](http://playbook.sv.co/)?
+ **Q2.** **Have I completed reading the [Playbook](http://playbook.sv.co/)?**
  
  *If you answered "Yes"*
  
@@ -23,7 +23,7 @@ This chapter aims to assist you in making an informed decision on whether SV.CO 
  
  Since you are a first time founder, the Playbook would be a great read for you. Also in order to truly understand what the program is all about it is essential you read the Playbook thoroughly. The next set of questions would be meaningless without completing this activity.
  
- **Q3.** Do you understand the benefits you receive when you join SV.CO?
+ **Q3.** **Do you understand the benefits you receive when you join SV.CO?**
  
  *If you answered "Yes"*
  
@@ -34,7 +34,7 @@ This chapter aims to assist you in making an informed decision on whether SV.CO 
  Please clear out all doubts you have. You can get in touch with us at help@sv.co. You should only be joining if you think what SV.CO has to offer is a right fit for you. You could also go through our Playbook again. (Concentrate on chapters [1](http://playbook.sv.co/1-partnership.html),[3](http://playbook.sv.co/3-verified-timelines.html),[7](http://playbook.sv.co/7-graduation.html) and [8](http://playbook.sv.co/8-perks.html))
  
  
-  **Q4.** Have you understood all commitments the startup team will have towards SV.CO depending upon its success?
+  **Q4.** **Have you understood all commitments the startup team will have towards SV.CO depending upon its success?**
   
   *If you answered "Yes"*
   
@@ -44,7 +44,7 @@ This chapter aims to assist you in making an informed decision on whether SV.CO 
  
  We urge you to go through the [legal agreements](http://playbook.sv.co/2-legal-agreement.html) again and consult with any subject matter experts for gaining insights on the clauses. You can also write to help@sv.co.
 
-**Q5.** Are you a fast learner and interested about technology and startups?
+**Q5.** **Are you a fast learner and interested about technology and startups?**
  
  *If you answered "Yes"*
  
@@ -54,7 +54,7 @@ This chapter aims to assist you in making an informed decision on whether SV.CO 
  
  If you feel you can not handle a hectic schedule you should reconsider your and/or technology is not your cup of tea you SV.CO is not the apt platform for you.
  
- **Q6.** Is running a startup sustainably your only aim?
+ **Q6.** **Is running a startup sustainably your only aim?**
  
  *If you answered "Yes"*
  
