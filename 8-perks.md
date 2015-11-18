@@ -14,4 +14,6 @@ Some general notes about Perks:
 * [Federal Bank Savings Account](perks/8.2-federal-bank-savings-account.md)
 * [Kerala Student Entrepreneurship Policy](perks/8.3-kerala-sep.md)
 * [HDFC Credit Card](perks/8.4-hdfc-credit-card)
-* 
+* [Amazon Web Services Credits](perks/8.5-aws.md)
+* [Virtual Office](perks/8.6-virtual-office.md)
+* [Fast Alerts – Bulk SMS Service](perks/8.7-fast-alerts.md) 
