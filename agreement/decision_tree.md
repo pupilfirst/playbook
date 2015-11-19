@@ -20,7 +20,7 @@ That’s good work. This is important for you to answer the questions that follo
 
 *If you answered "No"*
 
-Since you are a first time founder, the Playbook would be a great read for you. Also in order to truly understand what the program is all about it is essential you read the Playbook thoroughly. The next set of questions would be meaningless without completing this activity. Here you go: playbook.sv.co
+Since you are a first time founder, the Playbook would be a great read for you. Also in order to truly understand what the program is all about it is essential you read the Playbook thoroughly. The next set of questions would be meaningless without completing this activity. 
 
 **Q3. Do you understand the benefits you receive when you join SV.CO?**
 
