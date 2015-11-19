@@ -6,6 +6,7 @@
    * [Public Slack Channel](1.2-slack.md)
 * [The Legal Agreement](2-legal-agreement.md)
    * [Addenda](agreement/2.1-addenda.md)
+   * Decision Tree
 * [Verified Timelines](3-verified-timelines.md)
    * [Leaderboards](3.1-leaderboards.md)
    * [Faculty Office Hours](3.2-office-hours.md)
