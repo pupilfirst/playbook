@@ -51,7 +51,7 @@ That’s good news. The entrepreneurial journey is marked with steep learning cu
 
 *If you answered "No"*
 
-If you feel you can not handle a hectic schedule you and/or technology is not your cup of tea, SV.CO is not the apt platform for you.
+If you feel you can not handle a hectic schedule  and/or technology is not your cup of tea, SV.CO is not the apt platform for you.
 
 **Q6. Is running a startup sustainably your only aim?**
 
