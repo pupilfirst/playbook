@@ -35,7 +35,6 @@
    * [SEP Questions](faq/10.3-sep.md)
    * [Legal Agreement Questions](faq/10.4-legal.md)
    * [Marketing & Sales Questions](faq/10.5-marketing-sales.md)
-* [Decision Tree](11-decision-tree.md) 
 * [Contributing to this Playbook](CONTRIBUTING.md)
 * [Licensed as CC-BY](LICENSE.md)
 
