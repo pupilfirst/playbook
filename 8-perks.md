@@ -10,6 +10,7 @@ Some general notes about Perks:
 * A corollary is that **all of these Perks are optional**. You don't have to avail any of these benefits if you think a better fit is another service provider. In fact, when possible, we ourselves will partner with as many service providers as possible.
 * Each Perk has a "For Help" section that has details on who to contact in case you run into trouble.
 
+These are the list of perks (in no particular order):
 
 * [Federal Bank Current Account](perks/8.1-federal-bank-current-account) 
 * [Federal Bank Savings Account](perks/8.2-federal-bank-savings-account.md)
