@@ -12,7 +12,7 @@ Some general notes about Perks:
 
 These are the list of perks (in no particular order):
 
-* [Federal Bank Current Account](perks/8.1-federal-bank-current-account) 
+* [Federal Bank Current Account](perks/8.1-federal-bank-current-account.md) 
 * [Federal Bank Savings Account](perks/8.2-federal-bank-savings-account.md)
 * [Kerala Student Entrepreneurship Policy](perks/8.3-kerala-sep.md)
 * [HDFC Credit Card](perks/8.4-hdfc-credit-card)
