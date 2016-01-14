@@ -31,7 +31,7 @@ The optional success-based fee is where founders and startups pay only when SV.C
 
 All agreements have a validity of 5 years. This includes the six months where we provide you intensive help to complete a product-iteration cycle, and five years where we provide graduation support.
 
-A note on the perks and rewards policy: we strongly believe that Startup Village will only succeed as an organization if our reward and fee-structure is **aligned with your success**. Case in point: our success-based fee model for funded startups does not ask for equity beforehand: only when you approach a funding round, and even then after we put in money ourselves.
+A note on the fee structure: we strongly believe that Startup Village will only succeed as an organization if our fee-structure is **aligned with your success**. Case in point: our success-based fee model for funded startups does not ask for equity beforehand: only when you approach a funding round, and even then after we put in money ourselves.
 
 ## Legal Agreements
 
