@@ -57,14 +57,9 @@ All founders have to be present at Startup Village premises to sign agreements &
 
 ## Fee for Agreement Signing
 
-This is an actual fee to meet legal expenses
+Fee = ₹5100
 
-Fee = 100 + 5000[^3] 
+All these are actual costs. One agreement with the all Founders & the actual Partnership itself. Partnerships have to be signed on a ₹5000 stamp-paper, the other agreement is signed on a ₹100 one.
 
 ## Next Steps
 Once you sign legal agreements, you are part of the SV.CO program. Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md).
-
----
-[^1]: Note, *Promoter* is just a legal term equivalent to Founder.
-[^2]: Why? Because Partnerships are far easier to wind down, and you don't have to tackle the complex topic of equity distribution (Who owns how much?) when you start.
-[^3]: All these are actual costs. One agreement with the all Founders & the actual Partnership itself. Partnerships have to be signed on ₹5000 stamp-papers, the other agreement is signed on ₹100 ones.
