@@ -57,7 +57,7 @@ All founders have to be present at Startup Village premises to sign agreements &
 
 ## Fee for Agreement Signing
 
-This is an actual fee to meet legal expenses
+This is an actual fee to meet legal expenses.
 
 Fee = 100 + 5000[^3] 
 
