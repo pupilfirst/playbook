@@ -31,7 +31,7 @@ The optional success-based fee is where founders and startups pay only when SV.C
 
 All agreements have a validity of 5 years. This includes the six months where we provide you intensive help to complete a product-iteration cycle, and five years where we provide graduation support.
 
-A note on the fee structure: we strongly believe that Startup Village will only succeed as an organization if our fee-structure is **aligned with your success**. Case in point: our success-based fee model for funded startups does not ask for equity beforehand: only when you approach a funding round, and even then after we put in money ourselves.
+A note on the perks and rewards policy: we strongly believe that Startup Village will only succeed as an organization if our reward and fee-structure is **aligned with your success**. Case in point: our success-based fee model for funded startups does not ask for equity beforehand: only when you approach a funding round, and even then after we put in money ourselves.
 
 ## Legal Agreements
 
@@ -47,7 +47,7 @@ There is one agreement that every founder has to sign with SV.CO:
 
 This agreement is to be signed by all founders of the startup:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/kat0C6o712Q2MC" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/CU9NnuOXbBghAb" width="479" height="511" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 ## Signing the Agreement
 
@@ -57,7 +57,7 @@ All founders have to be present at Startup Village premises to sign agreements &
 
 ## Fee for Agreement Signing
 
-This is an actual fee to meet legal expenses.
+This is an actual fee to meet legal expenses
 
 Fee = 100 + 5000[^3] 
 
