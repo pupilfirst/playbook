@@ -55,11 +55,6 @@ Once you read and understand these agreements, write to help@sv.co or ping your 
 
 All founders have to be present at Startup Village premises to sign agreements & should carry a valid Photo ID Proof.
 
-## Fee for Agreement Signing
-
-Fee = ₹5100
-
-All these are actual costs. One agreement with the all Founders & the actual Partnership itself. Partnerships have to be signed on a ₹5000 stamp-paper, the other agreement is signed on a ₹100 one.
 
 ## Next Steps
 Once you sign legal agreements, you are part of the SV.CO program. Read on to learn about one of the most important tools available to you: [Verified Timelines](3-verified-timelines.md).
