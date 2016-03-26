@@ -20,5 +20,6 @@ These are the list of perks (in no particular order):
 * [Fast Alerts – Bulk SMS Service](perks/8.7-fast-alerts.md)
 * [SV.CO Brand Usage](perks/8.8-brand-usage.md)
 * [.CO Domains](perks/8.9-co-domains.md)
+* [Vakilsearch.com](perks/8.10-vakilsearch.md)
 
 
