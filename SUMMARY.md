@@ -29,6 +29,7 @@
    * [Fast Alerts – Bulk SMS Service](perks/8.7-fast-alerts.md)
    * [SV.CO Brand Usage](perks/8.8-brand-usage.md)
    * [.CO Domains](perks/8.9-co-domains.md)
+   * vakilsearch.com for Partnership Deeds
 * [Code of Conduct](9-code-of-conduct.md)
 * [Frequently Asked Questions](10-faq.md)
    * [General SV.CO Questions](faq/10.1-general.md)
